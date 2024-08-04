@@ -1,9 +1,8 @@
-# This is the repository for SMS-LAB website @ HKUST-GZ
+### This is the repository for SMS-LAB website @ HKUST-GZ
 
 
-## Acknowledgment
+#### Acknowledgment
 
 
-## License
+#### License
 
-MIT
