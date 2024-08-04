@@ -1,0 +1,19 @@
+- name: Dr. Guobiao HU
+  photo: Prof. Hu.jpg
+  info: Principal Investigator
+  email: guobiaohu@hkust-gz.edu.cn
+  # github: https://github.com/
+  researchgate: https://www.researchgate.net/profile/Guobiao-Hu-2
+  scholar: https://scholar.google.com/citations?user=Peul9lcAAAAJ&hl=zh-CN&oi=ao
+  cv: cv/cv.pdf
+  # Change the items in "education" you have (up to 6)
+  education:
+    [
+      "08.2015-07.2019, Ph.D. in Mechanical Engineeringg, The University of Auckland",
+      "09.2012-07.2015, M.Sc in Mechanical Engineering, Southwest Jiaotong Universitys",
+      "09.2010-07.2012, Diplôme d'Ingénieur in General Engineering, École centrale de Paris",
+      "09.2008-07.2012, B.Ec. in Mechanical Engineering, Southwest Jiaotong University",
+    ]
+
+  # educationshort:
+

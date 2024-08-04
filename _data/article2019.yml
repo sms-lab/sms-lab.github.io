@@ -1,0 +1,153 @@
+- index: 14
+  published: 2019-12-04
+  authors:
+  - Hu, Guobiao
+  - Xu, Jiawen
+  - Tang, Lihua
+  - Lan, Chunbo
+  - Das, Raj
+  title: Tunable metamaterial beam using negative capacitor for local resonators coupling
+  journal: Journal of Intelligent Material Systems and Structures
+  volume: '31'
+  issue: '3'
+  pages: 389--407
+  doi: 10.1177/1045389X19891575
+  Doi: http://journals.sagepub.com/doi/10.1177/1045389X19891575
+  PDF: Hu et al_2020_Tunable metamaterial beam using negative capacitor for local
+    resonators coupling.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 13
+  published: 2019-11-15
+  authors:
+  - Wang, Junlei
+  - Hu, Guobiao
+  - Su, Zhen
+  - Li, Guoping
+  - Zhao, Wei
+  - Tang, Lihua
+  - Zhao, Liya
+  title: A cross-coupled dual-beam for multi-directional energy harvesting from vortex
+    induced vibrations
+  journal: Smart Materials and Structures
+  volume: '28'
+  issue: '12'
+  pages: 12LT02
+  doi: 10.1088/1361-665X/ab5249
+  Doi: https://iopscience.iop.org/article/10.1088/1361-665X/ab5249/meta
+  PDF: Wang et al_2019_A cross-coupled dual-beam for multi-directional energy harvesting
+    from vortex.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 12
+  published: 2019-10-01
+  authors:
+  - Hu, Guobiao
+  - Tang, Lihua
+  - Cui, Xiaobin
+  title: On the modelling of membrane-coupled Helmholtz resonator and its application
+    in acoustic metamaterial system
+  journal: Mechanical Systems and Signal Processing
+  volume: '132'
+  issue: Not available
+  pages: 595--608
+  doi: 10.1016/j.ymssp.2019.07.017
+  Doi: https://www.sciencedirect.com/science/article/pii/S0888327019304455
+  PDF: Hu et al_2019_On the modelling of membrane-coupled Helmholtz resonator and
+    its application in.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 11
+  published: 2019-06-04
+  authors:
+  - Hu, Guobiao
+  - Tang, Lihua
+  - Xu, Jiawen
+  - Lan, Chunbo
+  - Das, Raj
+  title: Metamaterial with local resonators coupled by negative stiffness springs
+    for enhanced vibration suppression
+  journal: Journal of Applied Mechanics
+  volume: '86'
+  issue: '8'
+  pages: 081009
+  doi: 10.1115/1.4043827
+  Doi: https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/86/8/081009/726074
+  PDF: Hu et al_2019_Metamaterial with local resonators coupled by negative stiffness
+    springs for.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 10
+  published: 2019-05-19
+  authors:
+  - Hu, Guobiao
+  - Tang, Lihua
+  - Liang, Junrui
+  - Das, Raj
+  title: Modelling of a cantilevered energy harvester with partial piezoelectric coverage
+    and shunted to practical interface circuits
+  journal: Journal of Intelligent Material Systems and Structures
+  volume: '30'
+  issue: '13'
+  pages: 1896--1912
+  doi: 10.1177/1045389X19849269
+  Doi: http://journals.sagepub.com/doi/10.1177/1045389X19849269
+  PDF: Hu et al_2019_Modelling of a cantilevered energy harvester with partial piezoelectric.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 9
+  published: 2019-03-20
+  authors:
+  - Lan, Chunbo
+  - Tang, Lihua
+  - Hu, Guobiao
+  - Qin, Weiyang
+  title: Dynamics and performance of a two degree-of-freedom galloping-based piezoelectric
+    energy harvester
+  journal: Smart Materials and Structures
+  volume: '28'
+  issue: '4'
+  pages: 045018
+  doi: 10.1088/1361-665X/ab0852
+  Doi: https://iopscience.iop.org/article/10.1088/1361-665X/ab0852/meta
+  PDF: Lan et al_2019_Dynamics and performance of a two degree-of-freedom galloping-based.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 8
+  published: 2019-02-10
+  authors:
+  - Jiang, Jingchao
+  - Hu, Guobiao
+  - Li, Xiao
+  - Xu, Xun
+  - Zheng, Pai
+  - Stringer, Jonathan
+  title: Analysis and prediction of printable bridge length in fused deposition modelling
+    based on back propagation neural network
+  journal: Virtual and Physical Prototyping
+  volume: '14'
+  issue: '3'
+  pages: 253--266
+  doi: 10.1080/17452759.2019.1576010
+  Doi: https://www.tandfonline.com/doi/full/10.1080/17452759.2019.1576010
+  PDF: Jiang et al_2019_Analysis and prediction of printable bridge length in fused
+    deposition.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 7
+  published: 2019-01-22
+  authors:
+  - Jiang, Jingchao
+  - Lou, Jingjun
+  - Hu, Guobiao
+  title: Effect of support on printed properties in fused deposition modelling processes
+  journal: Virtual and Physical Prototyping
+  volume: '14'
+  issue: '4'
+  pages: 308--315
+  doi: 10.1080/17452759.2019.1568835
+  Doi: https://www.tandfonline.com/doi/full/10.1080/17452759.2019.1568835
+  PDF: Jiang et al_2019_Effect of support on printed properties in fused deposition
+    modelling processes.pdf
+  Supplementary_Information: https://example.com/supplementary
+

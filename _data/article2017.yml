@@ -1,0 +1,38 @@
+- index: 3
+  published: 2017-02-24
+  authors:
+  - Hu, Guobiao
+  - Tang, Lihua
+  - Das, Raj
+  - Gao, Shiqiao
+  - Liu, Haipeng
+  title: Acoustic metamaterials with coupled local resonators for broadband vibration
+    suppression
+  journal: AIP} Advances
+  volume: '7'
+  issue: '2'
+  pages: Not available
+  doi: 10.1063/1.4977559
+  Doi: https://pubs.aip.org/aip/adv/article/7/2/025211/21903
+  PDF: Hu et al_2017_Acoustic metamaterials with coupled local resonators for broadband
+    vibration.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 2
+  published: 2017-01-01
+  authors:
+  - Hu, Guobiao
+  - Tang, Lihua
+  - Das, Raj
+  title: An impact-engaged two-degrees-of-freedom piezoelectric energy harvester for
+    wideband operation
+  journal: Procedia engineering
+  volume: '173'
+  issue: Not available
+  pages: 1463--1470
+  doi: 10.1016/j.proeng.2016.12.216
+  Doi: https://www.sciencedirect.com/science/article/pii/S1877705816346173
+  PDF: Hu et al_2017_An impact-engaged two-degrees-of-freedom piezoelectric energy
+    harvester for.pdf
+  Supplementary_Information: https://example.com/supplementary
+

@@ -1,0 +1,347 @@
+- index: 56
+  published: 2022-12-01
+  authors:
+  - Liu, Shiyi
+  - Li, Xin
+  - Teng, Li
+  - Hu, Guobiao
+  - Liang, Junrui
+  title: Energy and dynamic analysis of quasi-static toggling mechanical energy harvester
+  journal: Nano Energy
+  volume: '104'
+  issue: Not available
+  pages: '107887'
+  doi: 10.1016/j.nanoen.2022.107887
+  Doi: https://www.sciencedirect.com/science/article/pii/S2211285522009648
+  PDF: Liu et al_2022_Energy and dynamic analysis of quasi-static toggling mechanical
+    energy harvester.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 55
+  published: 2022-11-09
+  authors:
+  - Lu, De
+  - Li, Zhiqing
+  - Hu, Guobiao
+  - Zhou, Bo
+  - Yang, Yaowen
+  - Zhang, Guiyong
+  title: Two-degree-of-freedom piezoelectric energy harvesting from vortex-induced
+    vibration
+  journal: Micromachines
+  volume: '13'
+  issue: '11'
+  pages: '1936'
+  doi: 10.3390/mi13111936
+  Doi: https://www.mdpi.com/2072-666X/13/11/1936
+  PDF: Lu et al_2022_Two-degree-of-freedom piezoelectric energy harvesting from vortex-induced.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 54
+  published: 2022-10-07
+  authors:
+  - Wang, Junlei
+  - Wang, Yiqing
+  - Hu, Guobiao
+  title: Investigation of hybridized bluff bodies for flow-induced vibration energy
+    harvesting
+  journal: 'Journal of Physics D: Applied Physics'
+  volume: '55'
+  issue: '48'
+  pages: '484001'
+  doi: 10.1088/1361-6463/ac928e
+  Doi: https://iopscience.iop.org/article/10.1088/1361-6463/ac928e/meta
+  PDF: Wang et al_2022_Investigation of hybridized bluff bodies for flow-induced vibration
+    energy.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 53
+  published: 2022-10-01
+  authors:
+  - Yu, Dewen
+  - Yang, Yaowen
+  - Hu, Guobiao
+  - Zhou, Yifan
+  - Hong, Jun
+  title: Energy harvesting from thermally induced vibrations of antenna panels
+  journal: International Journal of Mechanical Sciences
+  volume: '231'
+  issue: Not available
+  pages: '107565'
+  doi: 10.1016/j.ijmecsci.2022.107565
+  Doi: https://www.sciencedirect.com/science/article/pii/S0020740322004581
+  PDF: Yu et al_2022_Energy harvesting from thermally induced vibrations of antenna
+    panels.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 52
+  published: 2022-09-01
+  authors:
+  - Zhao, Chaoyang
+  - Hu, Guobiao
+  - Yang, Yaowen
+  title: A cantilever-type vibro-impact triboelectric energy harvester for wind energy
+    harvesting
+  journal: Mechanical Systems and Signal Processing
+  volume: '177'
+  issue: Not available
+  pages: '109185'
+  doi: 10.1016/j.ymssp.2022.109185
+  Doi: https://www.sciencedirect.com/science/article/pii/S0888327022003429
+  PDF: Zhao et al_2022_A cantilever-type vibro-impact triboelectric energy harvester
+    for wind energy.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 51
+  published: 2022-08-01
+  authors:
+  - Wang, Junlei
+  - Zhang, Chengyun
+  - Hu, Guobiao
+  - Liu, Xiaowei
+  - Liu, Huadong
+  - Zhang, Zhien
+  - Das, Raj
+  title: Wake galloping energy harvesting in heat exchange systems under the influence
+    of ash deposition
+  journal: Energy
+  volume: '253'
+  issue: Not available
+  pages: '124175'
+  doi: 10.1016/j.energy.2022.124175
+  Doi: https://www.sciencedirect.com/science/article/pii/S0360544222010787
+  PDF: Wang et al_2022_Wake galloping energy harvesting in heat exchange systems under
+    the influence.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 50
+  published: 2022-07-01
+  authors:
+  - Wang, Junlei
+  - Gu, Shanghao
+  - Yurchenko, Daniil
+  - Hu, Guobiao
+  - Wei, Ronghan
+  title: On the investigation of ash deposition effect on flow-induced vibration energy
+    harvesting
+  journal: Mechanical Systems and Signal Processing
+  volume: '174'
+  issue: Not available
+  pages: '109092'
+  doi: 10.1016/j.ymssp.2022.109092
+  Doi: https://www.sciencedirect.com/science/article/pii/S0888327022002606
+  PDF: Wang et al_2022_On the investigation of ash deposition effect on flow-induced
+    vibration energy.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 49
+  published: 2022-06-20
+  authors:
+  - Jian, Yupei
+  - Tang, Lihua
+  - Hu, Guobiao
+  - Wang, Yuesheng
+  - Aw, Kean C.
+  title: Adaptive genetic algorithm enabled tailoring of piezoelectric metamaterials
+    for optimal vibration attenuation
+  journal: Smart Materials and Structures
+  volume: '31'
+  issue: '7'
+  pages: '075026'
+  doi: 10.1088/1361-665X/ac775d
+  Doi: https://iopscience.iop.org/article/10.1088/1361-665X/ac775d/meta
+  PDF: Jian et al_2022_Adaptive genetic algorithm enabled tailoring of piezoelectric
+    metamaterials for.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 48
+  published: 2022-06-01
+  authors:
+  - Li, Zhongjie
+  - Peng, Xuzhang
+  - Hu, Guobiao
+  - Peng, Yan
+  title: Theoretical, numerical, and experimental studies of a frequency up-conversion
+    piezoelectric energy harvester
+  journal: International Journal of Mechanical Sciences
+  volume: '223'
+  issue: Not available
+  pages: '107299'
+  doi: 10.1016/j.ijmecsci.2022.107299
+  Doi: https://www.sciencedirect.com/science/article/pii/S0020740322002144
+  PDF: Li et al_2022_Theoretical, numerical, and experimental studies of a frequency
+    up-conversion.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 47
+  published: 2022-04-01
+  authors:
+  - Hu, Guobiao
+  - Lan, Chunbo
+  - Tang, Lihua
+  - Zhou, Bo
+  - Yang, Yaowen
+  title: Dynamics and power limit analysis of a galloping piezoelectric energy harvester
+    under forced excitation
+  journal: Mechanical Systems and Signal Processing
+  volume: '168'
+  issue: Not available
+  pages: '108724'
+  doi: 10.1016/j.ymssp.2021.108724
+  Doi: https://www.sciencedirect.com/science/article/pii/S0888327021010426
+  PDF: Hu et al_2022_Dynamics and power limit analysis of a galloping piezoelectric
+    energy harvester.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 46
+  published: 2022-04-01
+  authors:
+  - Hu, Guobiao
+  - Lan, Chunbo
+  - Tang, Lihua
+  - Yang, Yaowen
+  title: Deep-subwavelength interface states in mechanical systems
+  journal: Mechanical Systems and Signal Processing
+  volume: '169'
+  issue: Not available
+  pages: '108598'
+  doi: 10.1016/j.ymssp.2021.108598
+  Doi: https://www.sciencedirect.com/science/article/pii/S0888327021009298
+  PDF: Hu et al_2022_Deep-subwavelength interface states in mechanical systems.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 45
+  published: 2022-04-01
+  authors:
+  - Li, Zhongjie
+  - Peng, Xuzhang
+  - Hu, Guobiao
+  - Zhang, Dong
+  - Xu, Zhibing
+  - Peng, Yan
+  - Xie, Shaorong
+  title: Towards real-time self-powered sensing with ample redundant charges by a
+    piezostack-based frequency-converted generator from human motions
+  journal: Energy conversion and management
+  volume: '258'
+  issue: Not available
+  pages: '115466'
+  doi: 10.1016/j.enconman.2022.115466
+  Doi: https://www.sciencedirect.com/science/article/pii/S019689042200262X
+  PDF: Li et al_2022_Towards real-time self-powered sensing with ample redundant charges
+    by a.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 44
+  published: 2022-03-21
+  authors:
+  - Li, Xin
+  - Hu, Guobiao
+  - Guo, Zhenkun
+  - Wang, Junlei
+  - Yang, Yaowen
+  - Liang, Junrui
+  title: 'Frequency up-conversion for vibration energy harvesting: A review'
+  journal: Symmetry
+  volume: '14'
+  issue: '3'
+  pages: '631'
+  doi: 10.3390/sym14030631
+  Doi: https://www.mdpi.com/2073-8994/14/3/631
+  PDF: Li et al_2022_Frequency up-conversion for vibration energy harvesting.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 43
+  published: 2022-03-01
+  authors:
+  - Li, Xin
+  - Tang, Hong
+  - Hu, Guobiao
+  - Zhao, Bao
+  - Liang, Junrui
+  title: 'ViPSN}-pluck: A transient-motion-powered motion detector'
+  journal: IEEE} Internet of Things Journal
+  volume: '9'
+  issue: '5'
+  pages: 3372--3382
+  doi: 10.1109/JIOT.2021.3098238
+  Doi: https://ieeexplore.ieee.org/abstract/document/9490318/
+  PDF: Li et al_2021_ViPSN-pluck.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 42
+  published: 2022-03-01
+  authors:
+  - Jian, Yupei
+  - Tang, Lihua
+  - Hu, Guobiao
+  - Li, Zhaoyu
+  - Aw, Kean C.
+  title: Design of graded piezoelectric metamaterial beam with spatial variation of
+    electrodes
+  journal: International Journal of Mechanical Sciences
+  volume: '218'
+  issue: Not available
+  pages: '107068'
+  doi: 10.1016/j.ijmecsci.2022.107068
+  Doi: https://www.sciencedirect.com/science/article/pii/S0020740322000066
+  PDF: Jian et al_2022_Design of graded piezoelectric metamaterial beam with spatial
+    variation of.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 41
+  published: 2022-02-01
+  authors:
+  - Lan, Chunbo
+  - Liao, Yabin
+  - Hu, Guobiao
+  title: A unified equivalent circuit and impedance analysis method for galloping
+    piezoelectric energy harvesters
+  journal: Mechanical Systems and Signal Processing
+  volume: '165'
+  issue: Not available
+  pages: '108339'
+  doi: 10.1016/j.ymssp.2021.108339
+  Doi: https://www.sciencedirect.com/science/article/pii/S0888327021006968
+  PDF: Lan et al_2022_A unified equivalent circuit and impedance analysis method for
+    galloping.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 40
+  published: 2022-01-12
+  authors:
+  - Hu, Guobiao
+  - Lan, Chunbo
+  - Liang, Junrui
+  - Tang, Lihua
+  - Zhao, Liya
+  title: Theoretical Study of a Two-Degree-of-Freedom Piezoelectric Energy Harvester
+    under Concurrent Aeroelastic and Base Excitation
+  journal: Journal of Intelligent Material Systems and Structures
+  volume: '33'
+  issue: '15'
+  pages: 2000--2016
+  doi: 10.1177/1045389X211072520
+  Doi: http://journals.sagepub.com/doi/10.1177/1045389X211072520
+  PDF: Hu et al_2022_Theoretical Study of a Two-Degree-of-Freedom Piezoelectric Energy
+    Harvester.pdf
+  Supplementary_Information: https://example.com/supplementary
+
+- index: 39
+  published: 2022-01-01
+  authors:
+  - Hu, Guobiao
+  - Zhao, Chaoyang
+  - Yang, Yaowen
+  - Li, Xin
+  - Liang, Junrui
+  title: Triboelectric energy harvesting using an origami-inspired structure
+  journal: Applied Energy
+  volume: '306'
+  issue: Not available
+  pages: '118037'
+  doi: 10.1016/j.apenergy.2021.118037
+  Doi: https://www.sciencedirect.com/science/article/pii/S0306261921013325
+  PDF: Hu et al_2022_Triboelectric energy harvesting using an origami-inspired structure.pdf
+  Supplementary_Information: https://example.com/supplementary
+
