@@ -64,4 +64,4 @@ Publications: {% assign publications = member.publications | split: ", " %}
 </div>
 </div>
 {% endfor %}
-</div
+
