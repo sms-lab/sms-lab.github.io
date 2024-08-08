@@ -44,8 +44,8 @@ permalink: /publications/
     background-color: #4CAF50; /* 绿色 */
 }
 </style>
-
-#### Publications 2024
+### Journal Articles
+#### 2024
 
 {% assign sorted_articles = site.data.article2024 %}
 
@@ -65,7 +65,7 @@ permalink: /publications/
 </div>
 {% endfor %}
 
-#### Publications 2023
+#### 2023
 
 {% assign sorted_articles = site.data.article2023 %}
 
@@ -85,7 +85,7 @@ permalink: /publications/
 </div>
 {% endfor %}
 
-#### Publications 2022
+#### 2022
 
 {% assign sorted_articles = site.data.article2022 %}
 
@@ -105,7 +105,7 @@ permalink: /publications/
 </div>
 {% endfor %}
 
-#### Publications 2021
+#### 2021
 
 {% assign sorted_articles = site.data.article2021 %}
 
@@ -125,7 +125,7 @@ permalink: /publications/
 </div>
 {% endfor %}
 
-#### Publications 2020
+#### 2020
 
 {% assign sorted_articles = site.data.article2020 %}
 
@@ -145,7 +145,7 @@ permalink: /publications/
 </div>
 {% endfor %}
 
-#### Publications 2019
+#### 2019
 
 {% assign sorted_articles = site.data.article2019 %}
 
@@ -165,7 +165,7 @@ permalink: /publications/
 </div>
 {% endfor %}
 
-#### Publications 2018
+#### 2018
 
 {% assign sorted_articles = site.data.article2018 %}
 
@@ -185,7 +185,7 @@ permalink: /publications/
 </div>
 {% endfor %}
 
-#### Publications 2017
+#### 2017
 
 {% assign sorted_articles = site.data.article2017 %}
 
@@ -205,7 +205,7 @@ permalink: /publications/
 </div>
 {% endfor %}
 
-#### Publications 2016
+#### 2016
 
 {% assign sorted_articles = site.data.article2016 %}
 
