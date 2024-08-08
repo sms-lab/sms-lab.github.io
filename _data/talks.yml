@@ -1,4 +1,54 @@
-- index: 1
-  date: 22 August, 2023
+- index: 11
+  date: 2023-08-22
   title: "Energy Harvesting and Intelligent Sensing Technology"
   venue: "iCANX Youth Talk科学平台系列讲座"
+
+- index: 10
+  date: 2023-07-26
+  title: "Structural Dynamics for Vibration Suppression and/or Energy Harvesting"
+  venue: "Collaborative Innovation Center of Advanced Microstructures of Nanjing University"
+
+- index: 9
+  date: 2023-07-01
+  title: "基于自适应遗传算法设计的宽频减振压电超材料"
+  venue: "第30届全国振动与噪声高技术应用学术会议(NVTA2023)-西安"
+
+- index: 8
+  date: 2023-06-29
+  title: "Energy Harvesting Technology Towards Battery-free IoT"
+  venue: "Southwest Jiaotong University"
+
+- index: 7
+  date: 2023-06-29
+  title: "Energy Harvesting Technology Towards Battery-free IoT"
+  venue: "University of Electronic Science and Technology of China"
+
+- index: 6
+  date: 2023-04-15
+  title: "Metamaterial-based piezoelectric system for wind energy harvesting"
+  venue: "第四届振动与能量俘获及其应用国际会议（湘潭）"
+
+- index: 5
+  date: 2022-12-04
+  title: "两自由度驰振俘能器模态激发问题探讨"
+  venue: "西安电子科技大学广州研究院"
+
+- index: 4
+  date: 2022-10-11
+  title: "压电俘能器的理论建模数值仿真与实验验证"
+  venue: "大连海事大学"
+
+- index: 3
+  date: 2020-12-30
+  title: "Multifunctional Piezoelectric Metamaterials: Vibration Suppression and Energy Harvesting"
+  venue: "Nanjing University of Aeronautics and Astronautics"
+
+- index: 2
+  date: 2018-06-07
+  title: "Metamaterial Beam with Coupled Local Resonators for Enhancing Vibration Suppression and Energy Harvesting"
+  venue: "Beijing Institute of Technology"
+
+- index: 1
+  date: 2018-06-06
+  title: "Multi-functional Piezoelectric Metamaterial Systems"
+  venue: "Beijing Jiaotong University"
