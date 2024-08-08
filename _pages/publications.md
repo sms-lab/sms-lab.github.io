@@ -45,7 +45,7 @@ permalink: /publications/
 }
 </style>
 
-#### Publications 2024
+### 2024
 
 {% assign sorted_articles = site.data.article2024 %}
 
