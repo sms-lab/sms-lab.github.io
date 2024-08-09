@@ -25,7 +25,7 @@ permalink: /talks/
 <div class="jumbotron">
 ### Invited talks
 {% for talks in site.data.talks %}
-<h5>[{{talks.index}}]. {{ talks.date }}, <i>{{ talks.title }}</i> @ {{ talks.venue }}<br></h5>
+[{{talks.index}}]. {{ talks.date }}, <i>{{ talks.title }}</i> @ {{ talks.venue }}<br>
 {% endfor %}
 
 </div>
