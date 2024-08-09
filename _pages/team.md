@@ -9,22 +9,34 @@ permalink: /team/
 
 
 
-{% for member in site.data.pi %}
+
 
 <div class="jumbotron">
+{% for member in site.data.pi %}
 <div class="row">
 <div class="col-sm-2">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
 </div>
 <div class="col-sm-9 col-xs-12">
 <h5>{{ member.name }} (胡国标)</h5>
 <i>{{ member.info }}</i><br>
-Assistant professor, IoT Thrust, Information Hub
+Assistant Professor, IoT Thrust, Information Hub
 </div>
+</div>
+{% endfor %}
+
+<div class="row">
+<div class="col-sm-2">
+<img src="{{ site.url }}{{ site.baseurl }}/images/shiyi.jpg" width="100%" style="max-width:250px"/>
+</div>
+<div class="col-sm-9 col-xs-12">
+<h5>Shiyi (十一)</h5>
+<i>Team Mascot</i>
 </div>
 </div>
 
-{% endfor %}
+</div>
+
 
 ### Current Students and Postdocs
 
