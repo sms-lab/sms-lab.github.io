@@ -24,7 +24,7 @@ permalink: /about/
 <h4>{{ member.name }}</h4>
 <h4><i>{{ member.info }}</i></h4>
 <ul style="overflow: hidden; padding-left: 0">
-Dr. Hu has published more than 70 peer-reviewed technical papers in prestigious journals and international conferences, with 5 being ESI highly cited papers. He was a recipient of the Best Paper Finalist Award at the SPIE Conference on Smart Structures/NDE in 2018. He has filed 3 patents, including 1 Singapore patent and 2 Chinese patents. According to Google Scholar statistics in February 2024, his publications have received over 2400 citations with an H-index of 28. He is featured in the world's top 2% of Scientists List (2022) identified by Stanford University. He serves as reviewer for more than 40 SCI journals and guest editor for the Journal of Physics D: Applied Physics and ASCE Journal of Environmental Engineering.
+Dr. Hu has published more than 100 peer-reviewed technical papers in prestigious journals and international conferences, with 5 being ESI highly cited papers. He was a recipient of the Best Paper Finalist Award at the SPIE Conference on Smart Structures/NDE in 2018. He has filed 4 patents, including 1 Singapore patent and 3 Chinese patents. According to Google Scholar statistics in February 2024, his publications have received over 2900 citations with an H-index of 28. He is featured in the world's top 2% of Scientists List (2022) identified by Stanford University. He serves as reviewer for more than 60 SCI journals and guest editor for the Journal of Physics D: Applied Physics and ASCE Journal of Environmental Engineering.
 </ul>
 </div>
 </div>
@@ -90,19 +90,21 @@ Dr. Hu has published more than 70 peer-reviewed technical papers in prestigious 
 </div>
 {% endif %}
 
+<!--
 <div class="jumbotron">
-<h4>Collaborators</h4>
-<div style='display:flex; justify-content:center; flex-wrap:wrap;'>
-{% for collaborator in site.data.collaborators %}
-<div style='display: inline-block; margin: 10px; text-align: center;'>
-<a href="{{ collaborator.url }}" target="_blank">
-<img src='{{ site.url }}{{ site.baseurl }}/images/{{ collaborator.image }}' style='max-height: 120px; max-width: 200px;'/><br>
-<span>{{ collaborator.name }}</span><br>
-<span>PI: {{ collaborator.PI }}</span>
-</a>
+  <h4>Collaborators</h4>
+  <div style='display:flex; justify-content:center; flex-wrap:wrap;'>
+    {% for collaborator in site.data.collaborators %}
+    <div style='display: inline-block; margin: 10px; text-align: center;'>
+    <a href="{{ collaborator.url }}" target="_blank">
+    <img src='{{ site.url }}{{ site.baseurl }}/images/{{ collaborator.image }}' style='max-height: 120px; max-width: 200px;'/><br>
+    <span>{{ collaborator.name }}</span><br>
+    <span>PI: {{ collaborator.PI }}</span>
+    </a>
+    </div>
+    {% endfor %}
+  </div>
 </div>
-{% endfor %}
-</div>
-</div>
+--> 
 
 

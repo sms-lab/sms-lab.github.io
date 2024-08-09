@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
-# gem "jekyll", "3.10.0"
+gem "jekyll", "3.10.0" #Local #Command: bundle exec jekyll serve
 
 
-gem 'github-pages', '~> 232', group: :jekyll_plugins
+#gem 'github-pages', '~> 232', group: :jekyll_plugins #Web
 gem "rack", ">= 2.2.3"
 gem "kramdown-parser-gfm"
 # gem 'jekyll-scholar'
