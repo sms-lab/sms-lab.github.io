@@ -24,7 +24,7 @@ permalink: /about/
 <h4>{{ member.name }}</h4>
 <h4><i>{{ member.info }}</i></h4>
 <ul style="overflow: hidden; padding-left: 0">
-Dr. Hu has published more than 100 peer-reviewed technical papers in prestigious journals and international conferences, with 5 being ESI highly cited papers. He was a recipient of the Best Paper Finalist Award at the SPIE Conference on Smart Structures/NDE in 2018. He has filed 4 patents, including 1 Singapore patent and 3 Chinese patents. According to Google Scholar statistics in February 2024, his publications have received over 2900 citations with an H-index of 28. He is featured in the world's top 2% of Scientists List (2022) identified by Stanford University. He serves as reviewer for more than 60 SCI journals and guest editor for the Journal of Physics D: Applied Physics and ASCE Journal of Environmental Engineering.
+Dr. Hu has published more than 100 peer-reviewed technical papers in prestigious journals and international conferences, with 5 being ESI highly cited papers. He was a recipient of the Best Paper Finalist Award at the SPIE Conference on Smart Structures/NDE in 2018. He has filed 4 patents, including 1 Singapore patent and 3 Chinese patents. According to Google Scholar statistics in August 2024, his publications have received over 2900 citations with an H-index of 30. He is featured in the world's top 2% of Scientists List (2022) identified by Stanford University. He serves as reviewer for more than 60 SCI journals and guest editor for the Journal of Physics D: Applied Physics and ASCE Journal of Environmental Engineering.
 </ul>
 </div>
 </div>
