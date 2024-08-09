@@ -25,14 +25,18 @@ margin-top: -10px; /* 图片与文字间的距离 */
 This is Smart Materials & Structures LAB at HKUST(GZ)!
 
 <div class="container">
-<img src="{{ site.url }}{{ site.baseurl }}/images/1.png" style="width:100%;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/vibration.png" style="width:100%;" />
 </div>
 
 ### Featured Work
 [J25] [2021-01-01] Hu, Guobiao, Austin, Andrew, Sorokin, Vladislav, Tang, Lihua, “Metamaterial beam with graded local resonators for broadband vibration suppression”, Mechanical Systems and Signal Processing.<br>
+
 [J39] [2022-01-01] Hu, Guobiao, Zhao, Chaoyang, Yang, Yaowen, Li, Xin, Liang, Junrui, “Triboelectric energy harvesting using an origami-inspired structure”, Applied Energy.<br>
+
 [J47] [2022-04-01] Hu, Guobiao, Lan, Chunbo, Tang, Lihua, Zhou, Bo, Yang, Yaowen, “Dynamics and power limit analysis of a galloping piezoelectric energy harvester under forced excitation”, Mechanical Systems and Signal Processing.<br>
+
 [J65] [2023-08-10] Hu, Guobiao, Tang, Lihua, Yang, Yaowen, Yu, Dewen, Zi, Yunlong, “High-fidelity dynamics of piezoelectric covered metamaterial timoshenko beams using the spectral element method”, Smart Materials and Structures.<br>
+
 [J76] [2024-04-08] Hu, Guobiao, Yang, Yaowen, Mohanty, Lipi, Chae, Soungho, Ishizeki, Kohsuke, Tang, Lihua, “An electromechanical impedance measurement-based solution for monitoring fresh concrete maturity”, Journal of Intelligent Material Systems and Structures.
 
 ### News
