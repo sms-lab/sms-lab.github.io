@@ -5,6 +5,11 @@ sitemap: false
 permalink: /blogs/
 ---
 
+<div class="jumbotron">
+#### TBD.
+</div>
+
+<!--
 <ul>
   {% for post in site.posts %}
     <li>
@@ -12,3 +17,4 @@ permalink: /blogs/
     </li>
   {% endfor %}
 </ul>
+-->
