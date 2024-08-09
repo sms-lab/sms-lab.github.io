@@ -4629,8 +4629,8 @@ input[type="button"].btn-block {
   display: inline-block;
   padding-top: 0%;
   padding-bottom: 0%;
-  margin-right: 1rem;
-  font-size: 1rem;
+  margin-right: 0.5rem;
+  font-size: 2rem;
   line-height: normal;
   white-space: nowrap;
 }
@@ -4645,8 +4645,8 @@ input[type="button"].btn-block {
 .navbar-brand-title {
   display: inline-block;
   vertical-align: middle;
-  margin-left: 2px; /* 根据需要调整间距 */
-  font-size: 1.5em; /* 调整标题的字体大小 */
+  margin-left: 0px; /* 根据需要调整间距 */
+  font-size: 1.2em; /* 调整标题的字体大小 */
   color: #fff
 }
 
@@ -4702,7 +4702,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-toggler {
-  padding: 0.25rem 0.75rem;
+  padding: 0.25rem 0.5rem;
   font-size: 1.171875rem;
   line-height: 1;
   background-color: transparent;
@@ -4716,8 +4716,8 @@ input[type="button"].btn-block {
 
 .navbar-toggler-icon {
   display: inline-block;
-  width: 2em;
-  height: 2em;
+  width: 1em;
+  height: 1em;
   vertical-align: middle;
   content: "";
   background: no-repeat center center;
