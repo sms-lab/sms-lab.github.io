@@ -60,7 +60,7 @@ permalink: /publications/
 <a href="{{ item.PDF | prepend: site.baseurl }}" class="btn btn-pdf">PDF</a>
 {% endif %}
 {% if item['Supplementary Information'] %}
-<a href="{{ item['Supplementary Information'] }}" class="btn btn-supplementary">SUPPLEMENTARY</a>
+<a href="{{ item['Supplementary Information'] }}" class="btn btn-supplementary">Supplementary Information</a>
 {% endif %}
 </div>
 {% endfor %}
