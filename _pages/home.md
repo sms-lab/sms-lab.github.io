@@ -32,6 +32,9 @@ This is Smart Materials & Structures LAB at HKUST(GZ)!
 TBD
 
 ### News
+
+##### <u>2023.10.17</u> [Congrats to Yawei! His 1st journal paper has been published in Nature Communications. Nature Communications, 2024, 15, 6834](https://www.nature.com/articles/s41467-024-51245-5)
+
 ##### <u>2023.12.13</u> [博士生王雅巍斩获INFO Open Day最佳人气奖、最佳海报奖!](https://mp.weixin.qq.com/s/L8pKpwuZ7muS8f1R5r7UVg)
 <div class="container">
 <div class="image-item">
