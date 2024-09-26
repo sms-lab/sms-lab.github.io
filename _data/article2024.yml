@@ -1,4 +1,4 @@
-- index: 85
+- index: 86
   published: 2024-09-20
   authors:
   - Wang, Junlei
@@ -14,6 +14,33 @@
   doi: 10.1038/s41467-024-51245-5
   Doi: https://www.cell.com/device/abstract/S2666-9986(24)00470-8
   PDF: 
+  
+- index: 85
+  published: 2024-08-10
+  authors:
+  - Wang, Yawei
+  - Du, Hengxu
+  - Yang, Hengyi
+  - Xi, Ziyue
+  - Zhao, Cong
+  - Qian, Zian
+  - Chuai, Xiyuan
+  - Peng, Xuzhang
+  - Yu, Hongyong
+  - Zhang, Yu
+  - Li, Xin
+  - Hu, Guobiao
+  - Wang, Hao
+  - Xu, Minyi
+  title: A rolling-mode triboelectric nanogenerator with multi-tunnel grating electrodes and opposite-charge-enhancement for wave energy harvesting
+  journal: Nature Communications
+  volume: '15'
+  issue: '1'
+  pages: 6834
+  doi: 10.1038/s41467-024-51245-5
+  Doi: https://www.nature.com/articles/s41467-024-51245-5
+  PDF: Wang et al_2024_A rolling-mode triboelectric nanogenerator with mu.pdf
+  Supplementary Information: J85_SI.pdf
   
 - index: 84
   published: 2024-07-25
