@@ -45,7 +45,7 @@ permalink: /publications/
 }
 </style>
 ### Journal Articles
-#### 2024
+#### 2024 （Upadated on 2024.10.21）
 
 {% assign sorted_articles = site.data.article2024 %}
 
