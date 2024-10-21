@@ -1,6 +1,18 @@
+- name: Xuzhang PENG (彭绪彰)
+  degree: Ph.D.
+  year: 2023
+
+- name: Hao TANG (唐浩)
+  degree: Ph.D.
+  year: 2023
+
+- name: Yawei WANG (王雅巍)
+  degree: Ph.D.
+  year: 2023
+
 - name: Yusong WANG (王钰淞)
   degree: Ph.D.
-  year: 2024
+  year: 2023
   
 - name: Yihao LI (黎一豪)
   degree: MPhil
@@ -14,14 +26,23 @@
   degree: MPhil
   year: 2023
 
-- name: Xuzhang PENG (彭绪彰)
-  degree: Ph.D.
+- name: Yi WU (吴佚)
+  degree: RA
   year: 2023
 
-- name: Hao TANG (唐浩)
-  degree: Ph.D.
-  year: 2023
+- name: Jingyi LIU (刘婧仪)
+  degree: RA
+  year: 2023-2024
 
-- name: Yawei WANG (王雅巍)
+- name: Depeng SU (苏德鹏）
   degree: Ph.D.
-  year: 2023
+  year: 2024
+
+- name: Ye ZHANG (张野）
+  degree: RA
+  year: 2024
+  
+- name: Chengyun DU (杜承运）
+  degree: RA
+  year: 2024
+
