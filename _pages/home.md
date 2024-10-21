@@ -47,6 +47,9 @@ offers a potential solution for the challenging deployment of marine selfpowered
 <img src="{{ site.url }}{{ site.baseurl }}/images/Featured IMAGE_7.16.jpg" width="100%" class="center-image"/>
 
 ### News
+
+##### <u>2023.10.17</u> [恭喜胡国标教授连续三年入选全球前2%顶尖科学家榜单!](https://mp.weixin.qq.com/s/iTxbsEhDPVyGQPpST_H6Fg)
+
 ##### <u>2024.08.10</u> [Congrats to Yawei! His 1st journal paper has been published in Nature Communications. <strong><i> Nature Communications, 2024, 15, 6834. </i></strong>](https://www.nature.com/articles/s41467-024-51245-5)
 
 ##### <u>2023.12.13</u> [博士生王雅巍斩获INFO Open Day最佳人气奖、最佳海报奖!](https://mp.weixin.qq.com/s/L8pKpwuZ7muS8f1R5r7UVg)
@@ -65,7 +68,7 @@ offers a potential solution for the challenging deployment of marine selfpowered
 </div>
 </div>
 
-##### <u>2023.10.17</u> [胡国标教授入选全球前2%顶尖科学家榜单!](https://mp.weixin.qq.com/s/aExUrw_RwpVU2Qq1FI6xxg)
+##### <u>2023.10.17</u> [恭喜胡国标教授入选全球前2%顶尖科学家榜单!](https://mp.weixin.qq.com/s/aExUrw_RwpVU2Qq1FI6xxg)
 
 ##### <u>2023.09.21</u> [胡国标教授荣获ASME-SMASIS 2023最佳论文奖!](https://mp.weixin.qq.com/s/1lwVYDcNj-gWKcWwkpmNmg?poc_token=HENwrGajkJ-Tw9AO9yY3ANeL0NhV6e-b0xyFLRa9)
 <div class="container">

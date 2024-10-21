@@ -1,3 +1,20 @@
+- index: 87
+  published: 2024-10-01
+  authors:
+  - Zhang, Hanqing
+  - Tang, Lihua
+  - Hu, Guobiao
+  - Li, Yingli
+  - Aw, Kean
+  title: Realization of topological Bragg and locally resonant interface states in one-dimensional metamaterial beam-resonator-foundation system
+  journal: "Journal of Physics D: Applied Physics"
+  volume: '57'
+  issue: '50'
+  pages: 505304
+  doi: 10.1088/1361-6463/ad7b4c
+  Doi: https://iopscience.iop.org/article/10.1088/1361-6463/ad7b4c
+  PDF: Zhang 等 - 2024 - Realization of topological Bragg and locally resonant interface states in one-dimensional metamateri.pdf
+
 - index: 86
   published: 2024-09-20
   authors:
@@ -13,7 +30,7 @@
   pages: 100548
   doi: 10.1038/s41467-024-51245-5
   Doi: https://www.cell.com/device/abstract/S2666-9986(24)00470-8
-  PDF: Wang 等 - 2024 - Improving mechanical energy harvesters without complex fabrication using origamikirigami
+  PDF: Wang 等 - 2024 - Improving mechanical energy harvesters without complex fabrication using origamikirigami.pdf
   
 - index: 85
   published: 2024-08-10
