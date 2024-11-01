@@ -48,6 +48,19 @@ offers a potential solution for the challenging deployment of marine selfpowered
 
 ### News
 
+##### <u>2023.10.17</u> [<strong>恭喜博士生王雅巍荣获IoT首届"Outstanding Student Achievement Award"奖项!</strong>](https://mp.weixin.qq.com/s/ozUS3BBVFOm_-iWpShfCrw)
+
+<div class="container">
+<div class="image-item">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2024_IoT_OSAA_1.jpg" style="height:200px;" />
+<p class="image-caption">获奖证书</p>
+</div>
+<div class="image-item">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2024_IoT_OSAA_2.jpg" style="height:200px;" />
+<p class="image-caption">颁奖现场</p>
+</div>
+</div>
+
 ##### <u>2023.10.17</u> [<strong>恭喜胡国标教授连续三年入选全球前2%顶尖科学家榜单!</strong>](https://mp.weixin.qq.com/s/iTxbsEhDPVyGQPpST_H6Fg)
 
 ##### <u>2024.08.10</u> [Congrats to Yawei! His 1st journal paper has been published in Nature Communications. <strong><i> Nature Communications, 2024, 15, 6834. </i></strong>](https://www.nature.com/articles/s41467-024-51245-5)
