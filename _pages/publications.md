@@ -44,7 +44,8 @@ permalink: /publications/
     background-color: #4CAF50; /* 绿色 */
 }
 </style>
-### Journal Articles 2024 (Upadated on 2024.10.21)
+### Journal Articles (Upadated on 2024.10.21)
+#### 2024
 
 {% assign sorted_articles = site.data.article2024 %}
 
