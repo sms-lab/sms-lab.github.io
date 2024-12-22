@@ -48,7 +48,7 @@ offers a potential solution for the challenging deployment of marine selfpowered
 
 ### News
 
-##### <u>2024.12.22</u> [<strong>Big congratulations to Yihao for his paper being accepted by MSSP!</strong>]
+##### <u>2024.12.22</u> <strong>Big congratulations to Yihao for his paper being accepted by MSSP!/strong>
 ##### <u>2023.10.17</u> [<strong>恭喜博士生王雅巍荣获IoT首届"Outstanding Student Achievement Award"奖项!</strong>](https://mp.weixin.qq.com/s/ozUS3BBVFOm_-iWpShfCrw)
 
 <div class="container">
