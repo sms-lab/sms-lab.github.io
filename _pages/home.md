@@ -22,7 +22,7 @@ margin-top: -10px; /* 图片与文字间的距离 */
 </style>
 
 ### Welcome!
-This is Smart Materials & Structures LAB at HKUST(GZ)!
+This is Smart Materials & Systems LAB at HKUST(GZ)!
 
 <div class="container">
 <img src="{{ site.url }}{{ site.baseurl }}/images/vibration.png" style="width:100%;" />
