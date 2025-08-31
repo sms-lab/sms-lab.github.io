@@ -75,24 +75,7 @@ Publications: {% assign publications = member.publications | split: ", " %}
 </div>
 </div>
 {% endfor %}
-
-### Visiting Members
-
-<div class='jumbotron'>
-{% for member in site.data.visiting_student %}
-<div class="row">
-<div class="col-sm-2">
-<img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
 </div>
-<div class="col-sm-10 col-xs-12">
-<h5>{{ member.name }}</h5>
-<i>{{ member.info }}<br></i>
-<i>{{ member.duration }}<br></i>
-Publications: {% assign publications = member.publications | split: ", " %}
-{% for pub in publications %}[{{ pub }}]{% if forloop.last == false %} {% endif %}{% endfor %}<br>
-</div>
-</div>
-{% endfor %}
 
 ### Alumni
 
@@ -112,4 +95,5 @@ Publications: {% assign publications = member.publications | split: ", " %}
 </div>
 </div>
 {% endfor %}
+</div>
 
