@@ -143,6 +143,16 @@ permalink: /blogs/
 </div>
 </div>
 
+##### <u>2024.12.11</u> [<strong>团队在“2024 Red Bird Maker Space Model Maker Registration”比赛中收获三等奖!</strong>](https://mp.weixin.qq.com/s/4HssnevEOAw9gwOGtGU4HQ)
+<div class="container">
+<div class="image-item">
+<img src="{{ site.url }}{{ site.baseurl }}/images\2024.12.11-1.jpg" style="height:150px;" />
+</div>
+<div class="image-item">
+<img src="{{ site.url }}{{ site.baseurl }}/images\2024.12.11-2.jpg" style="height:150px;" />
+</div>
+</div>
+
 ##### <u>2024.11.28</u> <strong>Welcome Prof. Xu from the Dalian Maritime University for his visit.</strong>
 <div class="container">
 <div class="image-item">
