@@ -1,18 +1,3 @@
-- index: 90
-  published: 2024-11-26
-  authors:
-  - Yu, Liuding
-  - Liu, Shuyong
-  - Hu, Guobiao
-  title: Experimental Investigation on the Chaos-to-Interwell Motion Transfer in a Bistable Beam-Slider Vibration Energy Harvester
-  journal: "Journal of Vibration and Acoustics"
-  volume: '147'
-  issue: '1'
-  pages: 011001
-  doi: 10.1115/1.4067058
-  Doi: https://doi.org/10.1115/1.4067058
- # PDF: Dong et al_2024_Advanced Aerodynamics‐Driven Energy Harvesting Leveraging Galloping‐Flutter Synergy.pdf
-
 - index: 89
   published: 2024-11-22
   authors:
@@ -29,7 +14,7 @@
   pages: 2414324
   doi: 10.1002/adfm.202414324
   Doi: https://doi.org/10.1002/adfm.202414324
- # PDF: Dong et al_2024_Advanced Aerodynamics‐Driven Energy Harvesting Leveraging Galloping‐Flutter Synergy.pdf
+  PDF: J89.pdf
 
 - index: 88
   published: 2024-10-29
@@ -45,7 +30,8 @@
   pages: 1-12
   doi: 10.1109/TIE.2024.3476923
   Doi: https://ieeexplore.ieee.org/document/10738202
-  #PDF: Zhang et al_2024 - Realization of topological Bragg and locally resonant interface states in one-dimensional metamateri.pdf
+  PDF: J88.pdf
+
 
 - index: 87
   published: 2024-10-01
