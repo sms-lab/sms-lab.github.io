@@ -57,6 +57,13 @@ permalink: /blogs/
 </div>
 </div>
 
+##### <u>2025.11.16</u> <strong>Welcome Prof. Xu from the Dalian Maritime University for his visit.</strong>
+<div class="container">
+<div class="image-item">
+<img src="{{ site.url }}{{ site.baseurl }}/images\2025.11.16.jpg" style="height:150px;" />
+</div>
+</div>
+
 ##### <u>2025.10.16</u> <strong>Welcome Prof. Basset from Université Gustave Eiffel, Prof. Hong and Prof. Jiang from BINN for their visiting.</strong>
 <div class="container">
 <div class="image-item">
