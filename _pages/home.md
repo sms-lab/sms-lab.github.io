@@ -217,6 +217,8 @@ This is Smart Materials & Systems LAB at HKUST(GZ)!
 
 ### News
 
+##### <u>2025.06.17</u> <strong>Congrats to Yihao for receiving the CSC scholarship.!
+##### <u>2025.05.13</u> <strong>Congrats to TANG Hao for his first paper being accepted by SMS!
 ##### <u>2024.12.27</u> <strong>Congrats to Yizhou for his first paper being accepted by APL!
 ##### <u>2024.12.21</u> <strong>Congrats to Yihao for his first paper being accepted by MSSP!
 ##### <u>2023.10.17</u> [<strong>恭喜博士生王雅巍荣获IoT首届"Outstanding Student Achievement Award"奖项!</strong>](https://mp.weixin.qq.com/s/ozUS3BBVFOm_-iWpShfCrw)
