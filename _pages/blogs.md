@@ -44,6 +44,35 @@ permalink: /blogs/
 
 </style>
 
+##### <u>2026.03.06</u> <strong>Delegation from the First Affiliated Hospital of Henan University of Chinese Medicine Visited Our Lab.</strong>
+<div class="container">
+<div class="image-item">
+<img src="{{ site.url }}{{ site.baseurl }}/images\2026.03.06-1.jpg" style="height:150px;" />
+</div>
+<div class="image-item">
+<img src="{{ site.url }}{{ site.baseurl }}/images\2026.03.06-2.jpg" style="height:150px;" />
+</div>
+<div class="image-item">
+<img src="{{ site.url }}{{ site.baseurl }}/images\2026.03.06-3.jpg" style="height:150px;" />
+</div>
+</div>
+
+##### <u>2026.03.05</u> <strong>Prof. Hu delivered an invited talk at the 2026 Conference on Passive IoT and RFID Applications.</strong>
+<div class="container">
+<div class="image-item">
+<img src="{{ site.url }}{{ site.baseurl }}/images\2026.03.05-1.jpg" style="height:150px;" />
+</div>
+<div class="image-item">
+<img src="{{ site.url }}{{ site.baseurl }}/images\2026.03.05-2.jpg" style="height:150px;" />
+</div>
+<div class="image-item">
+<img src="{{ site.url }}{{ site.baseurl }}/images\2026.03.05-3.jpg" style="height:150px;" />
+</div>
+<div class="image-item">
+<img src="{{ site.url }}{{ site.baseurl }}/images\2026.03.05-4.jpg" style="height:150px;" />
+</div>
+</div>
+
 ##### <u>2025.12.19</u> <strong>Welcome Prof. Tang from the University of Auckland for his visit and seminar.</strong>
 <div class="container">
 <div class="image-item">
