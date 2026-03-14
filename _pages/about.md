@@ -24,7 +24,7 @@ permalink: /about/
 <h4>{{ member.name }}</h4>
 <h4><i>{{ member.info }}</i></h4>
 <ul style="overflow: hidden; padding-left: 0">
-Dr. Hu has published more than 100 peer-reviewed technical papers in prestigious journals and international conferences, with 5 being ESI highly cited papers. He was a recipient of the Best Paper Finalist Award at the SPIE Conference on Smart Structures/NDE in 2018. He has filed 4 patents, including 1 Singapore patent and 3 Chinese patents. According to Google Scholar statistics in August 2024, his publications have received over 2900 citations with an H-index of 30. He is featured in the world's top 2% of Scientists List (2022) identified by Stanford University. He serves as reviewer for more than 60 SCI journals and guest editor for the Journal of Physics D: Applied Physics and ASCE Journal of Environmental Engineering.
+Dr. Guobiao Hu has published over 150 peer-reviewed journal and conference papers in leading venues, with multiple papers recognized as ESI Highly Cited Papers. His research contributions have been recognized by several international awards, including the ASME SMASIS Best Paper Award (2023) and the ASME SMASIS Ephrahim Garcia Best Paper Award (2024). He has filed several patents related to energy harvesting and intelligent sensing technologies. According to Google Scholar statistics, his publications have received over 4800 citations with an H-index of 37 (as of February 2026). Dr. Hu has been continuously listed among the World’s Top 2% Scientists (2022–2024) released by Stanford University. He serves as a reviewer for more than 60 SCI journals and has acted as a guest editor for journals including Journal of Physics D: Applied Physics.
 </ul>
 </div>
 </div>

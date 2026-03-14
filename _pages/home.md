@@ -223,8 +223,8 @@ This is Smart Materials & Systems LAB at HKUST(GZ)!
 ### News
 
 ##### <u>2026.03.14</u> [<strong>Congrats to Yawei! His 2nd journal paper has been published in Joule.</strong>](https://www.cell.com/joule/fulltext/S2542-4351(26)00022-X)
-##### <u>2025.06.17</u> <strong>Congrats to Yihao on receiving the CSC scholarship.!
-##### <u>2025.05.13</u> <strong>Congrats to TANG Hao on his first paper being accepted by SMS!
+##### <u>2025.06.17</u> <strong>Congrats to Yihao on receiving the CSC scholarship!
+##### <u>2025.05.13</u> <strong>Congrats to Hao on his first paper being accepted by SMS!
 ##### <u>2024.12.27</u> <strong>Congrats to Yizhou on his first paper being accepted by APL!
 ##### <u>2024.12.21</u> <strong>Congrats to Yihao on his first paper being accepted by MSSP!
 ##### <u>2023.10.17</u> [<strong>恭喜博士生王雅巍荣获IoT首届"Outstanding Student Achievement Award"奖项!</strong>](https://mp.weixin.qq.com/s/ozUS3BBVFOm_-iWpShfCrw)
