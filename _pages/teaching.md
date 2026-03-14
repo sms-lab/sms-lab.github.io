@@ -7,8 +7,9 @@ permalink: /teaching/
 
 #### Independent Teaching @ HKUST(GZ)
 <!-- * Introduction to Physics (1961--63) [Textbook here!](https://www.feynmanlectures.caltech.edu/)-->
-* IOTA 5504 - Approximate Computing - Introduction to Numerical Analysis
-* IOTA 5005 - Energy Harvesting Technology Towards Battery-Free IoTs
+* UFUG 1106 - Honors Calculus II （UG Course）
+* IOTA 5504 - Approximate Computing - Introduction to Numerical Analysis（PG Course）
+* IOTA 5005 - Energy Harvesting Technology Towards Battery-Free IoTs（PG Course）
 <br>
 
 #### Teaching Assistant @ UOA

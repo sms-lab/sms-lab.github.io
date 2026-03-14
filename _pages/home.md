@@ -132,6 +132,11 @@ This is Smart Materials & Systems LAB at HKUST(GZ)!
 <img src="{{ '/images/Featured IMAGE-2-Device.jpg' | relative_url }}" class="fc-img" alt="Featured work 2 image">
 </article>
 
+<article class="fc-slide">
+<h5><strong>Origami-TENG for Energy and Information Co-Harvesting</strong> published in <strong><i>Joule, 2026, xxxx.</i></strong></h5>
+<img src="{{ '/images/Featured IMAGE-3-Joule.jpg' | relative_url }}" class="fc-img" alt="Featured work 3 image">
+</article>
+
 </div>
 </div>
 
@@ -217,13 +222,14 @@ This is Smart Materials & Systems LAB at HKUST(GZ)!
 
 ### News
 
-##### <u>2025.06.17</u> <strong>Congrats to Yihao for receiving the CSC scholarship.!
-##### <u>2025.05.13</u> <strong>Congrats to TANG Hao for his first paper being accepted by SMS!
-##### <u>2024.12.27</u> <strong>Congrats to Yizhou for his first paper being accepted by APL!
-##### <u>2024.12.21</u> <strong>Congrats to Yihao for his first paper being accepted by MSSP!
+##### <u>2026.03.14</u> [<strong>Congrats to Yawei! His 2nd journal paper has been published in Joule.</strong>](https://www.cell.com/joule/fulltext/S2542-4351(26)00022-X)
+##### <u>2025.06.17</u> <strong>Congrats to Yihao on receiving the CSC scholarship.!
+##### <u>2025.05.13</u> <strong>Congrats to TANG Hao on his first paper being accepted by SMS!
+##### <u>2024.12.27</u> <strong>Congrats to Yizhou on his first paper being accepted by APL!
+##### <u>2024.12.21</u> <strong>Congrats to Yihao on his first paper being accepted by MSSP!
 ##### <u>2023.10.17</u> [<strong>恭喜博士生王雅巍荣获IoT首届"Outstanding Student Achievement Award"奖项!</strong>](https://mp.weixin.qq.com/s/ozUS3BBVFOm_-iWpShfCrw)
 ##### <u>2023.10.17</u> [<strong>恭喜胡国标教授连续三年入选全球前2%顶尖科学家榜单!</strong>](https://mp.weixin.qq.com/s/iTxbsEhDPVyGQPpST_H6Fg)
-##### <u>2024.08.10</u> [Congrats to Yawei! His 1st journal paper has been published in Nature Communications.>](https://www.nature.com/articles/s41467-024-51245-5)
+##### <u>2024.08.10</u> [<strong>Congrats to Yawei! His 1st journal paper has been published in Nature Communications.</strong>](https://www.nature.com/articles/s41467-024-51245-5)
 ##### <u>2023.12.13</u> [<strong>博士生王雅巍斩获INFO Open Day最佳人气奖、最佳海报奖!</strong>](https://mp.weixin.qq.com/s/L8pKpwuZ7muS8f1R5r7UVg)
 ##### <u>2023.10.17</u> [<strong>恭喜胡国标教授入选全球前2%顶尖科学家榜单!</strong>](https://mp.weixin.qq.com/s/aExUrw_RwpVU2Qq1FI6xxg)
 ##### <u>2023.09.21</u> [<strong>恭喜胡国标教授荣获ASME-SMASIS 2023最佳论文奖!</strong>](https://mp.weixin.qq.com/s/1lwVYDcNj-gWKcWwkpmNmg?poc_token=HENwrGajkJ-Tw9AO9yY3ANeL0NhV6e-b0xyFLRa9)
