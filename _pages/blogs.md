@@ -44,7 +44,7 @@ permalink: /blogs/
 
 </style>
 
-##### <u>2026.03.06</u> <strong>Delegation from the First Affiliated Hospital of Henan University of Chinese Medicine Visited Our Lab.</strong>
+##### <u>2026.03.06</u> <strong>Delegation from the First Affiliated Hospital of Henan University of Chinese Medicine visited us.</strong>
 <div class="container">
 <div class="image-item">
 <img src="{{ site.url }}{{ site.baseurl }}/images\2026.03.06-1.jpg" style="height:150px;" />
