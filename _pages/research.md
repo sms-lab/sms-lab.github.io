@@ -72,11 +72,46 @@ Our research focuses on <strong>battery-free intelligent systems powered by ambi
 </p>
 
 <p>
-Our work is organized around three tightly connected research pillars:  
-<strong>Energy → Systems → Applications</strong>.
+Our work is organized around four tightly connected research pillars:  
+<strong>Structures → Energy → Systems → Applications</strong>.
 </p>
 
 </div>
+
+<div class="research-section">
+<h3>Structures</h3>
+<h4>Functional Mechanical Structures for Energy and Sensing</h4>
+
+<p>
+Mechanical structures play a foundational role in our research. Before energy can be harvested or processed by electronic systems, mechanical structures must efficiently capture, amplify, and regulate environmental physical stimuli such as vibration, motion, and fluid flow.
+</p>
+
+<p>
+Our work investigates how structural design, nonlinear mechanics, and architected materials can enhance energy conversion and sensing performance. By engineering structures across multiple scales—from compliant beams and nonlinear oscillators to metamaterial lattices and fluid–structure interaction systems—we aim to control how mechanical energy is concentrated and transferred to transduction mechanisms.
+</p>
+
+<p>
+Representative research topics include nonlinear mechanical oscillators, metamaterial-based vibration structures, fluid–structure interaction mechanisms for flow energy harvesting, bio-inspired impact and motion amplification structures, and architected materials for mechanical sensing and energy concentration.
+</p>
+
+<div class="scroll-gallery">
+<img src="/images/research/structure-1.jpg">
+<img src="/images/research/structure-2.jpg">
+<img src="/images/research/structure-3.jpg">
+<img src="/images/research/structure-4.jpg">
+<img src="/images/research/structure-5.jpg">
+<img src="/images/research/structure-6.jpg">
+<img src="/images/research/structure-7.jpg">
+<img src="/images/research/structure-8.jpg">
+<img src="/images/research/structure-9.jpg">
+</div>
+
+<div class="gallery-note">
+Examples of mechanical structures, metamaterials, and structural designs enabling efficient energy harvesting and sensing.
+</div>
+</div>
+
+<hr class="section-divider">
 
 
 
