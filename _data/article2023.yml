@@ -1,341 +1,295 @@
-- index: 73
-  published: 2023-11-04
+- index: 70
+  published: 2023-11-15
   authors:
-  - Dong, Liwei
-  - Zhang, Heli
-  - Yu, Jie
-  - Hu, Guobiao
-  title: Energy harvesting potential assessment and systematic design for energy-regenerative
-    shock absorbers on railway freight wagons
-  journal: Journal of Intelligent Material Systems and Structures
-  volume: '35'
-  issue: '3'
-  pages: 270--290
-  doi: 10.1177/1045389X231200146
-  Doi: http://journals.sagepub.com/doi/10.1177/1045389X231200146
-  PDF: Dong et al_2024_Energy harvesting potential assessment and systematic design
-    for.pdf
-  Supplementary_Information: https://example.com/supplementary
-
-- index: 72
-  published: 2023-11-01
-  authors:
-  - Wang, Junlei
-  - Zhang, Ye
-  - Hu, Guobiao
-  - Zhang, Wenming
-  title: Wake-induced vibration and heat transfer characteristics of three tandem
-    semi-circular cylinders
-  journal: Journal of Fluids and Structures
-  volume: '123'
-  issue: Not available
-  pages: '104004'
-  doi: 10.1016/j.jfluidstructs.2023.104004
-  Doi: https://www.sciencedirect.com/science/article/pii/S088997462300172X
-  PDF: Wang et al_2023_Wake-induced vibration and heat transfer characteristics of
-    three tandem.pdf
-  Supplementary_Information: https://example.com/supplementary
-
-- index: 71
-  published: 2023-11-01
-  authors:
-  - Yu, Dewen
-  - Hu, Guobiao
-  - Ding, Wei
-  - Yang, Yaowen
-  - Hong, Jun
+  - Dewen Yu
+  - Guobiao Hu*
+  - Wei Ding
+  - Yaowen Yang
+  - Jun Hong
   title: Zero-thermal-expansion metamaterial with broadband vibration suppression
   journal: International Journal of Mechanical Sciences
-  volume: '258'
+  volume: 258
   issue: Not available
-  pages: '108590'
-  doi: 10.1016/j.ijmecsci.2023.108590
-  Doi: https://www.sciencedirect.com/science/article/pii/S0020740323004927
-  PDF: Yu et al_2023_Zero-thermal-expansion metamaterial with broadband vibration
-    suppression.pdf
-  Supplementary_Information: https://example.com/supplementary
-
-- index: 70
-  published: 2023-10-06
-  authors:
-  - Guo, Zhenkun
-  - Wen, Jiaqi
-  - Yu, Dewen
-  - Hu, Guobiao
-  - Yang, Yaowen
-  title: Widening the band gaps of hourglass lattice truss core sandwich structures
-    for broadband vibration suppression
-  journal: Journal of Vibration and Acoustics
-  volume: '145'
-  issue: '6'
   pages: Not available
-  doi: 10.1115/1.4063443
-  Doi: https://asmedigitalcollection.asme.org/vibrationacoustics/article/145/6/061002/1166812
-  PDF: Guo et al_2023_Widening the band gaps of hourglass lattice truss core sandwich
-    structures for.pdf
-  Supplementary_Information: https://example.com/supplementary
+  doi: 10.1016/j.ijmecsci.2023.108590
+  Doi: "https://doi.org/10.1016/j.ijmecsci.2023.108590"
+  PDF: J70_Yu et al_2023_10.1016j.ijmecsci.2023.108590.pdf
+  Supplementary_Information: Not available
 
 - index: 69
-  published: 2023-10-01
+  published: 2023-11-01
   authors:
-  - Zhao, Bao
-  - Wang, Jiahua
-  - Hu, Guobiao
-  - Colombi, Andrea
-  - Liao, Wei-Hsin
-  - Liang, Junrui
-  title: Time-sharing orbit jump and energy harvesting in nonlinear piezoelectric
-    energy harvesters using a synchronous switch circuit
-  journal: Mechanical Systems and Signal Processing
-  volume: '200'
+  - Junlei Wang
+  - Ye Zhang
+  - Guobiao Hu*
+  - Wenming Zhang
+  title: Wake-induced vibration and heat transfer characteristics of three tandem semi-circular cylinders
+  journal: Journal of Fluids and Structures
+  volume: 123
   issue: Not available
-  pages: '110601'
-  doi: 10.1016/j.ymssp.2023.110601
-  Doi: https://www.sciencedirect.com/science/article/pii/S0888327023005095
-  PDF: Zhao et al_2023_Time-sharing orbit jump and energy harvesting in nonlinear
-    piezoelectric energy.pdf
-  Supplementary_Information: https://example.com/supplementary
+  pages: Not available
+  doi: 10.1016/j.jfluidstructs.2023.104004
+  Doi: "https://doi.org/10.1016/j.jfluidstructs.2023.104004"
+  PDF: J69_Wang et al_2023_10.1016j.jfluidstructs.2023.104004.pdf
+  Supplementary_Information: Not available
 
 - index: 68
-  published: 2023-10-01
+  published: 2023-10-15
   authors:
-  - Dong, Liwei
-  - Hu, Guobiao
-  - Yu, Jie
-  - Zhao, Chaoyang
-  - Qu, Shuai
-  - Yang, Yaowen
-  title: Maximizing onboard power generation of large-scale railway vibration energy
-    harvesters with intricate vehicle-harvester-circuit coupling relationships
+  - Chaoyang Zhao
+  - Guobiao Hu
+  - Xin Li
+  - Zicheng Liu
+  - Weifeng Yuan
+  - Yaowen Yang
+  title: Wide-bandwidth triboelectric energy harvester combining impact nonlinearity and multi-resonance method
   journal: Applied Energy
-  volume: '347'
+  volume: 348
   issue: Not available
-  pages: '121388'
-  doi: 10.1016/j.apenergy.2023.121388
-  Doi: https://www.sciencedirect.com/science/article/pii/S0306261923007523
-  PDF: Dong et al_2023_Maximizing onboard power generation of large-scale railway
-    vibration energy.pdf
-  Supplementary_Information: https://example.com/supplementary
+  pages: Not available
+  doi: 10.1016/j.apenergy.2023.121530
+  Doi: "https://doi.org/10.1016/j.apenergy.2023.121530"
+  PDF: J68_Zhao et al_2023_10.1016j.apenergy.2023.121530.pdf
+  Supplementary_Information: Not available
 
 - index: 67
   published: 2023-10-01
   authors:
-  - Zhao, Chaoyang
-  - Hu, Guobiao
-  - Li, Xin
-  - Liu, Zicheng
-  - Yuan, Weifeng
-  - Yang, Yaowen
-  title: Wide-bandwidth triboelectric energy harvester combining impact nonlinearity
-    and multi-resonance method
-  journal: Applied Energy
-  volume: '348'
-  issue: Not available
-  pages: '121530'
-  doi: 10.1016/j.apenergy.2023.121530
-  Doi: https://www.sciencedirect.com/science/article/pii/S0306261923008942
-  PDF: Zhao et al_2023_Wide-bandwidth triboelectric energy harvester combining impact
-    nonlinearity and.pdf
-  Supplementary_Information: https://example.com/supplementary
+  - Yupei Jian
+  - Guobiao Hu
+  - Lihua Tang
+  - Yincheng Shen
+  - Yulin Zhan
+  - Kean Aw
+  title: "Adaptive piezoelectric metamaterial beam: autonomous attenuation zone adjustment in complex vibration environments"
+  journal: Smart Materials and Structures
+  volume: 32
+  issue: 10
+  pages: Not available
+  doi: 10.1088/1361-665x/acf62f
+  Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=6cc09f7f-2861-4772-b18b-af01826a2ec7&ssb=87477251465&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Facf62f&ssi=2ce552c6-cnvj-415b-b396-162e40511857&ssk=botmanager_support@radware.com&ssm=71300364706559571107726155596688&ssn=5c19d0c26584667e4761fd7e2f415f9baf6434b0baf6-8979-4aaf-a41d57&sso=d3a0f4a1-54892a919e3f098ea6dba7762f9f02a001ff4403d44c3349&ssp=77457383691776431321177640974542038&ssq=03739834140701153689341407611501683422248&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDAzNGIwYmFmNi04OTc5LTRhYWYtYTRhMS01NDg5MmE5MTllM2YxLTE3NzY0NDE0MDcyNjYwLTAwM2I3MTUzNDUwMmUzNzM2ZTkxMCIsInV6bXgiOiI3ZjkwMDA5NjZmYmMyNC0wMjJhLTQxMmItODgxOC00OTY5ZGFmNTI1NDMxLTE3NzY0NDE0MDcyNjYwLWExMmIwZTU4NDBjOWJmMWIxMCIsInJkIjoiaW9wLm9yZyJ9"
+  PDF: J67_Jian et al_2023_10.10881361-665xacf62f.pdf
+  Supplementary_Information: Not available
 
 - index: 66
-  published: 2023-09-11
+  published: 2023-10-01
   authors:
-  - Jian, Yupei
-  - Hu, Guobiao
-  - Tang, Lihua
-  - Shen, Yincheng
-  - Zhan, Yulin
-  - Aw, Kean
-  title: 'Adaptive piezoelectric metamaterial beam: autonomous attenuation zone adjustment
-    in complex vibration environments'
-  journal: Smart Materials and Structures
-  volume: '32'
-  issue: '10'
-  pages: '105023'
-  doi: 10.1088/1361-665X/acf62f
-  Doi: https://iopscience.iop.org/article/10.1088/1361-665X/acf62f/meta
-  PDF: Jian et al_2023_Adaptive piezoelectric metamaterial beam.pdf
-  Supplementary_Information: https://example.com/supplementary
+  - Liwei Dong
+  - Guobiao Hu
+  - Jie Yu
+  - Chaoyang Zhao
+  - Shuai Qu
+  - Yaowen Yang
+  title: Maximizing onboard power generation of large-scale railway vibration energy harvesters with intricate vehicle-harvester-circuit coupling relationships
+  journal: Applied Energy
+  volume: 347
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.apenergy.2023.121388
+  Doi: "https://doi.org/10.1016/j.apenergy.2023.121388"
+  PDF: J66_Dong et al_2023_10.1016j.apenergy.2023.121388.pdf
+  Supplementary_Information: Not available
 
 - index: 65
-  published: 2023-08-10
+  published: 2023-10-01
   authors:
-  - Hu, Guobiao
-  - Tang, Lihua
-  - Yang, Yaowen
-  - Yu, Dewen
-  - Zi, Yunlong
-  title: High-fidelity dynamics of piezoelectric covered metamaterial timoshenko beams
-    using the spectral element method
-  journal: Smart Materials and Structures
-  volume: '32'
-  issue: '9'
-  pages: 095023
-  doi: 10.1088/1361-665X/aceba5
-  Doi: https://iopscience.iop.org/article/10.1088/1361-665X/aceba5/meta
-  PDF: Hu et al_2023_High-fidelity dynamics of piezoelectric covered metamaterial
-    timoshenko beams.pdf
-  Supplementary_Information: https://example.com/supplementary
+  - Bao Zhao
+  - Jiahua Wang
+  - Guobiao Hu
+  - Andrea Colombi
+  - Wei-Hsin Liao
+  - Junrui Liang
+  title: Time-sharing orbit jump and energy harvesting in nonlinear piezoelectric energy harvesters using a synchronous switch circuit
+  journal: Mechanical Systems and Signal Processing
+  volume: 200
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.ymssp.2023.110601
+  Doi: "https://doi.org/10.1016/j.ymssp.2023.110601"
+  PDF: J65_Zhao et al_2023_10.1016j.ymssp.2023.110601.pdf
+  Supplementary_Information: Not available
 
 - index: 64
-  published: 2023-07-01
+  published: 2023-09-01
   authors:
-  - Yu, Dewen
-  - Hu, Guobiao
-  - Cai, Saijie
-  - Yang, Yaowen
-  - Hong, Jun
-  title: Active optimization adjustment for the surface accuracy of spaceborne {SAR}
-    antennas
-  journal: Aerospace Science and Technology
-  volume: '138'
-  issue: Not available
-  pages: '108330'
-  doi: 10.1016/j.ast.2023.108330
-  Doi: https://www.sciencedirect.com/science/article/pii/S1270963823002274
-  PDF: Yu et al_2023_Active optimization adjustment for the surface accuracy of spaceborne
-    SAR.pdf
-  Supplementary_Information: https://example.com/supplementary
+  - Guobiao Hu
+  - Lihua Tang
+  - Yaowen Yang
+  - Dewen Yu
+  - Yunlong Zi
+  title: High-fidelity dynamics of piezoelectric covered metamaterial Timoshenko beams using the spectral element method
+  journal: Smart Materials and Structures
+  volume: 32
+  issue: 9
+  pages: Not available
+  doi: 10.1088/1361-665x/aceba5
+  Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=efe7eaed-9e58-4aac-9224-8cda4503044d&ssb=54240230351&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Faceba5&ssi=3d1a2fda-cnvj-4412-8760-2b8f559bf928&ssk=botmanager_support@radware.com&ssm=73568623594743858102466027497707&ssn=b825eb63956610d85e8db92495ae9c0ed978a570d8fc-668a-44a4-8c2199&sso=8f3252b2-ad60bcbedc80050f550b47d15655ad455f0dcc2d38754476&ssp=45059435221776442016177646877271850&ssq=22369334143104358300741431444169970084121&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBhNTcwZDhmYy02NjhhLTQ0YTQtODJiMi1hZDYwYmNiZWRjODAxLTE3NzY0NDE0MzE4ODAwLTAwM2U5Y2M5YTc3N2Q1ZGE2MWExMCIsInV6bXgiOiI3ZjkwMDBlYjRjMjQyMy00ZGJhLTQyZDctYTNmNy02N2I5OTMzMmY3ZTQxLTE3NzY0NDE0MzE4ODAwLTViY2M2Yzk3MjZiNWM3ZTExMCIsInJkIjoiaW9wLm9yZyJ9"
+  PDF: J64_Hu et al_2023_10.10881361-665xaceba5.pdf
+  Supplementary_Information: Not available
 
 - index: 63
-  published: 2023-05-01
+  published: 2023-07-13
   authors:
-  - Yu, Dewen
-  - Hu, Guobiao
-  - Guo, Zhenkun
-  - Hong, Jun
-  - Yang, Yaowen
-  title: Topological interface state formation in an hourglass lattice sandwich meta-structure
-  journal: International Journal of Mechanical Sciences
-  volume: '246'
-  issue: Not available
-  pages: '108170'
-  doi: 10.1016/j.ijmecsci.2023.108170
-  Doi: https://www.sciencedirect.com/science/article/pii/S0020740323000723
-  PDF: Yu et al_2023_Topological interface state formation in an hourglass lattice
-    sandwich.pdf
-  Supplementary_Information: https://example.com/supplementary
+  - Yi Huang
+  - Guobiao Hu
+  - Chaoyang Zhao
+  - Baoping Tang
+  - Xiaojing Mu
+  - Yaowen Yang
+  title: An L-shaped and bending-torsion coupled beam for self-adaptive vibration energy harvesting
+  journal: "Journal of Physics D: Applied Physics"
+  volume: 56
+  issue: 28
+  pages: Not available
+  doi: 10.1088/1361-6463/acc877
+  Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=7a2886af-7421-4e15-97ba-36d528aafd34&ssb=33476297948&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-6463%2Facc877&ssi=46744748-cnvj-4cf2-9cca-b34e0c5f5a31&ssk=botmanager_support@radware.com&ssm=73100153581624133100332412334060&ssn=8dcbd62c510add5b9bda99cab64802fabca762e837eb-4b17-454e-938b8e&sso=1be81aa4-b88a75a3a1a01cb4d4a43cdd345e1d05d26e2d6dd2b0cf16&ssp=34654729621776467868177646089028760&ssq=51299594143850161913341438810703388247068&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDA2MmU4MzdlYi00YjE3LTQ1NGUtOWFhNC1iODhhNzVhM2ExYTAxLTE3NzY0NDE0Mzg4MTkwLTAwMzQwNzNjOTM2OTM3MWM3NGExMCIsInV6bXgiOiI3ZjkwMDA1NWY0MzE0Ny03N2RjLTQ5ZGMtOWUwYS03ZGJjZjcyODFmOGIxLTE3NzY0NDE0Mzg4MTkwLTViZDljMzg0ZTgyZDg4ZWYxMCIsInJkIjoiaW9wLm9yZyJ9"
+  PDF: J63_Huang et al_2023_10.10881361-6463acc877.pdf
+  Supplementary_Information: Not available
 
 - index: 62
-  published: 2023-04-27
+  published: 2023-07-01
   authors:
-  - Huang, Yi
-  - Hu, Guobiao
-  - Zhao, Chaoyang
-  - Tang, Baoping
-  - Mu, Xiaojing
-  - Yang, Yaowen
-  title: An L-shaped and bending-torsion coupled beam for self-adaptive vibration
-    energy harvesting
-  journal: 'Journal of Physics D: Applied Physics'
-  volume: '56'
-  issue: '28'
-  pages: '284001'
-  doi: 10.1088/1361-6463/acc877
-  Doi: https://iopscience.iop.org/article/10.1088/1361-6463/acc877/meta
-  PDF: Huang et al_2023_An L-shaped and bending-torsion coupled beam for self-adaptive
-    vibration energy.pdf
-  Supplementary_Information: https://example.com/supplementary
+  - Dewen Yu
+  - Guobiao Hu
+  - Saijie Cai
+  - Yaowen Yang
+  - Jun Hong
+  title: Active optimization adjustment for the surface accuracy of spaceborne SAR antennas
+  journal: Aerospace Science and Technology
+  volume: 138
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.ast.2023.108330
+  Doi: "https://doi.org/10.1016/j.ast.2023.108330"
+  PDF: J62_Yu et al_2023_10.1016j.ast.2023.108330.pdf
+  Supplementary_Information: Not available
 
 - index: 61
   published: 2023-04-01
   authors:
-  - Liu, Zicheng
-  - Zhao, Chaoyang
-  - Hu, Guobiao
-  - Yang, Yaowen
-  title: A multi-degree-of-freedom triboelectric energy harvester for dual-frequency
-    vibration energy harvesting
+  - Zicheng Liu
+  - Chaoyang Zhao
+  - Guobiao Hu
+  - Yaowen Yang
+  title: A multi-degree-of-freedom triboelectric energy harvester for dual-frequency vibration energy harvesting
   journal: Mechanical Systems and Signal Processing
-  volume: '188'
+  volume: 188
   issue: Not available
-  pages: '109951'
+  pages: Not available
   doi: 10.1016/j.ymssp.2022.109951
-  Doi: https://www.sciencedirect.com/science/article/pii/S0888327022010196
-  PDF: Liu et al_2023_A multi-degree-of-freedom triboelectric energy harvester for
-    dual-frequency.pdf
-  Supplementary_Information: https://example.com/supplementary
+  Doi: "https://doi.org/10.1016/j.ymssp.2022.109951"
+  PDF: J61_Liu et al_2023_10.1016j.ymssp.2022.109951.pdf
+  Supplementary_Information: Not available
 
 - index: 60
-  published: 2023-03-01
+  published: 2023-03-15
   authors:
-  - Wang, Junlei
-  - Zhang, Ye
-  - Liu, Ming
-  - Hu, Guobiao
-  title: Etching metasurfaces on bluff bodies for vortex-induced vibration energy
-    harvesting
+  - Junlei Wang
+  - Ye Zhang
+  - Ming Liu
+  - Guobiao Hu*
+  title: Etching metasurfaces on bluff bodies for vortex-induced vibration energy harvesting
   journal: International Journal of Mechanical Sciences
-  volume: '242'
+  volume: 242
   issue: Not available
-  pages: '108016'
+  pages: Not available
   doi: 10.1016/j.ijmecsci.2022.108016
-  Doi: https://www.sciencedirect.com/science/article/pii/S0020740322008943
-  PDF: Wang et al_2023_Etching metasurfaces on bluff bodies for vortex-induced vibration
-    energy.pdf
-  Supplementary_Information: https://example.com/supplementary
+  Doi: "https://doi.org/10.1016/j.ijmecsci.2022.108016"
+  PDF: J60_Wang et al_2023_10.1016j.ijmecsci.2022.108016.pdf
+  Supplementary_Information: Not available
 
 - index: 59
   published: 2023-02-07
   authors:
-  - Yu, Jiawei
-  - Zhou, Bo
-  - Liu, Hui
-  - Han, Xiaoshuang
-  - Hu, Guobiao
-  - Zhang, Teng
+  - Jiawei Yu
+  - Bo Zhou
+  - Hui Liu
+  - Xiaoshuang Han
+  - Guobiao Hu*
+  - Teng Zhang
   title: Study of Propeller Vortex Characteristics under Loading Conditions
   journal: Symmetry
-  volume: '15'
-  issue: '2'
-  pages: '445'
+  volume: 15
+  issue: 2
+  pages: Not available
   doi: 10.3390/sym15020445
-  Doi: https://www.mdpi.com/2073-8994/15/2/445
-  PDF: 全文
-  Supplementary_Information: https://example.com/supplementary
+  Doi: "https://doi.org/10.3390/sym15020445"
+  PDF: J59_Yu et al_2023_10.3390sym15020445.pdf
+  Supplementary_Information: Not available
 
 - index: 58
-  published: 2023-01-01
+  published: 2023-01-23
   authors:
-  - Wang, Haoyu
-  - Xia, Xin
-  - Fu, Jingjing
-  - Li, Jianan
-  - Chen, Chaojie
-  - Dai, Yuan
-  - Fan, Zhiyong
-  - Hu, Guobiao
-  - Zi, Yunlong
-  title: A general self-powered wireless sensing solution based on triboelectric-discharge
-    effect
-  journal: Nano Energy
-  volume: '105'
+  - Dewen Yu
+  - Guobiao Hu*
+  - Zhenkun Guo
+  - Jun Hong
+  - Yaowen Yang*
+  title: Topological interface state formation in an hourglass lattice sandwich meta-structure
+  journal: International Journal of Mechanical Sciences
+  volume: Not available
   issue: Not available
-  pages: '107982'
-  doi: 10.1016/j.nanoen.2022.107982
-  Doi: https://www.sciencedirect.com/science/article/pii/S2211285522010606
-  PDF: Wang et al_2023_A general self-powered wireless sensing solution based on.pdf
-  Supplementary_Information: https://example.com/supplementary
+  pages: Not available
+  doi: 10.1016/j.ijmecsci.2023.108170
+  Doi: "https://doi.org/10.1016/j.ijmecsci.2023.108170"
+  PDF: J58_Yu et al_2023_10.1016j.ijmecsci.2023.108170.pdf
+  Supplementary_Information: Not available
 
 - index: 57
+  published: 2023-01-15
+  authors:
+  - Yupei Jian
+  - Guobiao Hu
+  - Lihua Tang
+  - Wei Tang
+  - Moein Abdi
+  - Kean C Aw
+  title: Analytical and experimental study of a metamaterial beam with grading piezoelectric transducers for vibration attenuation band widening
+  journal: Engineering Structures
+  volume: 275
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.engstruct.2022.115091
+  Doi: "https://doi.org/10.1016/j.engstruct.2022.115091"
+  PDF: J57_Jian et al_2023_10.1016j.engstruct.2022.115091.pdf
+  Supplementary_Information: Not available
+
+- index: 56
   published: 2023-01-01
   authors:
-  - Jian, Yupei
-  - Hu, Guobiao
-  - Tang, Lihua
-  - Tang, Wei
-  - Abdi, Moein
-  - Aw, Kean C.
-  title: Analytical and experimental study of a metamaterial beam with grading piezoelectric
-    transducers for vibration attenuation band widening
-  journal: Engineering Structures
-  volume: '275'
+  - Zhenkun Guo
+  - Jiaqi Wen
+  - Dewen Yu
+  - Guobiao Hu*
+  - Yaowen Yang
+  title: Widening the band gaps of hourglass lattice truss core sandwich structures for broadband vibration suppression
+  journal: Journal of Vibration and Acoustics - Transactions of the ASME
+  volume: Not available
   issue: Not available
-  pages: '115091'
-  doi: 10.1016/j.engstruct.2022.115091
-  Doi: https://www.sciencedirect.com/science/article/pii/S0141029622011671
-  PDF: Jian et al_2023_Analytical and experimental study of a metamaterial beam with
-    grading.pdf
-  Supplementary_Information: https://example.com/supplementary
+  pages: Not available
+  doi: 10.1115/1.4063443
+  Doi: "https://asmedigitalcollection.asme.org/vibrationacoustics/article/145/6/061002/1166812/Widening-the-Band-Gaps-of-Hourglass-Lattice-Truss"
+  PDF: J56_Guo et al_2023_10.11151.4063443.pdf
+  Supplementary_Information: Not available
 
+- index: 55
+  published: 2023-01-01
+  authors:
+  - Haoyu Wang
+  - Xin Xia
+  - Jingjing Fu
+  - Jianan Li
+  - Chaojie Chen
+  - Yuan Dai
+  - Zhiyong Fan
+  - Guobiao Hu
+  - Yunlong Zi
+  title: A general self-powered wireless sensing solution based on triboelectric-discharge effect
+  journal: Nano Energy
+  volume: 105
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.nanoen.2022.107982
+  Doi: "https://doi.org/10.1016/j.nanoen.2022.107982"
+  PDF: J55_Wang et al_2023_10.1016j.nanoen.2022.107982.pdf
+  Supplementary_Information: Not available

@@ -1,330 +1,313 @@
-- index: 89
-  published: 2024-11-22
+- index: 86
+  published: 2024-12-20
   authors:
-  - Dong, Liwei
-  - Hu, Guobiao
-  - Tang, Qian
-  - Zhao, Chaoyang
-  - Yang, Fan
-  - Yang, Yaowen
-  title: Advanced Aerodynamics-Driven Energy Harvesting Leveraging Galloping-Flutter Synergy
-  journal: "Advanced Functional Materials"
-  volume: 'NA'
-  issue: 'NA'
-  pages: 2414324
-  doi: 10.1002/adfm.202414324
-  Doi: https://doi.org/10.1002/adfm.202414324
-  PDF: J89.pdf
-
-- index: 88
-  published: 2024-10-29
-  authors:
-  - Wang, Junlei
-  - Luo, Liangjun
-  - Yurchenko, Daniil
-  - Hu, Guobiao
-  title: Equivalent circuit analysis of a nonlinear vortex-induced vibration piezoelectric energy harvester using synchronized switch technique
-  journal: "IEEE Transactions on Industrial Electronics"
-  volume: 'NA'
-  issue: 'NA'
-  pages: 1-12
-  doi: 10.1109/TIE.2024.3476923
-  Doi: https://ieeexplore.ieee.org/document/10738202
-  PDF: J88.pdf
-
-
-- index: 87
-  published: 2024-10-01
-  authors:
-  - Zhang, Hanqing
-  - Tang, Lihua
-  - Hu, Guobiao
-  - Li, Yingli
-  - Aw, Kean
+  - Hanqing Zhang
+  - Lihua Tang
+  - Guobiao Hu
+  - Yingli Li
+  - Kean Aw
   title: Realization of topological Bragg and locally resonant interface states in one-dimensional metamaterial beam-resonator-foundation system
   journal: "Journal of Physics D: Applied Physics"
-  volume: '57'
-  issue: '50'
-  pages: 505304
+  volume: 57
+  issue: 50
+  pages: Not available
   doi: 10.1088/1361-6463/ad7b4c
-  Doi: https://iopscience.iop.org/article/10.1088/1361-6463/ad7b4c
-  PDF: Zhang et al_2024 - Realization of topological Bragg and locally resonant interface states in one-dimensional metamateri.pdf
+  Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=f1bba349-10c8-4912-851e-2b1c48a133dd&ssb=32220253263&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-6463%2Fad7b4c&ssi=31437ef5-cnvj-4b4a-8898-97182dca82f1&ssk=botmanager_support@radware.com&ssm=13184759521000194101881455454117&ssn=8705743ffbfed219a01bab95e16faa182396e24d070b-47a9-41f7-8a8ec3&sso=14b5af79-8efdbb3f1eb974d5defed52ebdc490c8e601dc8f2418e53d&ssp=85496032211776448745177640907329232&ssq=53563194121376050149241213929232242394114&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBlMjRkMDcwYi00N2E5LTQxZjctOGY3OS04ZWZkYmIzZjFlYjkxLTE3NzY0NDEyMTMwNDcwLTAwMzk0MWEwYmMzZDg2YzlkNDAxMCIsInJkIjoiaW9wLm9yZyIsInV6bXgiOiI3ZjkwMDA1MWVjZmIyMC1hMjJiLTRkMWMtOGMxOS0xOTUxYjZmMDBkMTkxLTE3NzY0NDEyMTMwNDcwLTE3MjAxYTlkMzA2MDY2YzkxMCJ9"
+  PDF: J86_Zhang et al_2024_10.10881361-6463ad7b4c.pdf
+  Supplementary_Information: Not available
 
-- index: 86
-  published: 2024-09-20
-  authors:
-  - Wang, Junlei
-  - Sun, Zeye
-  - Hu, Guobiao
-  - Ding, Hongbo
-  - Li, Xinliang
-  title: Improving mechanical energy harvesters without complex fabrication using origami/kirigami
-  journal: Device
-  volume: '2'
-  issue: '9'
-  pages: 100548
-  doi: 10.1038/s41467-024-51245-5
-  Doi: https://www.cell.com/device/abstract/S2666-9986(24)00470-8
-  PDF: Wang et al_2024 - Improving mechanical energy harvesters without complex fabrication using origamikirigami.pdf
-  
 - index: 85
-  published: 2024-08-10
+  published: 2024-10-29
   authors:
-  - Wang, Yawei
-  - Du, Hengxu
-  - Yang, Hengyi
-  - Xi, Ziyue
-  - Zhao, Cong
-  - Qian, Zian
-  - Chuai, Xiyuan
-  - Peng, Xuzhang
-  - Yu, Hongyong
-  - Zhang, Yu
-  - Li, Xin
-  - Hu, Guobiao
-  - Wang, Hao
-  - Xu, Minyi
-  title: A rolling-mode triboelectric nanogenerator with multi-tunnel grating electrodes and opposite-charge-enhancement for wave energy harvesting
-  journal: Nature Communications
-  volume: '15'
-  issue: '1'
-  pages: 6834
-  doi: 10.1038/s41467-024-51245-5
-  Doi: https://www.nature.com/articles/s41467-024-51245-5
-  PDF: Wang et al_2024_A rolling-mode triboelectric nanogenerator with mu.pdf
-  Supplementary Information: J85_SI.pdf
-  
-- index: 84
-  published: 2024-07-25
-  authors:
-  - Jian, Yupei
-  - Hu, Guobiao
-  - Tang, Lihua
-  - Xu, Jiawen
-  - Huang, Deqing
-  - Aw, Kean
-  title: Graded metamaterial with broadband active controllability for low-frequency
-    vibration suppression
-  journal: Journal of Applied Physics
-  volume: '136'
-  issue: '4'
-  pages: 043108
-  doi: 10.1063/5.0218118
-  Doi: https://pubs.aip.org/aip/jap/article/136/4/043108/3304737
-  PDF: Jian et al_2024_Graded metamaterial with broadband active controllability for
-    low-frequency.pdf
-  Supplementary_Information: https://example.com/supplementary
-
-- index: 83
-  published: 2024-07-01
-  authors:
-  - Zhao, Li
-  - Hu, Guobiao
-  - Zhou, Shengxi
-  - Peng, Yan
-  - Xie, Shaorong
-  - Li, Zhongjie
-  title: Magnetic coupling and amplitude truncation based bistable energy harvester
-  journal: International Journal of Mechanical Sciences
-  volume: '273'
-  issue: Not available
-  pages: '109228'
-  doi: 10.1016/j.ijmecsci.2024.109228
-  Doi: https://www.sciencedirect.com/science/article/pii/S0020740324002704
-  PDF: Zhao et al_2024_Magnetic coupling and amplitude truncation based bistable energy
-    harvester.pdf
-  Supplementary_Information: https://example.com/supplementary
-
-- index: 82
-  published: 2024-06-28
-  authors:
-  - Peng, Xuzhang
-  - Tang, Hao
-  - Li, Zhongjie
-  - Liang, Junrui
-  - Yu, Liuding
-  - Hu, Guobiao
-  title: A Frequency Up-Conversion Piezoelectric Energy Harvester Shunted to a Synchronous
-    Electric Charge Extraction Circuit
-  journal: Micromachines
-  volume: '15'
-  issue: '7'
-  pages: '842'
-  doi: 10.3390/mi15070842
-  Doi: https://www.mdpi.com/2072-666X/15/7/842
-  PDF: Peng et al_2024_A Frequency Up-Conversion Piezoelectric Energy Harvester Shunted
-    to a.pdf
-  Supplementary_Information: https://example.com/supplementary
-
-- index: 81
-  published: 2024-06-18
-  authors:
-  - Zhang, Jiazhen
-  - Peng, Xuzhang
-  - Yu, Dewen
-  - Hu, Guobiao
-  - Yang, Yaowen
-  title: Rigid-Elastic Combined Metamaterial Beam with Tunable Band Gaps for Broadband
-    Vibration Suppression
-  journal: Journal of Vibration and Acoustics
+  - Junlei Wang
+  - Liangjun Luo
+  - Daniil Yurchenko
+  - Guobiao Hu*
+  title: Equivalent circuit analysis of a nonlinear vortex-induced vibration piezoelectric energy harvester using synchronized switch technique
+  journal: IEEE Transactions on Industrial Electronics
   volume: Not available
   issue: Not available
-  pages: 1--26
-  doi: 10.1115/1.4065752
-  Doi: https://asmedigitalcollection.asme.org/vibrationacoustics/article/doi/10.1115/1.4065751/1201105
-  PDF: 全文
-  Supplementary_Information: https://example.com/supplementary
+  pages: Not available
+  doi: 10.1109/tie.2024.3476923
+  Doi: "https://doi.org/10.1109/tie.2024.3476923"
+  PDF: J85_Wang et al_2024_10.1109tie.2024.3476923.pdf
+  Supplementary_Information: Not available
+
+- index: 84
+  published: 2024-09-20
+  authors:
+  - Junlei Wang
+  - Zeye Sun
+  - Guobiao Hu*
+  - Hongbo Ding
+  - Xinliang Li
+  title: Improving mechanical energy harvesters without complex fabrication using origami/kirigami
+  journal: Device
+  volume: 2
+  issue: 9
+  pages: Not available
+  doi: 10.1016/j.device.2024.100548
+  Doi: "https://doi.org/10.1016/j.device.2024.100548"
+  PDF: J84_Wang et al_2024_10.1016j.device.2024.100548.pdf
+  Supplementary_Information: Not available
+
+- index: 83
+  published: 2024-08-09
+  authors:
+  - Yawei Wang
+  - Hengxu Du
+  - Hengyi Yang
+  - Ziyue Xi
+  - Cong Zhao
+  - Zian Qian
+  - Xinyuan Chuai
+  - Xuzhang Peng
+  - Hongyong Yu
+  - Yu Zhang
+  - Xin Li
+  - Guobiao Hu*
+  - Hao Wang
+  - Minyi Xu
+  title: A rolling-mode triboelectric nanogenerator with multi-tunnel grating electrodes and opposite-charge-enhancement for wave energy harvesting
+  journal: Nature Communications
+  volume: 15
+  issue: 1
+  pages: Not available
+  doi: 10.1038/s41467-024-51245-5
+  Doi: "https://doi.org/10.1038/s41467-024-51245-5"
+  PDF: J83_Wang et al_2024_10.1038s41467-024-51245-5.pdf
+  Supplementary_Information: Not available
+
+- index: 82
+  published: 2024-07-28
+  authors:
+  - Yupei Jian
+  - Guobiao Hu
+  - Lihua Tang
+  - Jiawen Xu
+  - Deqing Huang
+  - Kean Aw
+  title: Graded metamaterial with broadband active controllability for low-frequency vibration suppression
+  journal: Journal of Applied Physics
+  volume: 136
+  issue: 4
+  pages: Not available
+  doi: 10.1063/5.0218118
+  Doi: "https://doi.org/10.1063/5.0218118"
+  PDF: J82_Jian et al_2024_10.10635.0218118.pdf
+  Supplementary_Information: Not available
+
+- index: 81
+  published: 2024-07-01
+  authors:
+  - Li Zhao
+  - Guobiao Hu
+  - Shengxi Zhou
+  - Yan Peng
+  - Shaorong Xie
+  - Zhongjie Li
+  title: Magnetic coupling and amplitude truncation based bistable energy harvester
+  journal: International Journal of Mechanical Sciences
+  volume: 273
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.ijmecsci.2024.109228
+  Doi: "https://doi.org/10.1016/j.ijmecsci.2024.109228"
+  PDF: J81_Zhao et al_2024_10.1016j.ijmecsci.2024.109228.pdf
+  Supplementary_Information: Not available
 
 - index: 80
-  published: 2024-06-01
+  published: 2024-06-28
   authors:
-  - Dong, Liwei
-  - Hu, Guobiao
-  - Zhang, Ye
-  - Ding, Wei
-  - Qu, Shuai
-  - Tang, Qian
-  - Zhao, Chaoyang
-  - Yang, Yaowen
-  - Yang, Fan
-  title: Metasurface-enhanced multifunctional flag nanogenerator for efficient wind
-    energy harvesting and environmental sensing
-  journal: Nano Energy
-  volume: '124'
-  issue: Not available
-  pages: '109508'
-  doi: 10.1016/j.nanoen.2024.109508
-  Doi: https://www.sciencedirect.com/science/article/pii/S2211285524002568
-  PDF: Dong et al_2024_Metasurface-enhanced multifunctional flag nanogenerator for
-    efficient wind.pdf
-  Supplementary_Information: https://example.com/supplementary
+  - Xuzhang Peng
+  - Hao Tang
+  - Zhongjie Li
+  - Junrui Liang
+  - Liuding Yu
+  - Guobiao Hu
+  title: A Frequency Up-Conversion Piezoelectric Energy Harvester Shunted to a Synchronous Electric Charge Extraction Circuit
+  journal: Micromachines
+  volume: 15
+  issue: 7
+  pages: Not available
+  doi: 10.3390/mi15070842
+  Doi: "https://doi.org/10.3390/mi15070842"
+  PDF: J80_Peng et al_2024_10.3390mi15070842.pdf
+  Supplementary_Information: Not available
 
 - index: 79
-  published: 2024-06-01
+  published: 2024-06-18
   authors:
-  - Qu, Shuai
-  - Ren, Yuhao
-  - Hu, Guobiao
-  - Ding, Wei
-  - Dong, Liwei
-  - Yang, Jizhong
-  - Wu, Zaixin
-  - Zhu, Shengyang
-  - Yang, Yaowen
-  - Zhai, Wanming
-  title: Event-driven piezoelectric energy harvesting for railway field applications
-  journal: Applied Energy
-  volume: '364'
+  - Jiazhen Zhang
+  - Xuzhang Peng
+  - Dewen Yu
+  - Guobiao Hu*
+  - Yaowen Yang
+  title: Rigid-Elastic Combined Metamaterial Beam with Tunable Band Gaps for Broadband Vibration Suppression
+  journal: Journal of Vibration and Acoustics - Transactions of the ASME
+  volume: Not available
   issue: Not available
-  pages: '123160'
-  doi: 10.1016/j.apenergy.2024.123160
-  Doi: https://www.sciencedirect.com/science/article/pii/S0306261924005439
-  PDF: Qu et al_2024_Event-driven piezoelectric energy harvesting for railway field
-    applications.pdf
-  Supplementary_Information: https://example.com/supplementary
+  pages: Not available
+  doi: 10.1115/1.4065751
+  Doi: "https://doi.org/10.1115/1.4065751"
+  PDF: J79_Zhang et al_2024_10.11151.4065751.pdf
+  Supplementary_Information: Not available
 
 - index: 78
-  published: 2024-06-01
+  published: 2024-06-15
   authors:
-  - Li, Xin
-  - Chuai, Xinyuan
-  - Hu, Guobiao
-  - Zhang, Daxing
-  - Cai, Mingjing
-  - Wang, Congsi
-  - Yang, Yaowen
-  - Liao, Wei-Hsin
-  - Liang, Junrui
-  title: Energy and dynamics analysis of a single plucking energy harvester for transient-motion-powered
-    {IoT} applications
+  - Xin Li
+  - Xinyuan Chuai
+  - Guobiao Hu
+  - Daxing Zhang
+  - Mingjing Cai
+  - Congsi Wang
+  - Yaowen Yang
+  - Wei-Hsin Liao
+  - Junrui Liang
+  title: Energy and dynamics analysis of a single plucking energy harvester for transient-motion-powered IoT applications
   journal: Energy Conversion and Management
-  volume: '310'
+  volume: 310
   issue: Not available
-  pages: '118465'
+  pages: Not available
   doi: 10.1016/j.enconman.2024.118465
-  Doi: https://www.sciencedirect.com/science/article/pii/S0196890424004060
-  PDF: Li et al_2024_Energy and dynamics analysis of a single plucking energy harvester
-    for.pdf
-  Supplementary_Information: https://example.com/supplementary
+  Doi: "https://doi.org/10.1016/j.enconman.2024.118465"
+  PDF: J78_Li et al_2024_10.1016j.enconman.2024.118465.pdf
+  Supplementary_Information: Not available
 
 - index: 77
-  published: 2024-05-01
+  published: 2024-06-15
   authors:
-  - Guo, Zhenkun
-  - Wen, Jiaqi
-  - Shen, Yongjun
-  - Hu, Guobiao
-  - Jiang, Guoqing
-  title: 'Band folding induced broadband vibration suppression of star-shaped metamaterials:
-    Theory and experiment'
-  journal: Thin-Walled Structures
-  volume: '198'
+  - Shuai Qu
+  - Yuhao Ren
+  - Guobiao Hu
+  - Wei Ding
+  - Liwei Dong
+  - Jizhong Yang
+  - Zaixin Wu
+  - Shengyang Zhu
+  - Yaowen Yang
+  - Wanming Zhai
+  title: Event-driven piezoelectric energy harvesting for railway field applications
+  journal: Applied Energy
+  volume: 364
   issue: Not available
-  pages: '111756'
-  doi: 10.1016/j.tws.2024.111756
-  Doi: https://www.sciencedirect.com/science/article/pii/S026382312400199X
-  PDF: Guo et al_2024_Band folding induced broadband vibration suppression of star-shaped.pdf
-  Supplementary_Information: https://example.com/supplementary
+  pages: Not available
+  doi: 10.1016/j.apenergy.2024.123160
+  Doi: "https://doi.org/10.1016/j.apenergy.2024.123160"
+  PDF: J77_Qu et al_2024_10.1016j.apenergy.2024.123160.pdf
+  Supplementary_Information: Not available
 
 - index: 76
-  published: 2024-04-08
+  published: 2024-06-01
   authors:
-  - Hu, Guobiao
-  - Yang, Yaowen
-  - Mohanty, Lipi
-  - Chae, Soungho
-  - Ishizeki, Kohsuke
-  - Tang, Lihua
-  title: An electromechanical impedance measurement-based solution for monitoring
-    fresh concrete maturity
+  - Guobiao Hu
+  - Yaowen Yang
+  - Lipi Mohanty
+  - Soungho Chae
+  - Kohsuke Ishizeki
+  - Lihua Tang
+  title: An electromechanical impedance measurement-based solution for monitoring fresh concrete maturity
   journal: Journal of Intelligent Material Systems and Structures
-  volume: '35'
-  issue: '10'
-  pages: 907--919
-  doi: 10.1177/1045389X241241599
-  Doi: https://journals.sagepub.com/doi/10.1177/1045389X241241599
-  PDF: Hu et al_2024_An electromechanical impedance measurement-based solution for
-    monitoring fresh.pdf
-  Supplementary_Information: https://example.com/supplementary
+  volume: 35
+  issue: 10
+  pages: Not available
+  doi: 10.1177/1045389x241241599
+  Doi: "https://doi.org/10.1177/1045389x241241599"
+  PDF: J76_Hu et al_2024_10.11771045389x241241599.pdf
+  Supplementary_Information: Not available
 
 - index: 75
-  published: 2024-03-02
+  published: 2024-06-01
   authors:
-  - Wang, Jun-lei
-  - Li, Shen-fang
-  - Alam, Md. Mahbub
-  - Zhu, Hong-jun
-  - Hu, Guo-biao
-  title: Energy Harvesting in the Wake of An Inverted C-Shaped Bluff Body
-  journal: China Ocean Engineering
-  volume: '38'
-  issue: '1'
-  pages: 68--80
-  doi: 10.1007/s13344-024-0006-1
-  Doi: https://link.springer.com/10.1007/s13344-024-0006-1
-  PDF: Wang et al_2024_Energy Harvesting in the Wake of An Inverted C-Shaped Bluff
-    Body.pdf
-  Supplementary_Information: https://example.com/supplementary
+  - Liwei Dong
+  - Guobiao Hu
+  - Ye Zhang
+  - Wei Ding
+  - Shuai Qu
+  - Qian Tang
+  - Chaoyang Zhao
+  - Yaowen Yang
+  - Fan Yang
+  title: Metasurface-enhanced multifunctional flag nanogenerator for efficient wind energy harvesting and environmental sensing
+  journal: Nano Energy
+  volume: 124
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.nanoen.2024.109508
+  Doi: "https://doi.org/10.1016/j.nanoen.2024.109508"
+  PDF: J75_Dong et al_2024_10.1016j.nanoen.2024.109508.pdf
+  Supplementary_Information: Not available
 
 - index: 74
+  published: 2024-02-27
+  authors:
+  - Zhenkun Guo
+  - Jiaqi Wen
+  - Yongjun Shen
+  - Guobiao Hu*
+  - Guoqing Jiang
+  title: "Band folding induced broadband vibration suppression of star-shaped metamaterials: theory and experiment"
+  journal: Thin-Walled Structures
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.tws.2024.111756
+  Doi: "https://doi.org/10.1016/j.tws.2024.111756"
+  PDF: J74_Guo et al_2024_10.1016j.tws.2024.111756.pdf
+  Supplementary_Information: Not available
+
+- index: 73
+  published: 2024-02-01
+  authors:
+  - Jun-lei Wang
+  - Shen-fang Li
+  - Md Mahbub Alam
+  - Hong-jun Zhu
+  - Guo-biao Hu*
+  title: Energy Harvesting in the Wake of An Inverted C-Shaped Bluff Body
+  journal: China Ocean Engineering
+  volume: 38
+  issue: 1
+  pages: Not available
+  doi: 10.1007/s13344-024-0006-1
+  Doi: "https://doi.org/10.1007/s13344-024-0006-1"
+  PDF: J73_Wang et al_2024_10.1007s13344-024-0006-1.pdf
+  Supplementary_Information: Not available
+
+- index: 72
+  published: 2024-02-01
+  authors:
+  - Liwei Dong
+  - Heli Zhang
+  - Jie Yu
+  - Guobiao Hu
+  title: Energy harvesting potential assessment and systematic design for energy-regenerative shock absorbers on railway freight wagons
+  journal: Journal of Intelligent Material Systems and Structures
+  volume: 35
+  issue: 3
+  pages: Not available
+  doi: 10.1177/1045389x231200146
+  Doi: "https://doi.org/10.1177/1045389x231200146"
+  PDF: J72_Dong et al_2024_10.11771045389x231200146.pdf
+  Supplementary_Information: Not available
+
+- index: 71
   published: 2024-01-01
   authors:
-  - Dong, Liwei
-  - Tang, Qian
-  - Zhao, Chaoyang
-  - Hu, Guobiao
-  - Qu, Shuai
-  - Liu, Zicheng
-  - Yang, Yaowen
-  title: Flag-type hybrid nanogenerator utilizing flapping wakes for consistent high
-    performance over an ultra-broad wind speed range
+  - Liwei Dong
+  - Qian Tang
+  - Chaoyang Zhao
+  - Guobiao Hu
+  - Shuai Qu
+  - Zicheng Liu
+  - Yaowen Yang
+  title: Flag-type hybrid nanogenerator utilizing flapping wakes for consistent high performance over an ultra-broad wind speed range
   journal: Nano Energy
-  volume: '119'
+  volume: 119
   issue: Not available
-  pages: '109057'
+  pages: Not available
   doi: 10.1016/j.nanoen.2023.109057
-  Doi: https://www.sciencedirect.com/science/article/pii/S2211285523008947
-  PDF: Dong et al_2024_Flag-type hybrid nanogenerator utilizing flapping wakes for
-    consistent high.pdf
-  Supplementary_Information: https://example.com/supplementary
-
+  Doi: "https://doi.org/10.1016/j.nanoen.2023.109057"
+  PDF: J71_Dong et al_2024_10.1016j.nanoen.2023.109057.pdf
+  Supplementary_Information: Not available

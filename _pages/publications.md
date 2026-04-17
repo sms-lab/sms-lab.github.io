@@ -23,7 +23,7 @@ permalink: /publications/
 .si-link { color: rgb(112,48,160); font-weight: bold; text-decoration: none; }
 
 </style>
-### Journal Articles (Upadated on 2026.01.08)
+### Journal Articles (Upadated on 2026-04-18)
 
 
 #### 2026

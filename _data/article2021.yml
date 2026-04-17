@@ -1,274 +1,251 @@
-- index: 38
-  published: 2021-09-09
+- index: 36
+  published: 2021-09-06
   authors:
-  - Wang, Junlei
-  - Yurchenko, Daniil
-  - Hu, Guobiao
-  - Zhao, Liya
-  - Tang, Lihua
-  - Yang, Yaowen
+  - Junlei Wang
+  - Daniil Yurchenko
+  - Guobiao Hu*
+  - Liya Zhao
+  - Lihua Tang
+  - Yaowen Yang
   title: Perspectives in flow-induced vibration energy harvesting
   journal: Applied Physics Letters
-  volume: '119'
-  issue: '10'
+  volume: 119
+  issue: 10
   pages: Not available
   doi: 10.1063/5.0063488
-  Doi: https://pubs.aip.org/aip/apl/article/119/10/100502/39619
-  PDF: Wang et al_2021_Perspectives in flow-induced vibration energy harvesting.pdf
-  Supplementary_Information: https://example.com/supplementary
-
-- index: 37
-  published: 2021-09-02
-  authors:
-  - Gao, Yongji
-  - Hu, Guobiao
-  - Zhao, Bao
-  - Lv, Kunyong
-  - Liang, Junrui
-  title: Synchronized switch piezoelectric energy harvesting using rotating magnetic
-    ball and reed switches
-  journal: Smart Materials and Structures
-  volume: '30'
-  issue: '10'
-  pages: '105023'
-  doi: 10.1088/1361-665X/ac1f62
-  Doi: https://iopscience.iop.org/article/10.1088/1361-665X/ac1f62/meta
-  PDF: Gao et al_2021_Synchronized switch piezoelectric energy harvesting using rotating
-    magnetic.pdf
-  Supplementary_Information: https://example.com/supplementary
-
-- index: 36
-  published: 2021-09-01
-  authors:
-  - Wang, Junlei
-  - Sun, Shaokang
-  - Hu, Guobiao
-  - Yang, Yaowen
-  - Tang, Lihua
-  - Li, Pan
-  - Zhang, Guojie
-  title: Exploring the potential benefits of using metasurface for galloping energy
-    harvesting
-  journal: Energy Conversion and Management
-  volume: '243'
-  issue: Not available
-  pages: '114414'
-  doi: 10.1016/j.enconman.2021.114414
-  Doi: https://www.sciencedirect.com/science/article/pii/S0196890421005902
-  PDF: Wang et al_2021_Exploring the potential benefits of using metasurface for galloping
-    energy.pdf
-  Supplementary_Information: https://example.com/supplementary
+  Doi: "https://doi.org/10.1063/5.0063488"
+  PDF: J36_Wang et al_2021_10.10635.0063488.pdf
+  Supplementary_Information: Not available
 
 - index: 35
-  published: 2021-08-05
+  published: 2021-09-02
   authors:
-  - Jian, Yupei
-  - Hu, Guobiao
-  - Tang, Lihua
-  - Xu, Jiawen
-  - Aw, Kean C.
-  title: A generic theoretical approach for estimating bandgap bounds of metamaterial
-    beams
-  journal: Journal of Applied Physics
-  volume: '130'
-  issue: '5'
+  - Yongji Gao
+  - Guobiao Hu*
+  - Bao Zhao
+  - Kunyong Lv
+  - Junrui Liang*
+  title: Synchronized switch piezoelectric energy harvesting using rotating magnetic ball and reed switches
+  journal: Smart Materials and Structures
+  volume: 30
+  issue: 10
   pages: Not available
-  doi: 10.1063/5.0053004
-  Doi: https://pubs.aip.org/aip/jap/article/130/5/054501/158745
-  PDF: A generic theoretical approach for estimating bandgap bounds of metamaterial
-    beams
-  Supplementary_Information: https://example.com/supplementary
+  doi: 10.1088/1361-665x/ac1f62
+  Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=55459c31-3297-4f6e-86e7-48785b05a837&ssb=80043296816&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Fac1f62&ssi=e506b4a6-cnvj-4df4-b09c-3cd8a119ff7f&ssk=botmanager_support@radware.com&ssm=43305315791562729106220563731920&ssn=678d07c44920851b621f9416a2ddcd7f25ce6e8eb897-2d02-4eea-a0aefb&sso=390bb0ee-77df245cd8d5a6c545b1aca1c920dba89300f9a3ba939179&ssp=11238524581776497300177642343571347&ssq=91763474203296977436942032948486381758325&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwODAyZWNlODUtNjhkNy00ZTRhLThkOWUtNWY4ZWNlZjhlZDIwMS0xNzc2NDQyMDMyODA3MC02MzI1NTdjY2M3MTY1YjhlMTAiLCJfX3V6bWYiOiI3ZjkwMDA2ZThlYjg5Ny0yZDAyLTRlZWEtYTBlZS03N2RmMjQ1Y2Q4ZDUxLTE3NzY0NDIwMzI4MDcwLTAwMzQ4NWVjNDQwMzYyNjliYWUxMCIsInJkIjoiaW9wLm9yZyJ9"
+  PDF: J35_Gao et al_2021_10.10881361-665xac1f62.pdf
+  Supplementary_Information: Not available
 
 - index: 34
-  published: 2021-07-01
+  published: 2021-09-01
   authors:
-  - Lan, Chunbo
-  - Chen, Zhenning
-  - Hu, Guobiao
-  - Liao, Yabin
-  - Qin, Weiyang
-  title: Achieve frequency-self-tracking energy harvesting using a passively adaptive
-    cantilever beam
-  journal: Mechanical Systems and Signal Processing
-  volume: '156'
+  - Junlei Wang
+  - Shaokang Sun
+  - Guobiao Hu*
+  - Yaowen Yang
+  - Lihua Tang
+  - Pan Li
+  - Guojie Zhang
+  title: Exploring the potential benefits of using metasurface for galloping energy harvesting
+  journal: Energy Conversion and Management
+  volume: 243
   issue: Not available
-  pages: '107672'
-  doi: 10.1016/j.ymssp.2021.107672
-  Doi: https://www.sciencedirect.com/science/article/pii/S0888327021000674
-  PDF: Lan et al_2021_Achieve frequency-self-tracking energy harvesting using a passively
-    adaptive.pdf
-  Supplementary_Information: https://example.com/supplementary
+  pages: Not available
+  doi: 10.1016/j.enconman.2021.114414
+  Doi: "https://doi.org/10.1016/j.enconman.2021.114414"
+  PDF: J34_Wang et al_2021_10.1016j.enconman.2021.114414.pdf
+  Supplementary_Information: Not available
 
 - index: 33
-  published: 2021-07-01
+  published: 2021-09-01
   authors:
-  - Guo, Zhenkun
-  - Hu, Guobiao
-  - Sorokin, Vladislav
-  - Tang, Lihua
-  - Yang, Xiaodong
-  - Zhang, Jun
-  title: Low-frequency flexural wave attenuation in metamaterial sandwich beam with
-    hourglass lattice truss core
-  journal: Wave Motion
-  volume: '104'
-  issue: Not available
-  pages: '102750'
-  doi: 10.1016/j.wavemoti.2021.102750
-  Doi: https://www.sciencedirect.com/science/article/pii/S0165212521000482
-  PDF: Guo et al_2021_Low-frequency flexural wave attenuation in metamaterial sandwich
-    beam with.pdf
-  Supplementary_Information: https://example.com/supplementary
+  - Zhen-Kun Guo
+  - Guobiao Hu
+  - Vladislav Sorokin
+  - Yi Yang
+  - Lihua Tang
+  title: Sound transmission through sandwich plate with hourglass lattice truss core
+  journal: Journal of Sandwich Structures & Materials
+  volume: 23
+  issue: 6
+  pages: Not available
+  doi: 10.1177/1099636220906819
+  Doi: "https://doi.org/10.1177/1099636220906819"
+  PDF: J33_Guo et al_2021_10.11771099636220906819.pdf
+  Supplementary_Information: Not available
 
 - index: 32
-  published: 2021-06-18
+  published: 2021-08-07
   authors:
-  - Hu, Guobiao
-  - Tang, Lihua
-  - Liang, Junrui
-  - Lan, Chunbo
-  - Das, Raj
-  title: 'Acoustic-elastic metamaterials and phononic crystals for energy harvesting:
-    A review'
-  journal: Smart Materials and Structures
-  volume: '30'
-  issue: '8'
-  pages: 085025
-  doi: 10.1088/1361-665X/ac0cbc
-  Doi: https://iopscience.iop.org/article/10.1088/1361-665X/ac0cbc/meta
-  PDF: Hu et al_2021_Acoustic-elastic metamaterials and phononic crystals for energy
-    harvesting.pdf
-  Supplementary_Information: https://example.com/supplementary
+  - Yupei Jian
+  - Guobiao Hu
+  - Lihua Tang
+  - Jiawen Xu
+  - Kean C Aw
+  title: A generic theoretical approach for estimating bandgap bounds of metamaterial beams
+  journal: Journal of Applied Physics
+  volume: 130
+  issue: 5
+  pages: Not available
+  doi: 10.1063/5.0053004
+  Doi: "https://doi.org/10.1063/5.0053004"
+  PDF: J32_Jian et al_2021_10.10635.0053004.pdf
+  Supplementary_Information: Not available
 
 - index: 31
-  published: 2021-05-10
+  published: 2021-07-19
   authors:
-  - Lan, Chunbo
-  - Hu, Guobiao
-  - Tang, Lihua
-  - Yang, Yaowen
-  title: Energy localization and topological protection of a locally resonant topological
-    metamaterial for robust vibration energy harvesting
-  journal: Journal of Applied Physics
-  volume: '129'
-  issue: '18'
+  - Xin Li
+  - Hong Tang
+  - Guobiao Hu
+  - Bao Zhao
+  - Junrui Liang
+  title: "ViPSN-pluck: A transient-motion-powered motion detector"
+  journal: IEEE Internet of Things Journal
+  volume: 9
+  issue: 5
   pages: Not available
-  doi: 10.1063/5.0047965
-  Doi: https://pubs.aip.org/aip/jap/article/129/18/184502/158405
-  PDF: Lan et al_2021_Energy localization and topological protection of a locally
-    resonant.pdf
-  Supplementary_Information: https://example.com/supplementary
+  doi: 10.1109/jiot.2021.3098238
+  Doi: "https://doi.org/10.1109/jiot.2021.3098238"
+  PDF: J31_Li et al_2021_10.1109jiot.2021.3098238.pdf
+  Supplementary_Information: Not available
 
 - index: 30
-  published: 2021-05-03
+  published: 2021-07-01
   authors:
-  - Guo, Zhenkun
-  - Hu, Guobiao
-  - Jiang, Jingchao
-  - Yu, Liuding
-  - Li, Xin
-  - Liang, Junrui
-  title: Theoretical and experimental study of the vibration dynamics of a 3D-printed
-    sandwich beam with an hourglass lattice truss core
-  journal: Frontiers in Mechanical Engineering
-  volume: '7'
+  - Zhenkun Guo
+  - Guobiao Hu
+  - Vladislav Sorokin
+  - Lihua Tang
+  - Xiaodong Yang
+  - Jun Zhang
+  title: Low-frequency flexural wave attenuation in metamaterial sandwich beam with hourglass lattice truss core
+  journal: Wave Motion
+  volume: 104
   issue: Not available
-  pages: '651998'
-  doi: 10.3389/fmech.2021.651998
-  Doi: https://www.frontiersin.org/articles/10.3389/fmech.2021.651998/full
-  PDF: Guo et al_2021_Theoretical and experimental study of the vibration dynamics
-    of a 3D-printed.pdf
-  Supplementary_Information: https://example.com/supplementary
+  pages: Not available
+  doi: 10.1016/j.wavemoti.2021.102750
+  Doi: "https://doi.org/10.1016/j.wavemoti.2021.102750"
+  PDF: J30_Guo et al_2021_10.1016j.wavemoti.2021.102750.pdf
+  Supplementary_Information: Not available
 
 - index: 29
-  published: 2021-05-03
+  published: 2021-07-01
   authors:
-  - Hu, Guobiao
-  - Liang, Junrui
-  - Tang, Lihua
-  - Wang, Junlei
-  title: Improved theoretical analysis and design guidelines of a two-degree-of-freedom
-    galloping piezoelectric energy harvester
-  journal: Journal of Intelligent Material Systems and Structures
-  volume: '33'
-  issue: '1'
-  pages: 210--230
-  doi: 10.1177/1045389X211011681
-  Doi: http://journals.sagepub.com/doi/10.1177/1045389X211011681
-  PDF: Hu et al_2022_Improved theoretical analysis and design guidelines of a two-degree-of-freedom.pdf
-  Supplementary_Information: https://example.com/supplementary
+  - Chunbo Lan
+  - Zhenning Chen
+  - Guobiao Hu
+  - Yabin Liao
+  - Weiyang Qin
+  title: Achieve frequency-self-tracking energy harvesting using a passively adaptive cantilever beam
+  journal: Mechanical Systems and Signal Processing
+  volume: 156
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.ymssp.2021.107672
+  Doi: "https://doi.org/10.1016/j.ymssp.2021.107672"
+  PDF: J29_Lan et al_2021_10.1016j.ymssp.2021.107672.pdf
+  Supplementary_Information: Not available
 
 - index: 28
-  published: 2021-05-01
+  published: 2021-05-14
   authors:
-  - Wang, Junlei
-  - Sun, Shaokang
-  - Tang, Lihua
-  - Hu, Guobiao
-  - Liang, Junrui
-  title: On the use of metasurface for Vortex-Induced vibration suppression or energy
-    harvesting
-  journal: Energy conversion and management
-  volume: '235'
-  issue: Not available
-  pages: '113991'
-  doi: 10.1016/j.enconman.2021.113991
-  Doi: https://www.sciencedirect.com/science/article/pii/S0196890421001679
-  PDF: Wang et al_2021_On the use of metasurface for Vortex-Induced vibration suppression
-    or energy.pdf
-  Supplementary_Information: https://example.com/supplementary
+  - Chunbo Lan
+  - Guobiao Hu*
+  - Lihua Tang
+  - Yaowen Yang
+  title: Energy localization and topological protection of a locally resonant topological metamaterial for robust vibration energy harvesting
+  journal: Journal of Applied Physics
+  volume: 129
+  issue: 18
+  pages: Not available
+  doi: 10.1063/5.0047965
+  Doi: "https://doi.org/10.1063/5.0047965"
+  PDF: J28_Lan et al_2021_10.10635.0047965.pdf
+  Supplementary_Information: Not available
 
 - index: 27
-  published: 2021-03-01
+  published: 2021-05-03
   authors:
-  - Hu, Guobiao
-  - Wang, Junlei
-  - Tang, Lihua
-  title: A comb-like beam based piezoelectric system for galloping energy harvesting
-  journal: Mechanical Systems and Signal Processing
-  volume: '150'
+  - Zhenkun Guo
+  - Guobiao Hu
+  - Jingchao Jiang
+  - Liuding Yu
+  - Xin Li
+  - Junrui Liang
+  title: Theoretical and experimental study of the vibration dynamics of a 3D-printed sandwich beam with an hourglass lattice truss core
+  journal: Frontiers in Mechanical Engineering
+  volume: 7
   issue: Not available
-  pages: '107301'
-  doi: 10.1016/j.ymssp.2020.107301
-  Doi: https://www.sciencedirect.com/science/article/pii/S0888327020306877
-  PDF: Hu et al_2021_A comb-like beam based piezoelectric system for galloping energy
-    harvesting.pdf
-  Supplementary_Information: https://example.com/supplementary
+  pages: Not available
+  doi: 10.3389/fmech.2021.651998
+  Doi: "https://doi.org/10.3389/fmech.2021.651998"
+  PDF: J27_Guo et al_2021_10.3389fmech.2021.651998.pdf
+  Supplementary_Information: Not available
 
 - index: 26
-  published: 2021-01-21
+  published: 2021-05-01
   authors:
-  - Lan, Chunbo
-  - Hu, Guobiao
-  - Liao, Yabin
-  - Qin, Weiyang
-  title: A wind-induced negative damping method to achieve high-energy orbit of a
-    nonlinear vibration energy harvester
-  journal: Smart Materials and Structures
-  volume: '30'
-  issue: '2'
-  pages: 02LT02
-  doi: 10.1088/1361-665X/abd962
-  Doi: https://iopscience.iop.org/article/10.1088/1361-665X/abd962/meta
-  PDF: Lan et al_2021_A wind-induced negative damping method to achieve high-energy
-    orbit of a.pdf
-  Supplementary_Information: https://example.com/supplementary
+  - Junlei Wang
+  - Shaokang Sun
+  - Lihua Tang
+  - Guobiao Hu*
+  - Junrui Liang
+  title: On the use of metasurface for vortex-induced vibration suppression or energy harvesting
+  journal: Energy Conversion and Management
+  volume: 235
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.enconman.2021.113991
+  Doi: "https://doi.org/10.1016/j.enconman.2021.113991"
+  PDF: J26_Wang et al_2021_10.1016j.enconman.2021.113991.pdf
+  Supplementary_Information: Not available
 
 - index: 25
   published: 2021-01-01
   authors:
-  - Hu, Guobiao
-  - Austin, Andrew {CM}
-  - Sorokin, Vladislav
-  - Tang, Lihua
+  - Chunbo Lan
+  - Guobiao Hu
+  - Weiyang Qin
+  - Yabin Liao
+  title: A wind-induced negative damping method to achieve high-energy orbit of a nonlinear vibration energy harvester
+  journal: Smart Materials and Structures
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1088/1361-665x/abd962
+  Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=40b882b4-0d28-43f7-b8bd-3e75e56a65fb&ssb=90252255665&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Fabd962&ssi=500dcaf8-cnvj-4d58-8b06-de205ac13a85&ssk=botmanager_support@radware.com&ssm=82559059798027678100168736040052&ssn=5f8fca23a3597b52c3fcb7347af5663fc39f123632e0-567b-4ab9-b6b6db&sso=0e874939-80ed96f9404664705d15f764040823144fc3b37082eb4ea7&ssp=21553509071776446731177640257271539&ssq=17780214215149514086642151461906304967476&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwY2UyY2NjOGMtNDY0Ni00NmExLWJhODYtMDVmODY1M2VkMmQyMS0xNzc2NDQyMTUxMDU5MC01NTE3MDNlNGZmMTI5OTlkMTAiLCJfX3V6bWYiOiI3ZjkwMDAxMjM2MzJlMC01NjdiLTRhYjktYjkzOS04MGVkOTZmOTQwNDYxLTE3NzY0NDIxNTEwNTkwLTAwMzk0YmJkODBhNmE0OTdjMDYxMCIsInJkIjoiaW9wLm9yZyJ9"
+  PDF: J25_Lan et al_2021_10.10881361-665xabd962.pdf
+  Supplementary_Information: Not available
+
+- index: 24
+  published: 2021-01-01
+  authors:
+  - Guobiao Hu
+  - Junlei Wang
+  - Lihua Tang
+  title: A comb-like beam based piezoelectric system for galloping energy harvesting
+  journal: Mechanical Systems and Signal Processing
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.ymssp.2020.107301
+  Doi: "https://doi.org/10.1016/j.ymssp.2020.107301"
+  PDF: J24_Hu et al_2021_10.1016j.ymssp.2020.107301.pdf
+  Supplementary_Information: Not available
+
+- index: 23
+  published: 2021-01-01
+  authors:
+  - Guobiao Hu
+  - Andrew CM Austin
+  - Vladislav Sorokin
+  - Lihua Tang
   title: Metamaterial beam with graded local resonators for broadband vibration suppression
   journal: Mechanical Systems and Signal Processing
-  volume: '146'
+  volume: 146
   issue: Not available
-  pages: '106982'
+  pages: Not available
   doi: 10.1016/j.ymssp.2020.106982
-  Doi: https://www.sciencedirect.com/science/article/pii/S088832702030368X
-  PDF: Hu et al_2021_Metamaterial beam with graded local resonators for broadband
-    vibration.pdf
-  Supplementary_Information: https://example.com/supplementary
-
+  Doi: "https://doi.org/10.1016/j.ymssp.2020.106982"
+  PDF: J23_Hu et al_2021_10.1016j.ymssp.2020.106982.pdf
+  Supplementary_Information: Not available

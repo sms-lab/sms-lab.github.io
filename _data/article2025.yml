@@ -1,576 +1,601 @@
-- index: 119
-  published: '2025-12-01'
+- index: 117
+  published: 2025-12-05
   authors:
-  - Tang, Hao
-  - Hu, Guobiao
-  title: Bias-flip synchronized switch damping technique for enhanced and adaptive
-    vibration attenuation
-  journal: Journal of Intelligent Material Systems and Structures
-  volume: '36'
-  issue: '20'
-  pages: 1364-1383
-  doi: 10.1177/1045389x251374840
-  Doi: https://doi.org/10.1177/1045389x251374840
-  PDF: J119.pdf
+  - Xin Li
+  - Yuxing Zhong
+  - Xinyuan Chuai
+  - Yaoyi Li
+  - Weifeng Huang
+  - Jiaming Chen
+  - Xinming Zhang
+  - Daxing Zhang
+  - Congsi Wang
+  - Guobiao Hu
+  - Junrui Liang
+  - Wei-Hsin Liao
+  title: "Fingertip-Powered Interactive Gaming: A Sustainable Approach to Human-Machine Interaction"
+  journal: IEEE Transactions on Mobile Computing
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1109/tmc.2025.3640627
+  Doi: "https://doi.org/10.1109/tmc.2025.3640627"
+  PDF: J117_Li et al_2025_10.1109tmc.2025.3640627.pdf
+  Supplementary_Information: Not available
 
-- index: 118
-  published: '2025-12-01'
+- index: 116
+  published: 2025-11-21
   authors:
-  - Zheng, Yaozi
-  - Wang, Yawei
-  - Liu, Jingyi
-  - Wang, Junlei
-  - Hu, Guobiao
-  title: 'Toward carbon-zero internet of things: Soil-powered renewable energy for
-    perpetual sensing and communication'
+  - Yaozi Zheng
+  - Yawei Wang
+  - Jingyi Liu
+  - Junlei Wang
+  - Guobiao Hu*
+  title: "Toward Carbon-Zero Internet of Things: Soil-Powered Renewable Energy for Perpetual Sensing and Communication"
   journal: DeCarbon
-  volume: '10'
-  issue: NA
-  pages: '100137'
+  volume: Not available
+  issue: Not available
+  pages: Not available
   doi: 10.1016/j.decarb.2025.100137
-  Doi: https://doi.org/10.1016/j.decarb.2025.100137
-  PDF: J118.pdf
+  Doi: "https://doi.org/10.1016/j.decarb.2025.100137"
+  PDF: J116_Zheng et al_2025_10.1016j.decarb.2025.100137.pdf
+  Supplementary_Information: Not available
 
-- index: 117  
-  published: '2025-12-01'
+- index: 115
+  published: 2025-11-21
   authors:
-  - Li, Xin
-  - Chuai, Xinyuan
-  - Li, Yaoyi
-  - Wang, Yawei
-  - Lu, Qitao
-  - Zheng, Yaozi
-  - Zhang, Daxing
-  - Wang, Congsi
-  - Hu, Guobiao
-  - Liao, Wei-Hsin
+  - Xin Li
+  - Xinyuan Chuai
+  - Yaoyi Li
+  - Yawei Wang
+  - Qitao Lu
+  - Yaozi Zheng
+  - Daxing Zhang
+  - Congsi Wang
+  - Guobiao Hu*
+  - Wei-Hsin Liao
   title: A battery-free wireless keyboard
   journal: Cell Reports Physical Science
-  volume: '6'
-  issue: '12'
-  pages: '102972'
+  volume: Not available
+  issue: Not available
+  pages: Not available
   doi: 10.1016/j.xcrp.2025.102972
-  Doi: https://doi.org/10.1016/j.xcrp.2025.102972
-  PDF: J117.pdf
-  Supplementary Information: J117_SI.pdf
+  Doi: "https://doi.org/10.1016/j.xcrp.2025.102972"
+  PDF: J115_Li et al_2025_10.1016j.xcrp.2025.102972.pdf
+  Supplementary_Information: Not available
 
-- index: 116  
-  published: '2025-11-17'
+- index: 114
+  published: 2025-11-17
   authors:
-  - Zhang, Ye
-  - Wang, Yawei
-  - Zheng, Yaozi
-  - Lan, Chunbo
-  - Hu, Guobiao
-  title: Magnetically enhanced quasi-zero-stiffness galloping harvester for efficient
-    wind energy harvesting and autonomous sensing
+  - Ye Zhang
+  - Yawei Wang
+  - Yaozi Zheng
+  - Chunbo Lan
+  - Guobiao Hu*
+  title: Magnetically enhanced quasi-zero-stiffness galloping harvester for efficient wind energy harvesting and autonomous sensing
   journal: Applied Physics Letters
-  volume: '127'
-  issue: '20'
-  pages: NA
+  volume: 127
+  issue: 20
+  pages: Not available
   doi: 10.1063/5.0308844
-  Doi: https://doi.org/10.1063/5.0308844
-  PDF: J116.pdf
+  Doi: "https://pubs.aip.org/aip/apl/article/127/20/203904/3373157/Magnetically-enhanced-quasi-zero-stiffness"
+  PDF: J114_Zhang et al_2025_10.10635.0308844.pdf
+  Supplementary_Information: Not available
 
-- index: 115  
-  published: '2025-10-01'
+- index: 113
+  published: 2025-10-15
   authors:
-  - Wang, Junlei
-  - Luo, Liangjun
-  - Zhang, Ye
-  - Hu, Guobiao
-  title: Synergistic analysis of a wake galloping piezoelectric energy harvester coupled
-    with a DC interface circuit
+  - Junlei Wang
+  - Liangjun Luo
+  - Ye Zhang
+  - Guobiao Hu*
+  title: Synergistic analysis of a wake galloping piezoelectric energy harvester coupled with a DC interface circuit
   journal: Energy
-  volume: '334'
-  issue: NA
-  pages: '137805'
+  volume: 334
+  issue: Not available
+  pages: Not available
   doi: 10.1016/j.energy.2025.137805
-  Doi: https://doi.org/10.1016/j.energy.2025.137805
-  PDF: J115.pdf
+  Doi: "https://doi.org/10.1016/j.energy.2025.137805"
+  PDF: J113_Wang et al_2025_10.1016j.energy.2025.137805.pdf
+  Supplementary_Information: Not available
 
-- index: 114  
-  published: '2026-02-01'
+- index: 112
+  published: 2025-10-06
   authors:
-  - Guo, Zhenkun
-  - Jiang, Shuai
-  - Du, Chengyun
-  - Zhang, Ye
-  - Tang, Hao
-  - Hu, Guobiao
-  title: Enhanced Energy Harvesting With a Piezoelectric Diatomic Sandwich Beam Shunted
-    to an SECE Circuit
-  journal: Journal of Vibration and Acoustics
-  volume: '148'
-  issue: '1'
-  pages: NA
+  - Zhenkun Guo
+  - Shuai Jiang
+  - Chengyun Du
+  - Ye Zhang
+  - Hao Tang
+  - Guobiao Hu*
+  title: Enhanced Energy Harvesting with a Piezoelectric Diatomic Sandwich Beam Shunted to an SECE Circuit
+  journal: Journal of Vibration and Acoustics - Transactions of the ASME
+  volume: Not available
+  issue: Not available
+  pages: Not available
   doi: 10.1115/1.4070071
-  Doi: https://doi.org/10.1115/1.4070071
-  PDF: J114.pdf
-
-- index: 113  
-  published: '2025-01-01'
-  authors:
-  - Zhang, Ye
-  - Wang, Yawei
-  - Wang, Junlei
-  - Hu, Guobiao
-  title: Modeling and Analysis of VIV-Galloping Coupled Piezoelectric Energy Harvester
-    Shunted to SECE Interface Circuit
-  journal: IEEE/ASME Transactions on Mechatronics
-  volume: NA
-  issue: NA
-  pages: 1-12
-  doi: 10.1109/tmech.2025.3603589
-  Doi: https://doi.org/10.1109/tmech.2025.3603589
-  PDF: J113.pdf
-
-- index: 112  
-  published: '2025-09-01'
-  authors:
-  - Kang, Xilong
-  - Li, Pengbo
-  - Wang, Yawei
-  - Zhang, Renyun
-  - Li, Yizhou
-  - Jian, Yupei
-  - Su, Quanke
-  - Hu, Guobiao
-  - Wang, Junlei
-  title: A Nonlinear Galloping-Driven Triboelectric-Electromagnetic Hybrid Generator
-    for Low-Speed Wind Energy Harvesting
-  journal: Green Energy and Intelligent Transportation
-  volume: NA
-  issue: NA
-  pages: '100363'
-  doi: 10.1016/j.geits.2025.100363
-  Doi: https://doi.org/10.1016/j.geits.2025.100363
-  PDF: J112.pdf  
+  Doi: "https://asmedigitalcollection.asme.org/vibrationacoustics/article/148/1/011012/1223152/Enhanced-Energy-Harvesting-With-a-Piezoelectric"
+  PDF: J112_Guo et al_2025_10.11151.4070071.pdf
+  Supplementary_Information: Not available
 
 - index: 111
-  published: '2025-11-01'
+  published: 2025-09-22
   authors:
-  - Jian, Yupei
-  - Wang, Kexiang
-  - Xia, Cuipeng
-  - Huang, Deqing
-  - Han, Hesheng
-  - Hu, Guobiao
-  title: Higher-order defective metamaterial for multi-band low-frequency vibration
-    localization
+  - Ye Zhang
+  - Yawei Wang
+  - Junlei Wang
+  - Guobiao Hu*
+  title: Modeling and Analysis of VIV-Galloping Coupled Piezoelectric Energy Harvester Shunted to SECE Interface Circuit
+  journal: IEEE/ASME Transactions on Mechatronics
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1109/tmech.2025.3603589
+  Doi: "https://doi.org/10.1109/tmech.2025.3603589"
+  PDF: J111_Zhang et al_2025_10.1109tmech.2025.3603589.pdf
+  Supplementary_Information: Not available
+
+- index: 110
+  published: 2025-09-22
+  authors:
+  - Xilong Kang
+  - Pengbo Li
+  - Yawei Wang
+  - Renyun Zhang
+  - Yizhou Li
+  - Yupei Jian
+  - Quanke Su
+  - Guobiao Hu*
+  - Junlei Wang
+  title: A Nonlinear Galloping-Driven Triboelectric-Electromagnetic Hybrid Generator for Low-Speed Wind Energy Harvesting
+  journal: Green Energy and Intelligent Transportation
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.geits.2025.100363
+  Doi: "https://doi.org/10.1016/j.geits.2025.100363"
+  PDF: J110_Kang et al_2025_10.1016j.geits.2025.100363.pdf
+  Supplementary_Information: Not available
+
+- index: 109
+  published: 2025-09-18
+  authors:
+  - Yupei Jian
+  - Kexiang Wang
+  - Cuipeng Xia
+  - Deqing Huang
+  - Hesheng Han
+  - Guobiao Hu*
+  title: Higher-order Defective Metamaterial for Multi-band Low-Frequency Vibration Localization
   journal: International Journal of Mechanical Sciences
-  volume: '306'
-  issue: NA
-  pages: '110859'
+  volume: Not available
+  issue: Not available
+  pages: Not available
   doi: 10.1016/j.ijmecsci.2025.110859
-  Doi: https://doi.org/10.1016/j.ijmecsci.2025.110859
-  PDF: J111.pdf
+  Doi: "https://doi.org/10.1016/j.ijmecsci.2025.110859"
+  PDF: J109_Jian et al_2025_10.1016j.ijmecsci.2025.110859.pdf
+  Supplementary_Information: Not available
 
-- index: 110  
-  published: '2025-08-01'
+- index: 108
+  published: 2025-08-25
   authors:
-  - Li, Yihao
-  - Li, Yizhou
-  - Wang, Yawei
-  - Xiao, Mianxin
-  - Tang, Hao
-  - Zi, Yunlong
-  - Wang, Junlei
-  - Li, Xin
-  - Liao, Wei-Hsin
-  - Hu, Guobiao
-  title: 'From nature’s deadly strike to safety protection: Mantis shrimp-inspired
-    ultrafast energy transformation for smart surveillance'
+  - Yihao Li
+  - Yizhou Li
+  - Yawei Wang
+  - Mianxin Xiao
+  - Hao Tang
+  - Yunlong Zi
+  - Junlei Wang
+  - Xin Li
+  - Wei-Hsin Liao
+  - Guobiao Hu
+  title: "From nature’s deadly strike to safety protection: Mantis shrimp-inspired ultrafast energy transformation for smart surveillance"
   journal: Device
-  volume: NA
-  issue: NA
-  pages: '100903'
+  volume: Not available
+  issue: Not available
+  pages: Not available
   doi: 10.1016/j.device.2025.100903
-  Doi: https://doi.org/10.1016/j.device.2025.100903
-  PDF: J110.pdf
+  Doi: "https://doi.org/10.1016/j.device.2025.100903"
+  PDF: J108_Li et al_2025_10.1016j.device.2025.100903.pdf
+  Supplementary_Information: Not available
 
-
-- index: 109  
-  published: '2025-12-01'
+- index: 107
+  published: 2025-08-07
   authors:
-  - Du, Chengyun
-  - Jiang, Shuai
-  - Qu, Shuai
-  - Wang, Xiao
-  - Zhang, Yingqi
-  - Lan, Chunbo
-  - Hu, Guobiao
-  title: Vehicle-Level Modeling and Analysis of Onboard Energy Harvesters and Their
-    Impact on Dynamics
-  journal: Journal of Vibration and Acoustics
-  volume: '147'
-  issue: '6'
-  pages: NA
+  - Chengyun Du
+  - Shuai Jiang
+  - Shuai Qu
+  - Xiao Wang
+  - Yingqi Zhang
+  - Chunbo Lan
+  - Guobiao Hu*
+  title: Vehicle-Level Modelling and Analysis of Onboard Energy Harvesters and Their Impact on Dynamics
+  journal: Journal of Vibration and Acoustics - Transactions of the ASME
+  volume: Not available
+  issue: Not available
+  pages: Not available
   doi: 10.1115/1.4069337
-  Doi: https://doi.org/10.1115/1.4069337
-  PDF: J109.pdf
-
-- index: 108 
-  published: '2025-11-01'
-  authors:
-  - Dong, Liwei
-  - Tang, Qian
-  - Li, Xin
-  - Zhao, Chaoyang
-  - Han, Chengjia
-  - Hu, Guobiao
-  - Yang, Fan
-  - Yang, Yaowen
-  title: 'Vortex-flutter internal resonance: A new mechanism for wind energy harvesting'
-  journal: Nano Energy
-  volume: '144'
-  issue: NA
-  pages: '111339'
-  doi: 10.1016/j.nanoen.2025.111339
-  Doi: https://doi.org/10.1016/j.nanoen.2025.111339
-  PDF: J108.pdf
-
-- index: 107 
-  published: '2025-07-01'
-  authors:
-  - Liu, Zicheng
-  - Hu, Guobiao
-  - Li, Xin
-  - Zhao, Chaoyang
-  - Yang, Yaowen
-  title: Equivalent circuit modeling for triboelectric energy harvesters
-  journal: Mechanical Systems and Signal Processing
-  volume: '235'
-  issue: NA
-  pages: '112916'
-  doi: 10.1016/j.ymssp.2025.112916
-  Doi: https://doi.org/10.1016/j.ymssp.2025.112916
-  PDF: J107.pdf
+  Doi: "https://doi.org/10.1115/1.4069337"
+  PDF: J107_Du et al_2025_10.11151.4069337.pdf
+  Supplementary_Information: Not available
 
 - index: 106
-  published: '2025-07-14'
+  published: 2025-07-22
   authors:
-  - Wang, Junlei
-  - Li, Han
-  - Yurchenko, Daniil
-  - Tian, Haigang
-  - Hu, Guobiao
-  title: Enhancing vibration isolation and energy harvesting via a quasi-zero stiffness
-    electromagnetic system
-  journal: Applied Physics Letters
-  volume: '127'
-  issue: '2'
-  pages: NA
-  doi: 10.1063/5.0274334
-  Doi: https://doi.org/10.1063/5.0274334
-  PDF: J106.pdf
+  - Liwei Dong
+  - Qian Tang
+  - Xin Li
+  - Chaoyang Zhao
+  - Chengjia Han
+  - Guobiao Hu
+  - Fan Yang
+  - Yaowen Yang
+  title: "Vortex-flutter internal resonance: A new mechanism for wind energy harvesting"
+  journal: Nano Energy
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.nanoen.2025.111339
+  Doi: "https://doi.org/10.1016/j.nanoen.2025.111339"
+  PDF: J106_Dong et al_2025_10.1016j.nanoen.2025.111339.pdf
+  Supplementary_Information: Not available
 
 - index: 105
-  published: '2025-10-01'
+  published: 2025-07-15
   authors:
-  - Xi, Ziyue
-  - Du, Hengxu
-  - Wang, Yawei
-  - Yu, Hongyong
-  - Dai, Shu
-  - Fan, Mingli
-  - Liu, Jingyi
-  - Su, Quanke
-  - Wang, Hao
-  - Hu, Guobiao
-  - Xu, Minyi
-  title: A ternary-dielectric rolling TENG array for robust ocean energy harvesting
-    and distributed environmental monitoring
-  journal: Nano Energy
-  volume: '143'
-  issue: NA
-  pages: '111318'
-  doi: 10.1016/j.nanoen.2025.111318
-  Doi: https://doi.org/10.1016/j.nanoen.2025.111318
-  PDF: J105.pdf
+  - Zicheng Liu
+  - Guobiao Hu
+  - Xin Li
+  - Chaoyang Zhao
+  - Yaowen Yang
+  title: Equivalent circuit modeling for triboelectric energy harvesters
+  journal: Mechanical Systems and Signal Processing
+  volume: 235
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.ymssp.2025.112916
+  Doi: "https://doi.org/10.1016/j.ymssp.2025.112916"
+  PDF: J105_Liu et al_2025_10.1016j.ymssp.2025.112916.pdf
+  Supplementary_Information: Not available
 
 - index: 104
-  published: '2025-07-01'
+  published: 2025-07-14
   authors:
-  - Liu, Zicheng
-  - Hu, Guobiao
-  - Wang, Yawei
-  - Yoon, Heesoo
-  - Zhao, Chaoyang
-  - Li, Xin
-  - Yang, Yaowen
-  title: Electromechanical modeling and experimental validation of an origami-structured
-    triboelectric vibration energy harvester
-  journal: Applied Energy
-  volume: '389'
-  issue: NA
-  pages: '125761'
-  doi: 10.1016/j.apenergy.2025.125761
-  Doi: https://doi.org/10.1016/j.apenergy.2025.125761
-  PDF: J104.pdf
+  - Junlei Wang
+  - Han Li
+  - Daniil Yurchenko
+  - Haigang Tian
+  - Guobiao Hu*
+  title: Enhancing vibration isolation and energy harvesting via a quasi-zero stiffness electromagnetic system
+  journal: Applied Physics Letters
+  volume: 127
+  issue: 2
+  pages: Not available
+  doi: 10.1063/5.0274334
+  Doi: "https://doi.org/10.1063/5.0274334"
+  PDF: J104_Wang et al_2025_10.10635.0274334.pdf
+  Supplementary_Information: Not available
 
 - index: 103
-  published: '2025-06-01'
+  published: 2025-07-11
   authors:
-  - Zhao, Chaoyang
-  - Li, Xin
-  - Dong, Liwei
-  - Hu, Guobiao
-  - Han, Chengjia
-  - Dong, Yiqing
-  - Zhao, Liya
-  - Yang, Yaowen
-  title: Enhancing bandwidth of triboelectric vibration energy harvesters through
-    magnetic tuning
-  journal: Mechanical Systems and Signal Processing
-  volume: '232'
-  issue: NA
-  pages: '112704'
-  doi: 10.1016/j.ymssp.2025.112704
-  Doi: https://doi.org/10.1016/j.ymssp.2025.112704
-  PDF: J103.pdf
+  - Ziyue Xi
+  - Hengxu Du
+  - Yawei Wang
+  - Hongyong Yu
+  - Shu Dai
+  - Mingli Fan
+  - Jingyi Liu
+  - Quanke Su
+  - Hao Wang
+  - Guobiao Hu*
+  - Minyi Xu
+  title: A Ternary-Dielectric Rolling TENG Array for Robust Ocean Energy Harvesting and Distributed Environmental Monitoring
+  journal: Nano Energy
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.nanoen.2025.111318
+  Doi: "https://doi.org/10.1016/j.nanoen.2025.111318"
+  PDF: J103_Xi et al_2025_10.1016j.nanoen.2025.111318.pdf
+  Supplementary_Information: Not available
 
 - index: 102
-  published: '2025-05-01'
+  published: 2025-07-01
   authors:
-  - Tang, Hao
-  - Peng, Xuzhang
-  - Li, Xin
-  - Yu, Dewen
-  - Zi, Yunlong
-  - Hu, Guobiao
-  title: A unified system-level simulation framework for energy harvesting, management,
-    and application in plucking piezoelectric energy harvesters
-  journal: Smart Materials and Structures
-  volume: '34'
-  issue: '5'
-  pages: 05LT01
-  doi: 10.1088/1361-665x/add8d4
-  Doi: https://doi.org/10.1088/1361-665x/add8d4
-  PDF: J102.pdf
+  - Zicheng Liu
+  - Guobiao Hu
+  - Yawei Wang
+  - Heesoo Yoon
+  - Chaoyang Zhao
+  - Xin Li
+  - Yaowen Yang
+  title: Electromechanical modeling and experimental validation of an origami-structured triboelectric vibration energy harvester
+  journal: Applied Energy
+  volume: 389
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.apenergy.2025.125761
+  Doi: "https://doi.org/10.1016/j.apenergy.2025.125761"
+  PDF: J102_Liu et al_2025_10.1016j.apenergy.2025.125761.pdf
+  Supplementary_Information: Not available
 
 - index: 101
-  published: '2025-12-01'
+  published: 2025-06-01
   authors:
-  - Li, Dian
-  - Su, Depeng
-  - Tang, Hao
-  - Yu, Dewen
-  - Yu, Liuding
-  - Zhang, Haizhu
-  - Hu, Guobiao
-  title: A hardware-centered digital twin framework for real-time monitoring of railway
-    vehicle bogies
-  journal: 'Proceedings of the Institution of Mechanical Engineers, Part C: Journal
-    of Mechanical Engineering Science'
-  volume: '239'
-  issue: '24'
-  pages: 10242-10257
-  doi: 10.1177/09544062251378816
-  Doi: https://doi.org/10.1177/09544062251378816
-  PDF: J101.pdf
+  - Chaoyang Zhao
+  - Xin Li
+  - Liwei Dong
+  - Guobiao Hu
+  - Chengjia Han
+  - Yiqing Dong
+  - Liya Zhao
+  - Yaowen Yang
+  title: Enhancing bandwidth of triboelectric vibration energy harvesters through magnetic tuning
+  journal: Mechanical Systems and Signal Processing
+  volume: 232
+  issue: 1
+  pages: Not available
+  doi: 10.1016j.ymssp.2025.112704
+  Doi: "https://doi.org/10.1016/j.ymssp.2025.112704"
+  PDF: J101_Zhao et al_2025_10.1016j.ymssp.2025.112704.pdf
+  Supplementary_Information: Not available
 
 - index: 100
-  published: '2025-05-05'
+  published: 2025-05-24
   authors:
-  - Wang, Shuo
-  - Lan, Chunbo
-  - Hu, Guobiao
-  - Liao, Yabin
-  title: Modeling and performance of a metamaterial beam with magnetically coupled
-    resonators
-  journal: Active and Passive Smart Structures and Integrated Systems XIX
-  volume: NA
-  issue: NA
-  pages: '3'
-  doi: 10.1117/12.3051199
-  Doi: https://doi.org/10.1117/12.3051199
-  PDF: J100.pdf
+  - Tingpeng Zhang
+  - Xuzhang Peng
+  - Mingyuan Zhou
+  - Guobiao Hu*
+  - Zhilu Lai
+  title: "Mechanical in-sensor computing: a programmable meta-sensor for structural damage classification without external electronic power"
+  journal: "arXiv preprint arXiv:2505.18579"
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.ymssp.2025.113347
+  Doi: "https://doi.org/10.1016/j.ymssp.2025.113347"
+  PDF: J100_Zhang et al_2025_10.1016j.ymssp.2025.113347.pdf
+  Supplementary_Information: Not available
 
 - index: 99
-  published: '2025-05-01'
+  published: 2025-05-14
   authors:
-  - Lan, Chunbo
-  - Zhang, Ye
-  - Wang, Shuo
-  - Lu, Yang
-  - Wang, Yawei
-  - Hu, Guobiao
-  title: Enhancing galloping-based energy harvesting through expanded quasi-zero-stiffness
-    region
+  - Hao Tang
+  - Xuzhang Peng
+  - Xin Li
+  - Dewen Yu
+  - Yunlong Zi
+  - Guobiao Hu*
+  title: A unified system-level simulation framework for energy harvesting, management, and application in plucking piezoelectric energy harvesters
   journal: Smart Materials and Structures
-  volume: '34'
-  issue: '5'
-  pages: 055018
-  doi: 10.1088/1361-665x/add3db
-  Doi: https://doi.org/10.1088/1361-665x/add3db
-  PDF: J99.pdf
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1088/1361-665x/add8d4
+  Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=06d02254-5ad6-494a-baee-5361466b65bd&ssb=06362249179&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Fadd8d4&ssi=d85ba60c-cnvj-44d0-9fa8-f9d84b696afa&ssk=botmanager_support@radware.com&ssm=55891250682060900109518924981837&ssn=ec48928dd1e1e2b25dc120b653296983c1e93d3b2764-65aa-4826-a2494d&sso=ef56fd5f-c2c2269a3e87d48512f27e99a8e1429fc7d6abba0cad8823&ssp=35856545551776449667177647838020554&ssq=92147214096945764329540969797815461886787&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwYTA4OTgwMzYtYTNiOS00NzA2LWE5Y2YtMzExZWE4M2M0OGQzMS0xNzc2NDQwOTY5MjIyMC1kMmQ4MDZjYmFmZjQ4OWM0MTAiLCJfX3V6bWYiOiI3ZjkwMDAzZDNiMjc2NC02NWFhLTQ4MjYtYWQ1Zi1jMmMyMjY5YTNlODcxLTE3NzY0NDA5NjkyMjIwLTAwMzUzMjQwMjgyZWUwYmUwMzExMCIsInJkIjoiaW9wLm9yZyJ9"
+  PDF: J99_Tang et al_2025_10.10881361-665xadd8d4.pdf
+  Supplementary_Information: Not available
 
 - index: 98
-  published: '2025-05-01'
+  published: 2025-05-02
   authors:
-  - Yu, Dewen
-  - Wang, Gang
-  - Zhao, Qiangqiang
-  - Ding, Wei
-  - Hu, Guobiao
-  - Hong, Jun
-  title: Isotactic and syndiotactic chiral mechanical metamaterials with tunable band
-    gaps
-  journal: Mechanical Systems and Signal Processing
-  volume: '230'
-  issue: NA
-  pages: '112602'
-  doi: 10.1016/j.ymssp.2025.112602
-  Doi: https://doi.org/10.1016/j.ymssp.2025.112602
-  PDF: J98.pdf
+  - Chunbo Lan
+  - Ye Zhang
+  - Shuo Wang
+  - Yang Lu
+  - Yawei Wang
+  - Guobiao Hu*
+  title: Enhancing galloping-based energy harvesting through expanded quasi-zero-stiffness region
+  journal: Smart Materials and Structures
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1088/1361-665x/add3db
+  Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=4a217172-8e86-4e09-a779-25c9b07563f3&ssb=86988268225&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Fadd3db&ssi=8f822d56-cnvj-4c87-ad7a-078ee3d73077&ssk=botmanager_support@radware.com&ssm=12153588593556816102680636638882&ssn=0ca063037a82550c6f8bd410412e36ef42964d688fa4-4c9f-4a1b-947367&sso=6cfda53b-3ac9a425dedc9cae5a52d9e0d4fa638b760da50d639a17f0&ssp=56753030651776413026177641945376966&ssq=53718584098722519719640987298948878693225&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwM2I4ZmVjZWEtYzUxNS00YWUwLWIyMzAtNmMzMGNhYzgxZGM5MS0xNzc2NDQwOTg3ODY0MC1jNDM1NDc5MWYxMGFkNDgwMTAiLCJfX3V6bWYiOiI3ZjkwMDA0ZDY4OGZhNC00YzlmLTRhMWItOTUzYi0zYWM5YTQyNWRlZGMxLTE3NzY0NDA5ODc4NjQwLTAwM2VjNDM4YjcxZmVmNzMzYzExMCIsInJkIjoiaW9wLm9yZyJ9"
+  PDF: J98_Lan et al_2025_10.10881361-665xadd3db.pdf
+  Supplementary_Information: Not available
 
 - index: 97
-  published: '2025-06-01'
+  published: 2025-05-01
   authors:
-  - Zhang, Jiazhen
-  - Hu, Guobiao
-  - Tang, Hao
-  - Yang, Yaowen
-  title: Broadband and tunable vibration suppression via Piezoelectric-ABH meta-beam
-  journal: International Journal of Mechanical Sciences
-  volume: '296'
-  issue: NA
-  pages: '110312'
-  doi: 10.1016/j.ijmecsci.2025.110312
-  Doi: https://doi.org/10.1016/j.ijmecsci.2025.110312
-  PDF: J97.pdf
+  - Dewen Yu
+  - Gang Wang
+  - Qiangqiang Zhao
+  - Wei Ding
+  - Guobiao Hu*
+  - Jun Hong
+  title: Isotactic and syndiotactic chiral mechanical metamaterials with tunable band gaps
+  journal: Mechanical Systems and Signal Processing
+  volume: 230
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.ymssp.2025.112602
+  Doi: "https://doi.org/10.1016/j.ymssp.2025.112602"
+  PDF: J97_Yu et al_2025_10.1016j.ymssp.2025.112602.pdf
+  Supplementary_Information: Not available
 
 - index: 96
-  published: '2025-03-01'
+  published: 2025-04-28
   authors:
-  - Xia, Cuipeng
-  - Tang, Lihua
-  - Wu, Yi
-  - Hu, Guobiao
-  - Yin, Peilun
-  - Aw, Kean C.
-  - Inman, Daniel J.
-  title: Modeling and validation of a tri-section beam based multi-directional galloping
-    energy harvester
-  journal: Mechanical Systems and Signal Processing
-  volume: '226'
-  issue: NA
-  pages: '112354'
-  doi: 10.1016/j.ymssp.2025.112354
-  Doi: https://doi.org/10.1016/j.ymssp.2025.112354
-  PDF: J96.pdf
+  - Jiazhen Zhang
+  - Guobiao Hu*
+  - Hao Tang
+  - Yaowen Yang
+  title: Broadband and Tunable Vibration Suppression via Piezoelectric-ABH Meta-Beam
+  journal: International Journal of Mechanical Sciences
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.ijmecsci.2025.110312
+  Doi: "https://doi.org/10.1016/j.ijmecsci.2025.110312"
+  PDF: J96_Zhang et al_2025_10.1016j.ijmecsci.2025.110312.pdf
+  Supplementary_Information: Not available
 
 - index: 95
-  published: '2025-02-01'
+  published: 2025-03-01
   authors:
-  - Li, Yihao
-  - Peng, Xuzhang
-  - Li, Yizhou
-  - Li, Dian
-  - Hu, Guobiao
-  title: Catapult mechanism-enabled push-button energy harvester designed for capturing
-    ultra-low frequency motion
+  - Cuipeng Xia
+  - Lihua Tang
+  - Yi Wu
+  - Guobiao Hu
+  - Peilun Yin
+  - Kean C Aw
+  - Daniel J Inman
+  title: Modeling and validation of a tri-section beam based multi-directional galloping energy harvester
   journal: Mechanical Systems and Signal Processing
-  volume: '225'
-  issue: NA
-  pages: '112268'
-  doi: 10.1016/j.ymssp.2024.112268
-  Doi: https://doi.org/10.1016/j.ymssp.2024.112268
-  PDF: J95.pdf
+  volume: 226
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.ymssp.2025.112354
+  Doi: "https://doi.org/10.1016/j.ymssp.2025.112354"
+  PDF: J95_Xia et al_2025_10.1016j.ymssp.2025.112354.pdf
+  Supplementary_Information: Not available
 
 - index: 94
-  published: '2025-03-01'
+  published: 2025-02-15
   authors:
-  - Jian, Yupei
-  - Tang, Lihua
-  - Huang, Deqing
-  - Han, Hesheng
-  - Liu, Weiqun
-  - Hu, Guobiao
-  title: Designing an electromechanical metamaterial beam with arbitrary decoupled
-    defect modes for multi-band wave localization
-  journal: Smart Materials and Structures
-  volume: '34'
-  issue: '3'
-  pages: '035015'
-  doi: 10.1088/1361-665x/adb35e
-  Doi: https://doi.org/10.1088/1361-665x/adb35e
-  PDF: J94.pdf
+  - Yihao Li
+  - Xuzhang Peng
+  - Yizhou Li
+  - Dian Li
+  - Guobiao Hu*
+  title: Catapult mechanism-enabled push-button energy harvester designed for capturing ultra-low frequency motion
+  journal: Mechanical Systems and Signal Processing
+  volume: 225
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.ymssp.2024.112268
+  Doi: "https://doi.org/10.1016/j.ymssp.2024.112268"
+  PDF: J94_Li et al_2025_10.1016j.ymssp.2024.112268.pdf
+  Supplementary_Information: Not available
 
 - index: 93
-  published: '2025-02-01'
+  published: 2025-02-06
   authors:
-  - Dong, Liwei
-  - Zhao, Chaoyang
-  - Qu, Shuai
-  - Ding, Wei
-  - Hu, Guobiao
-  - Han, Chengjia
-  - Yang, Yaowen
-  title: Structural galloping suppression with high-frequency flutter
-  journal: International Journal of Mechanical Sciences
-  volume: '287'
-  issue: NA
-  pages: '109928'
-  doi: 10.1016/j.ijmecsci.2025.109928
-  Doi: https://doi.org/10.1016/j.ijmecsci.2025.109928
-  PDF: J93.pdf
+  - Yupei Jian
+  - Lihua Tang
+  - Deqing Huang
+  - Hesheng Han
+  - Weiqun Liu
+  - Guobiao Hu*
+  title: Designing an electromechanical metamaterial beam with arbitrary decoupled defect modes for multi-band wave localization
+  journal: Smart Materials and Structures
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1088/1361-665x/adb35e
+  Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=d1ab1ce5-c299-4f70-930d-9d4f57e0d967&ssb=50741221266&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Fadb35e&ssi=cff150d4-cnvj-45cc-b892-661545f12af4&ssk=botmanager_support@radware.com&ssm=41016642057538948103828833110479&ssn=289e0233890081a68a87b722ffca3754439d3175d256-565e-40c1-8a5426&sso=6d9ee89a-280e98e389c0236c9bd4fee09ae4de9983ddc19819087bc1&ssp=75005410071776414058177649081723364&ssq=87871694103816159107441038619246035594266&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwZTk5YTQ5NTItZGFhYS00NmY5LWJjODgtYjE2Y2Y0ZGQzMThmMS0xNzc2NDQxMDM4Njk4MC1lNjhmZWIzODU5YTRiMWRlMTAiLCJfX3V6bWYiOiI3ZjkwMDAzMTc1ZDI1Ni01NjVlLTQwYzEtODg5YS0yODBlOThlMzg5YzAxLTE3NzY0NDEwMzg2OTgwLTAwM2ZjYWY3ZDE0NTI0NjJjMmQxMCIsInJkIjoiaW9wLm9yZyJ9"
+  PDF: J93_Jian et al_2025_10.10881361-665xadb35e.pdf
+  Supplementary_Information: Not available
 
 - index: 92
-  published: '2025-02-01'
+  published: 2025-02-01
   authors:
-  - Yu, Liuding
-  - Liu, Shuyong
-  - Guobiao, Hu
-  title: Experimental Investigation on the Chaos-to-Interwell Motion Transfer in a
-    Bistable Beam-Slider Vibration Energy Harvester
-  journal: Journal of Vibration and Acoustics
-  volume: '147'
-  issue: '1'
-  pages: NA
-  doi: 10.1115/1.4067058
-  Doi: https://doi.org/10.1115/1.4067058
-  PDF: J92.pdf
+  - Hao Tang
+  - Weiqun Liu
+  - Guobiao Hu
+  - Jian Liu
+  - Dawei Dong
+  title: Optimized multi-step synchronous electric charge extraction via accurate electrical efficiency analysis
+  journal: Smart Materials and Structures
+  volume: 34
+  issue: 2
+  pages: Not available
+  doi: 10.1088/1361-665x/ada599
+  Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=53fc9596-bc89-481e-8b21-e9502481e2ae&ssb=07682258362&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Fada599&ssi=b0daea9c-cnvj-44bf-a77b-d6e8f0005d22&ssk=botmanager_support@radware.com&ssm=63136320869811198104747842657706&ssn=2a60bc6d37bcc8f85873f49cd5137d298287a0d8106e-14d2-43f3-af5840&sso=e1746289-8e16a81166bbb4e212decc531bfefc5c7080b1a459a12b8a&ssp=54702185641776462896177645524126803&ssq=85685494104507652133041045606369859541741&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwMDk0NGFjMGYtNjI3OC00MzNhLWEyMDgtZGYyMzNlNjdjMDVmMS0xNzc2NDQxMDQ1NjU0MC1mNmMxNDMwODNkZGZiMWQzMTAiLCJfX3V6bWYiOiI3ZjkwMDBhMGQ4MTA2ZS0xNGQyLTQzZjMtYTI4OS04ZTE2YTgxMTY2YmIxLTE3NzY0NDEwNDU2NTQwLTAwMzBlM2JjZmJmNDYyYmI5NDMxMCIsInJkIjoiaW9wLm9yZyJ9"
+  PDF: J92_Tang et al_2025_10.10881361-665xada599.pdf
+  Supplementary_Information: Not available
 
 - index: 91
-  published: '2025-02-01'
+  published: 2025-02-01
   authors:
-  - Tang, Hao
-  - Liu, Weiqun
-  - Hu, Guobiao
-  - Liu, Jian
-  - Dong, Dawei
-  title: Optimized multi-step synchronous electric charge extraction via accurate
-    electrical efficiency analysis
-  journal: Smart Materials and Structures
-  volume: '34'
-  issue: '2'
-  pages: '025027'
-  doi: 10.1088/1361-665x/ada599
-  Doi: https://doi.org/10.1088/1361-665x/ada599
-  PDF: J91.pdf
+  - Liwei Dong
+  - Chaoyang Zhao
+  - Shuai Qu
+  - Wei Ding
+  - Guobiao Hu
+  - Chengjia Han
+  - Yaowen Yang
+  title: Structural galloping suppression with high-frequency flutter
+  journal: International Journal of Mechanical Sciences
+  volume: 287
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.ijmecsci.2025.109928
+  Doi: "https://doi.org/10.1016/j.ijmecsci.2025.109928"
+  PDF: J91_Dong et al_2025_10.1016j.ijmecsci.2025.109928.pdf
+  Supplementary_Information: Not available
 
 - index: 90
-  published: '2025-01-13'
+  published: 2025-02-01
   authors:
-  - Li, Yizhou
-  - Wang, Yawei
-  - Li, Yihao
-  - Peng, Xuzhang
-  - Li, Dian
-  - Xia, Xin
-  - Li, Xin
-  - Zi, Yunlong
-  - Hu, Guobiao
-  title: 'Heat-powered IoT node: A synergistic fusion of thermoacoustic engine and
-    triboelectric nanogenerator'
+  - Liuding Yu
+  - Shuyong Liu
+  - Guobiao Hu*
+  title: Experimental investigation on the chaos-to-interwell motion transfer in a bistable beam-slider vibration energy harvester
+  journal: Journal of Vibration and Acoustics - Transactions of the ASME
+  volume: 147
+  issue: 1
+  pages: Not available
+  doi: 10.1115/1.4067058
+  Doi: "https://asmedigitalcollection.asme.org/vibrationacoustics/article/147/1/011001/1207881/Experimental-Investigation-on-the-Chaos-to"
+  PDF: J90_Yu et al_2025_10.11151.4067058.pdf
+  Supplementary_Information: Not available
+
+- index: 89
+  published: 2025-01-13
+  authors:
+  - Yizhou Li
+  - Yawei Wang
+  - Yihao Li
+  - Xuzhang Peng
+  - Dian Li
+  - Xin Xia
+  - Xin Li
+  - Yunlong Zi
+  - Guobiao Hu*
+  title: "Heat-powered IoT node: A synergistic fusion of thermoacoustic engine and triboelectric nanogenerator"
   journal: Applied Physics Letters
-  volume: '126'
-  issue: '2'
-  pages: NA
+  volume: 126
+  issue: 2
+  pages: Not available
   doi: 10.1063/5.0244410
-  Doi: https://doi.org/10.1063/5.0244410
-  PDF: J90.pdf
+  Doi: "https://pubs.aip.org/aip/apl/article/126/2/023902/3330599/Heat-powered-IoT-node-A-synergistic-fusion-of"
+  PDF: J89_Li et al_2025_10.10635.0244410.pdf
+  Supplementary_Information: Not available
 
+- index: 88
+  published: 2025-01-01
+  authors:
+  - Hao Tang
+  - Guobiao Hu*
+  title: Bias-flip synchronized switch damping technique for enhanced and adaptive vibration attenuation
+  journal: Journal of Intelligent Material Systems and Structures
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1177/1045389x251374840
+  Doi: "https://doi.org/10.1177/1045389x251374840"
+  PDF: J88_Tang et al_2025_10.11771045389x251374840.pdf
+  Supplementary_Information: Not available
 
+- index: 87
+  published: 2025-01-01
+  authors:
+  - Liwei Dong
+  - Guobiao Hu
+  - Qian Tang
+  - Chaoyang Zhao
+  - Fan Yang
+  - Yaowen Yang
+  title: Advanced Aerodynamics-Driven Energy Harvesting Leveraging Galloping-Flutter Synergy
+  journal: Advanced Functional Materials
+  volume: 35
+  issue: 4
+  pages: Not available
+  doi: 10.1002/adfm.202414324
+  Doi: "https://doi.org/10.1002/adfm.202414324"
+  PDF: J87_Dong et al_2025_10.1002adfm.202414324.pdf
+  Supplementary_Information: Not available

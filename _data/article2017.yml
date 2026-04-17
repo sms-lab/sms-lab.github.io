@@ -1,38 +1,50 @@
 - index: 3
-  published: 2017-02-24
+  published: 2017-02-01
   authors:
-  - Hu, Guobiao
-  - Tang, Lihua
-  - Das, Raj
-  - Gao, Shiqiao
-  - Liu, Haipeng
-  title: Acoustic metamaterials with coupled local resonators for broadband vibration
-    suppression
+  - Guobiao Hu
+  - Lihua Tang
+  - Raj Das
+  - Shiqiao Gao
+  - Haipeng Liu
+  title: Acoustic metamaterials with coupled local resonators for broadband vibration suppression
   journal: AIP Advances
-  volume: '7'
-  issue: '2'
+  volume: 7
+  issue: 2
   pages: Not available
   doi: 10.1063/1.4977559
-  Doi: https://pubs.aip.org/aip/adv/article/7/2/025211/21903
-  PDF: Hu et al_2017_Acoustic metamaterials with coupled local resonators for broadband
-    vibration.pdf
-  Supplementary_Information: https://example.com/supplementary
+  Doi: "https://doi.org/10.1063/1.4977559"
+  PDF: J3_Hu et al_2017_10.10631.4977559.pdf
+  Supplementary_Information: Not available
 
 - index: 2
+  published: 2017-02-01
+  authors:
+  - Guobiao Hu
+  - Lihua Tang
+  - Arnab Banerjee
+  - Raj Das
+  title: Metastructure with piezoelectric element for simultaneous vibration suppression and energy harvesting
+  journal: Journal of Vibration and Acoustics - Transactions of the ASME
+  volume: 139
+  issue: 1
+  pages: Not available
+  doi: 10.1115/1.4034770
+  Doi: "https://doi.org/10.1115/1.4034770"
+  PDF: J2_Hu et al_2017_10.11151.4034770.pdf
+  Supplementary_Information: Not available
+
+- index: 1
   published: 2017-01-01
   authors:
-  - Hu, Guobiao
-  - Tang, Lihua
-  - Das, Raj
-  title: An impact-engaged two-degrees-of-freedom piezoelectric energy harvester for
-    wideband operation
+  - Guobiao Hu
+  - Lihua Tang
+  - Raj Das
+  title: An impact-engaged two-degrees-of-freedom piezoelectric energy harvester for wideband operation
   journal: Procedia engineering
-  volume: '173'
+  volume: 173
   issue: Not available
-  pages: 1463--1470
+  pages: Not available
   doi: 10.1016/j.proeng.2016.12.216
-  Doi: https://www.sciencedirect.com/science/article/pii/S1877705816346173
-  PDF: Hu et al_2017_An impact-engaged two-degrees-of-freedom piezoelectric energy
-    harvester for.pdf
-  Supplementary_Information: https://example.com/supplementary
-
+  Doi: "https://doi.org/10.1016/j.proeng.2016.12.216"
+  PDF: J1_Hu et al_2017_10.1016j.proeng.2016.12.216.pdf
+  Supplementary_Information: Not available

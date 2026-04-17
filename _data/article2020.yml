@@ -1,196 +1,166 @@
-- index: 24
-  published: 2020-12-10
-  authors:
-  - Wang, Junlei
-  - Li, Guoping
-  - Jin, Zunlong
-  - Hu, Guobiao
-  - Zhang, Kun
-  - Zhang, Peng
-  title: A hybrid wind energy harvester using a slotted cylinder bluff body
-  journal: International Journal of Applied Electromagnetics and Mechanics
-  volume: '64'
-  issue: '1'
-  pages: 119--127
-  doi: 10.3233/JAE-209314
-  Doi: https://content.iospress.com/articles/international-journal-of-applied-electromagnetics-and-mechanics/jae209314
-  PDF: Wang et al_2020_A hybrid wind energy harvester using a slotted cylinder bluff
-    body.pdf
-  Supplementary_Information: https://example.com/supplementary
-
-- index: 23
-  published: 2020-10-05
-  authors:
-  - Xu, Jiawen
-  - Hu, Guobiao
-  - Tang, Lihua
-  - Zhang, Yumin
-  - Yan, Ruqiang
-  title: Modeling and analysis of phononic crystal with coupled lanes for enhanced
-    elastic wave attenuation
-  journal: Journal of Vibration and Acoustics
-  volume: '143'
-  issue: '2'
-  pages: '021011'
-  doi: 10.1115/1.4048394
-  Doi: https://asmedigitalcollection.asme.org/vibrationacoustics/article-abstract/143/2/021011/1086792
-  PDF: Xu et al_2021_Modeling and analysis of phononic crystal with coupled lanes
-    for enhanced.pdf
-  Supplementary_Information: https://example.com/supplementary
-
 - index: 22
-  published: 2020-09-23
+  published: 2020-11-01
   authors:
-  - Hu, Guobiao
-  - Liang, Junrui
-  - Lan, Chunbo
-  - Tang, Lihua
+  - Guobiao Hu
+  - Junrui Liang
+  - Chunbo Lan
+  - Lihua Tang
   title: A twist piezoelectric beam for multi-directional energy harvesting
   journal: Smart Materials and Structures
-  volume: '29'
-  issue: '11'
-  pages: 11LT01
-  doi: 10.1088/1361-665X/abb648
-  Doi: https://iopscience.iop.org/article/10.1088/1361-665X/abb648/meta
-  PDF: Hu et al_2020_A twist piezoelectric beam for multi-directional energy harvesting.pdf
-  Supplementary_Information: https://example.com/supplementary
+  volume: 29
+  issue: 11
+  pages: Not available
+  doi: 10.1088/1361-665x/abb648
+  Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=77252d9b-d952-4632-b747-f4faa9f30ec0&ssb=08243230512&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Fabb648&ssi=d7fc85f1-cnvj-4edc-b1ec-ad08491455e0&ssk=botmanager_support@radware.com&ssm=75002134106024193104931328880415&ssn=56471b2c8097eaad37abd2f3d37db044968b998e10d4-9661-4acb-86c86e&sso=954ce3ed-c7e6817e2ab11b558ca655a5c98711e85af68538b2e18ae1&ssp=51219127031776470805177644958381391&ssq=05445674217339165850742173240363289049573&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwNGU0ODkxMzQtMmY4OC00MGRhLWI5NmItN2FkZGQ4YmRjMDRhMS0xNzc2NDQyMTczMzUzMC1kNjJkOGUzNTU4NDhmM2I1MTAiLCJfX3V6bWYiOiI3ZjkwMDA5OThlMTBkNC05NjYxLTRhY2ItODNlZC1jN2U2ODE3ZTJhYjExLTE3NzY0NDIxNzMzNTMwLTAwMzU0NjdmNTlmZWE5ZDE0YjQxMCIsInJkIjoiaW9wLm9yZyJ9"
+  PDF: J22_Hu et al_2020_10.10881361-665xabb648.pdf
+  Supplementary_Information: Not available
 
 - index: 21
   published: 2020-09-01
   authors:
-  - Hu, Guobiao
-  - Wang, Junlei
-  - Qiao, Hongwei
-  - Zhao, Liya
-  - Li, Zhaoyu
-  - Tang, Lihua
-  title: An experimental study of a two-degree-of-freedom galloping energy harvester
+  - Guobiao Hu
+  - Junlei Wang
+  - Hongwei Qiao
+  - Liya Zhao
+  - Zhaoyu Li
+  - Lihua Tang
+  title: An experimental study of a two‐degree‐of‐freedom galloping energy harvester
   journal: International Journal of Energy Research
-  volume: '45'
-  issue: '2'
-  pages: 3365--3374
+  volume: Not available
+  issue: Not available
+  pages: Not available
   doi: 10.1002/er.5878
-  Doi: https://onlinelibrary.wiley.com/doi/10.1002/er.5878
-  PDF: Hu et al_2021_An experimental study of a span style=font-variant.pdf
-  Supplementary_Information: https://example.com/supplementary
+  Doi: "https://doi.org/10.1002/er.5878"
+  PDF: J21_Hu et al_2020_10.1002er.5878.pdf
+  Supplementary_Information: Not available
 
 - index: 20
-  published: 2020-06-19
+  published: 2020-09-01
   authors:
-  - Lan, Chunbo
-  - Liao, Yabin
-  - Hu, Guobiao
-  - Tang, Lihua
-  title: Equivalent impedance and power analysis of monostable piezoelectric energy
-    harvesters
-  journal: Journal of Intelligent Material Systems and Structures
-  volume: '31'
-  issue: '14'
-  pages: 1697--1715
-  doi: 10.1177/1045389X20930080
-  Doi: http://journals.sagepub.com/doi/10.1177/1045389X20930080
-  PDF: Equivalent impedance and power analysis of monostable piezoelectric energy
-    harvesters
-  Supplementary_Information: https://example.com/supplementary
+  - Junlei Wang
+  - Guoping Li
+  - Zunlong Jin
+  - Guobiao Hu
+  - Kun Zhang
+  - Peng Zhang
+  title: A hybrid wind energy harvester using a slotted cylinder bluff body
+  journal: International Journal of Applied Electromagnetics and Mechanics
+  volume: 64
+  issue: 1-4
+  pages: Not available
+  doi: 10.3233/jae-209314
+  Doi: "https://doi.org/10.3233/jae-209314"
+  PDF: J20_Wang et al_2020_10.3233jae-209314.pdf
+  Supplementary_Information: Not available
 
 - index: 19
-  published: 2020-06-03
+  published: 2020-08-01
   authors:
-  - Yang, Kai
-  - Su, Kewei
-  - Wang, Junlei
-  - Wang, Fei
-  - Hu, Guobiao
-  - Gaidai, Oleg
-  title: Performance evaluation of a dual-piezoelectric-beam vibration energy harvester
-    with a lever and repulsive magnets
-  journal: Smart Materials and Structures
-  volume: '29'
-  issue: '7'
-  pages: '075010'
-  doi: 10.1088/1361-665X/ab83ce
-  Doi: https://iopscience.iop.org/article/10.1088/1361-665X/ab83ce/meta
-  PDF: Performance evaluation of a dual-piezoelectric-beam vibration energy harvester
-    with a lever and repulsive magnets
-  Supplementary_Information: https://example.com/supplementary
+  - Chunbo Lan
+  - Yabin Liao
+  - Guobiao Hu
+  - Lihua Tang
+  title: Equivalent impedance and power analysis of monostable piezoelectric energy harvesters
+  journal: Journal of Intelligent Material Systems and Structures
+  volume: 31
+  issue: 14
+  pages: Not available
+  doi: 10.1177/1045389x20930080
+  Doi: "https://doi.org/10.1177/1045389x20930080"
+  PDF: J19_Lan et al_2020_10.11771045389x20930080.pdf
+  Supplementary_Information: Not available
 
 - index: 18
-  published: 2020-06-01
+  published: 2020-07-01
   authors:
-  - Wang, Junlei
-  - Gu, Shanghao
-  - Zhang, Chengyun
-  - Hu, Guobiao
-  - Chen, Geng
-  - Yang, Kai
-  - Li, Hang
-  - Lai, Yuyang
-  - Litak, Grzegorz
-  - Yurchenko, Daniil
-  title: Hybrid wind energy scavenging by coupling vortex-induced vibrations and galloping
-  journal: Energy Conversion and Management
-  volume: '213'
-  issue: Not available
-  pages: '112835'
-  doi: 10.1016/j.enconman.2020.112835
-  Doi: https://www.sciencedirect.com/science/article/pii/S0196890420303733
-  PDF: Hybrid wind energy scavenging by coupling vortex-induced vibrations and galloping
-  Supplementary_Information: https://example.com/supplementary
+  - Kai Yang
+  - Kewei Su
+  - Junlei Wang
+  - Fei Wang
+  - Guobiao Hu
+  - Oleg Gaidai
+  title: Performance evaluation of a dual-piezoelectric-beam vibration energy harvester with a lever and repulsive magnets
+  journal: Smart Materials and Structures
+  volume: 29
+  issue: 7
+  pages: Not available
+  doi: 10.1088/1361-665x/ab83ce
+  Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=6693e39e-a655-45fa-aa93-15bc83a7128d&ssb=87556239069&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Fab83ce&ssi=c8fc2cec-cnvj-47bd-98b4-1be191cef7c7&ssk=botmanager_support@radware.com&ssm=54788891484314851102517840389572&ssn=d10a395a822158944fa3966ab0d485eb50a490b57646-4fe5-4924-8a0d5b&sso=a59ceb47-32ebb171c3ebc53e17f4564844c9803cba8df56d5a7e0c28&ssp=23670054141776410981177644075841219&ssq=83343324222796535282942227347617951791473&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwNTQyMTJlMWUtMDUxZS00YTBlLTkwMTktYjVkOTU4NzQxZTVjMS0xNzc2NDQyMjI3Mzk1MC0zYjU1YTQ1N2IxMjhiNjMyMTAiLCJfX3V6bWYiOiI3ZjkwMDA5MGI1NzY0Ni00ZmU1LTQ5MjQtOGI0Ny0zMmViYjE3MWMzZWIxLTE3NzY0NDIyMjczOTUwLTAwMzZjYjVkMDJhN2I5NDc5OWExMCIsInJkIjoiaW9wLm9yZyJ9"
+  PDF: J18_Yang et al_2020_10.10881361-665xab83ce.pdf
+  Supplementary_Information: Not available
 
 - index: 17
-  published: 2020-05-01
+  published: 2020-06-01
   authors:
-  - Wang, Junlei
-  - Tang, Lihua
-  - Zhao, Liya
-  - Hu, Guobiao
-  - Song, Rujun
-  - Xu, Kun
-  title: Equivalent circuit representation of a vortex‐induced vibration‐based energy
-    harvester using a semi‐empirical lumped parameter approach
-  journal: International Journal of Energy Research
-  volume: '44'
-  issue: '6'
-  pages: 4516--4528
-  doi: 10.1002/er.5228
-  Doi: https://onlinelibrary.wiley.com/doi/10.1002/er.5228
-  PDF: Wang et al_2020_Equivalent circuit representation of a vortex‐induced vibration‐based
-    energy.pdf
-  Supplementary_Information: https://example.com/supplementary
+  - Junlei Wang
+  - Shanghao Gu
+  - Chengyun Zhang
+  - Guobiao Hu
+  - Geng Chen
+  - Kai Yang
+  - Hang Li
+  - Yuyang Lai
+  - Grzegorz Litak
+  - Daniil Yurchenko
+  title: Hybrid wind energy scavenging by coupling vortex-induced vibrations and galloping
+  journal: Energy Conversion and Management
+  volume: 213
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.enconman.2020.112835
+  Doi: "https://doi.org/10.1016/j.enconman.2020.112835"
+  PDF: J17_Wang et al_2020_10.1016j.enconman.2020.112835.pdf
+  Supplementary_Information: Not available
 
 - index: 16
-  published: 2020-04-01
+  published: 2020-05-01
   authors:
-  - Zhang, Min
-  - Hu, Guobiao
-  - Wang, Junlei
-  title: Bluff body with built‐in piezoelectric cantilever for flow‐induced energy
-    harvesting
-  journal: International Journal of Energy Research
-  volume: '44'
-  issue: '5'
-  pages: 3762--3777
-  doi: 10.1002/er.5164
-  Doi: https://onlinelibrary.wiley.com/doi/10.1002/er.5164
-  PDF: Bluff body with built‐in piezoelectric cantilever for flow‐induced energy harvesting
-  Supplementary_Information: https://example.com/supplementary
+  - Junlei Wang
+  - Lihua Tang
+  - Liya Zhao
+  - Guobiao Hu
+  - Rujun Song
+  - Kun Xu
+  title: Equivalent circuit representation of a vortex‐induced vibration‐based energy harvester using a semi‐empirical lumped parameter approach
+  journal: International journal of energy research
+  volume: 44
+  issue: 6
+  pages: Not available
+  doi: 10.1002/er.5228
+  Doi: "https://doi.org/10.1002/er.5228"
+  PDF: J16_Wang et al_2020_10.1002er.5228.pdf
+  Supplementary_Information: Not available
 
 - index: 15
-  published: 2020-02-18
+  published: 2020-04-01
   authors:
-  - Guo, Zhen-Kun
-  - Hu, Guobiao
-  - Sorokin, Vladislav
-  - Yang, Yi
-  - Tang, Lihua
-  title: Sound transmission through sandwich plate with hourglass lattice truss core
-  journal: Journal of Sandwich Structures & Materials
-  volume: '23'
-  issue: '6'
-  pages: 1902--1928
-  doi: 10.1177/1099636220906819
-  Doi: http://journals.sagepub.com/doi/10.1177/1099636220906819
-  PDF: Guo et al_2021_Sound transmission through sandwich plate with hourglass lattice
-    truss core.pdf
-  Supplementary_Information: https://example.com/supplementary
+  - Min Zhang
+  - Guobiao Hu
+  - Junlei Wang
+  title: Bluff body with built‐in piezoelectric cantilever for flow‐induced energy harvesting
+  journal: International Journal of Energy Research
+  volume: 44
+  issue: 5
+  pages: Not available
+  doi: 10.1002/er.5164
+  Doi: "https://doi.org/10.1002/er.5164"
+  PDF: J15_Zhang et al_2020_10.1002er.5164.pdf
+  Supplementary_Information: Not available
 
+- index: 14
+  published: 2020-02-01
+  authors:
+  - Guobiao Hu
+  - Jiawen Xu
+  - Lihua Tang
+  - Chunbo Lan
+  - Raj Das
+  title: Tunable metamaterial beam using negative capacitor for local resonators coupling
+  journal: Journal of Intelligent Material Systems and Structures
+  volume: 31
+  issue: 3
+  pages: Not available
+  doi: 10.1177/1045389x19891575
+  Doi: "https://doi.org/10.1177/1045389x19891575"
+  PDF: J14_Hu et al_2020_10.11771045389x19891575.pdf
+  Supplementary_Information: Not available

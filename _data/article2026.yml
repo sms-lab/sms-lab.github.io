@@ -1,38 +1,319 @@
-- index: 121
-  published: '2026-01-01'
+- index: 132
+  published: 2026-03-27
   authors:
-  - Sun, Zeye
-  - Li, Yizhou
-  - Li, Yihao
-  - Du, Chengyun
-  - Wang, Junlei
-  - Hu, Guobiao
-  title: Domino-inspired energy harvesting system (DiEHS) with modular interlocking
-    mechanism for reliable self-powered applications
-  journal: Mechanical Systems and Signal Processing
-  volume: '244'
-  issue: NA
-  pages: '113770'
-  doi: 10.1016/j.ymssp.2025.113770
-  Doi: https://doi.org/10.1016/j.ymssp.2025.113770
-  PDF: J121.pdf
+  - Geng Chen
+  - Yawei Wang
+  - Shancheng Tao
+  - Jiawen Xu
+  - Lihua Tang
+  - Junlei Wang
+  - Guobiao Hu
+  - Aidong Deng
+  title: High-performance thermoacoustically driven triboelectric nanogenerator for autonomous wireless monitoring
+  journal: Cell Reports Physical Science
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.xcrp.2026.103214
+  Doi: "https://doi.org/10.1016/j.xcrp.2026.103214"
+  PDF: J132_Chen et al_2026_10.1016j.xcrp.2026.103214.pdf
+  Supplementary_Information: Not available
 
-- index: 120  
-  published: '2026-01-01'
+- index: 131
+  published: 2026-03-25
   authors:
-  - Yu, Dewen
-  - Zhao, Qiangqiang
-  - Wang, Gang
-  - Hu, Guobiao
-  - Xi, Haoxiang
-  - Li, Baiyi
-  - Hong, Jun
-  title: Periodic and aperiodic hierarchical chiral metamaterials for broadband vibration
-    suppression
+  - Hengxu Du
+  - Ziyue Xi
+  - Mengwei Wu
+  - Yan Yang
+  - Yawei Wang
+  - Guobiao Hu
+  - Han Yan
+  - Hongyong Yu
+  - Minyi Xu
+  title: A stretchable optical-fiber-like triboelectric sensor for monitoring large-scale cable structures
+  journal: Device
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.device.2026.101079
+  Doi: "https://doi.org/10.1016/j.device.2026.101079"
+  PDF: J131_Du et al_2026_10.1016j.device.2026.101079.pdf
+  Supplementary_Information: Not available
+
+- index: 130
+  published: 2026-03-23
+  authors:
+  - Chengyun Du
+  - Xiaoning Wang
+  - Yizhou Li
+  - Yawei Wang
+  - Lihua Tang
+  - Yupei Jian
+  - Quanke Su
+  - Guobiao Hu
+  title: Counter-rotating electromagnetic generator with planetary gear amplification for low-frequency wave energy harvesting
+  journal: Applied Physics Letters
+  volume: 128
+  issue: 12
+  pages: Not available
+  doi: 10.1063/5.0316349
+  Doi: "https://pubs.aip.org/aip/apl/article/128/12/123901/3384382/Counter-rotating-electromagnetic-generator-with"
+  PDF: J130_Du et al_2026_10.10635.0316349.pdf
+  Supplementary_Information: Not available
+
+- index: 129
+  published: 2026-03-19
+  authors:
+  - Guobiao Hu
+  - Lihua Tang
+  - Zhilu Lai
+  - Huangxun Chen
+  - Hongwu Jiang
+  - Tengfei Chang
+  - Yunlong Zi
+  title: "Battery-free digital twins: A perspective on self-powered sensing for next-generation cyber-physical systems"
+  journal: Journal of Intelligent Material Systems and Structures
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1177/1045389x261429622
+  Doi: "https://doi.org/10.1177/1045389x261429622"
+  PDF: Not available
+  Supplementary_Information: Not available
+
+- index: 128
+  published: 2026-03-11
+  authors:
+  - Junlei Wang
+  - Tianyang Geng
+  - Xilong Kang
+  - Guobiao Hu
+  title: A High‐Sensitivity Wearable Sensor for Precision Recognition of Human Arm Joint Movements Using CNN
+  journal: Advanced Materials Technologies
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1002/admt.202502063
+  Doi: "https://doi.org/10.1002/admt.202502063"
+  PDF: J128_Wang et al_2026_10.1002admt.202502063.pdf
+  Supplementary_Information: Not available
+
+- index: 127
+  published: 2026-03-11
+  authors:
+  - Yawei Wang
+  - Yaozi Zheng
+  - Yizhou Li
+  - Yi Wu
+  - Hao Tang
+  - Minyi Xu
+  - Quanke Su
+  - Guobiao Hu
+  title: Origami-structured triboelectric nanogenerator for energy and information co-harvesting from a single hand tap
+  journal: Joule
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.joule.2026.102338
+  Doi: "https://doi.org/10.1016/j.joule.2026.102338"
+  PDF: J127_Wang et al_2026_10.1016j.joule.2026.102338.pdf
+  Supplementary_Information: Not available
+
+- index: 126
+  published: 2026-03-10
+  authors:
+  - Yupei Jian
+  - Cuipeng Xia
+  - Weiqun Liu
+  - Yao Wu
+  - Guobiao Hu
+  title: Virtual Local Resonance Enabled by Chirality-Removed Defects in Chiral Metamaterials
+  journal: International Journal of Mechanical Sciences
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.ijmecsci.2026.111499
+  Doi: "https://doi.org/10.1016/j.ijmecsci.2026.111499"
+  PDF: J126_Jian et al_2026_10.1016j.ijmecsci.2026.111499.pdf
+  Supplementary_Information: Not available
+
+- index: 125
+  published: 2026-03-02
+  authors:
+  - Hao Tang
+  - Yawei Wang
+  - Yizhou Li
+  - Guobiao Hu*
+  title: "Cross-Domain Simulation of a Plucking Piezoelectric Energy Harvester: Coupling Dynamics, Power Management, and Application"
+  journal: Journal of Vibration and Acoustics
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1115/1.4071279
+  Doi: "https://asmedigitalcollection.asme.org/vibrationacoustics/article/148/4/041013/1231658/Cross-Domain-Simulation-of-a-Plucking"
+  PDF: J125_Tang et al_2026_10.11151.4071279.pdf
+  Supplementary_Information: Not available
+
+- index: 124
+  published: 2026-02-27
+  authors:
+  - Xin Li
+  - Mianxin Xiao
+  - Xi Shen
+  - Jiaqing Chu
+  - Weifeng Huang
+  - Jiashun Li
+  - Yaoyi Li
+  - Mingjing Cai
+  - Jiaming Chen
+  - Xinming Zhang
+  - Daxing Zhang
+  - Congsi Wang
+  - Hong Tang
+  - Bao Zhao
+  - Qitao Lu
+  - Yilong Wang
+  - Jianjun Wang
+  - Minyi Xu
+  - Shitong Fang
+  - Xuanyu Huang
+  - Chaoyang Zhao
+  - Zicheng Liu
+  - Yaowen Yang
+  - Guobiao Hu
+  - Junrui Liang
+  - Wei-Hsin Liao
+  title: "ViPSN 2.0: A Reconfigurable Battery-free IoT Platform for Vibration Energy Harvesting"
+  journal: IEEE Internet of Things Journal
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1109/jiot.2026.3669060
+  Doi: "https://doi.org/10.1109/jiot.2026.3669060"
+  PDF: J124_Li et al_2026_10.1109jiot.2026.3669060.pdf
+  Supplementary_Information: Not available
+
+- index: 123
+  published: 2026-02-20
+  authors:
+  - Chunbo Lan
+  - Shuo Wang
+  - Xi Chen
+  - Yang Lu
+  - Guobiao Hu*
+  title: Bandgap trade-offs in a nonlinear metamaterial beam with magnetically coupled dual-resonators
+  journal: Journal of Sound and Vibration
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.jsv.2026.119727
+  Doi: "https://doi.org/10.1016/j.jsv.2026.119727"
+  PDF: J123_Lan et al_2026_10.1016j.jsv.2026.119727.pdf
+  Supplementary_Information: Not available
+
+- index: 122
+  published: 2026-02-04
+  authors:
+  - Cuipeng Xia
+  - Lihua Tang
+  - Tianle Meng
+  - Yawei Wang
+  - Huaijun Li
+  - Peilun Yin
+  - Wan Sun
+  - Weiqun Liu
+  - Guobiao Hu
+  - Kean C Aw
+  title: Vortex-Induced Vibration Piezoelectric Energy Harvester with Arch Beam for Multi-directional Operation and Self-Powered Sensing
+  journal: Energy
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.energy.2026.140251
+  Doi: "https://doi.org/10.1016/j.energy.2026.140251"
+  PDF: J122_Xia et al_2026_10.1016j.energy.2026.140251.pdf
+  Supplementary_Information: Not available
+
+- index: 121
+  published: 2026-01-15
+  authors:
+  - Zeye Sun
+  - Yizhou Li
+  - Yihao Li
+  - Chengyun Du
+  - Junlei Wang
+  - Guobiao Hu*
+  title: Domino-inspired energy harvesting system (DiEHS) with modular interlocking mechanism for reliable self-powered applications
   journal: Mechanical Systems and Signal Processing
-  volume: '243'
-  issue: NA
-  pages: '113704'
+  volume: 244
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.ymssp.2025.113770
+  Doi: "https://doi.org/10.1016/j.ymssp.2025.113770"
+  PDF: J121_Sun et al_2026_10.1016j.ymssp.2025.113770.pdf
+  Supplementary_Information: Not available
+
+- index: 120
+  published: 2026-01-15
+  authors:
+  - Dewen Yu
+  - Qiangqiang Zhao
+  - Gang Wang
+  - Guobiao Hu
+  - Haoxiang Xi
+  - Baiyi Li
+  - Jun Hong
+  title: Periodic and aperiodic hierarchical chiral metamaterials for broadband vibration suppression
+  journal: Mechanical Systems and Signal Processing
+  volume: 243
+  issue: Not available
+  pages: Not available
   doi: 10.1016/j.ymssp.2025.113704
-  Doi: https://doi.org/10.1016/j.ymssp.2025.113704
-  PDF: J120.pdf
+  Doi: "https://doi.org/10.1016/j.ymssp.2025.113704"
+  PDF: J120_Yu et al_2026_10.1016j.ymssp.2025.113704.pdf
+  Supplementary_Information: Not available
+
+- index: 119
+  published: 2026-01-08
+  authors:
+  - Jiazhen Zhang
+  - Chaoyang Zhao
+  - Guobiao Hu*
+  - Dewen Yu
+  - Xingbo Pu
+  - Yaowen Yang
+  title: Hierarchical Metamaterial with Auxetic Foams for Low-Frequency Seismic Attenuation
+  journal: International Journal of Mechanical Sciences
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1016/j.ijmecsci.2026.111223
+  Doi: "https://doi.org/10.1016/j.ijmecsci.2026.111223"
+  PDF: J119_Zhang et al_2026_10.1016j.ijmecsci.2026.111223.pdf
+  Supplementary_Information: Not available
+
+- index: 118
+  published: 2026-01-01
+  authors:
+  - Liwei Dong
+  - Chaoyang Zhao
+  - Shuai Qu
+  - Xin Li
+  - Jiashun Li
+  - Guobiao Hu
+  - Chengjia Han
+  - Yu Zhang
+  - Ping Wang
+  - Fan Yang
+  - Zhong Lin Wang
+  - Yaowen Yang
+  title: Multi‐Domain Energy Harvesting with Mode‐Dependent Magneto‐Mechano‐Electric Coupling
+  journal: Advanced Energy Materials
+  volume: Not available
+  issue: Not available
+  pages: Not available
+  doi: 10.1002/aenm.202506114
+  Doi: "https://doi.org/10.1002/aenm.202506114"
+  PDF: J118_Dong et al_2026_10.1002aenm.202506114.pdf
+  Supplementary_Information: Not available
