@@ -1,4 +1,4 @@
-- index: 70
+- index: 72
   published: 2023-11-15
   authors:
   - Dewen Yu
@@ -13,10 +13,10 @@
   pages: Not available
   doi: 10.1016/j.ijmecsci.2023.108590
   Doi: "https://doi.org/10.1016/j.ijmecsci.2023.108590"
-  PDF: J70_Yu et al_2023_10.1016j.ijmecsci.2023.108590.pdf
+  PDF: J72_Yu et al_2023_10.1016j.ijmecsci.2023.108590.pdf
   Supplementary_Information: Not available
 
-- index: 69
+- index: 71
   published: 2023-11-01
   authors:
   - Junlei Wang
@@ -30,10 +30,10 @@
   pages: Not available
   doi: 10.1016/j.jfluidstructs.2023.104004
   Doi: "https://doi.org/10.1016/j.jfluidstructs.2023.104004"
-  PDF: J69_Wang et al_2023_10.1016j.jfluidstructs.2023.104004.pdf
+  PDF: J71_Wang et al_2023_10.1016j.jfluidstructs.2023.104004.pdf
   Supplementary_Information: Not available
 
-- index: 68
+- index: 70
   published: 2023-10-15
   authors:
   - Chaoyang Zhao
@@ -49,10 +49,10 @@
   pages: Not available
   doi: 10.1016/j.apenergy.2023.121530
   Doi: "https://doi.org/10.1016/j.apenergy.2023.121530"
-  PDF: J68_Zhao et al_2023_10.1016j.apenergy.2023.121530.pdf
+  PDF: J70_Zhao et al_2023_10.1016j.apenergy.2023.121530.pdf
   Supplementary_Information: Not available
 
-- index: 67
+- index: 69
   published: 2023-10-01
   authors:
   - Yupei Jian
@@ -68,10 +68,10 @@
   pages: Not available
   doi: 10.1088/1361-665x/acf62f
   Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=6cc09f7f-2861-4772-b18b-af01826a2ec7&ssb=87477251465&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Facf62f&ssi=2ce552c6-cnvj-415b-b396-162e40511857&ssk=botmanager_support@radware.com&ssm=71300364706559571107726155596688&ssn=5c19d0c26584667e4761fd7e2f415f9baf6434b0baf6-8979-4aaf-a41d57&sso=d3a0f4a1-54892a919e3f098ea6dba7762f9f02a001ff4403d44c3349&ssp=77457383691776431321177640974542038&ssq=03739834140701153689341407611501683422248&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDAzNGIwYmFmNi04OTc5LTRhYWYtYTRhMS01NDg5MmE5MTllM2YxLTE3NzY0NDE0MDcyNjYwLTAwM2I3MTUzNDUwMmUzNzM2ZTkxMCIsInV6bXgiOiI3ZjkwMDA5NjZmYmMyNC0wMjJhLTQxMmItODgxOC00OTY5ZGFmNTI1NDMxLTE3NzY0NDE0MDcyNjYwLWExMmIwZTU4NDBjOWJmMWIxMCIsInJkIjoiaW9wLm9yZyJ9"
-  PDF: J67_Jian et al_2023_10.10881361-665xacf62f.pdf
+  PDF: J69_Jian et al_2023_10.10881361-665xacf62f.pdf
   Supplementary_Information: Not available
 
-- index: 66
+- index: 68
   published: 2023-10-01
   authors:
   - Liwei Dong
@@ -87,10 +87,10 @@
   pages: Not available
   doi: 10.1016/j.apenergy.2023.121388
   Doi: "https://doi.org/10.1016/j.apenergy.2023.121388"
-  PDF: J66_Dong et al_2023_10.1016j.apenergy.2023.121388.pdf
+  PDF: J68_Dong et al_2023_10.1016j.apenergy.2023.121388.pdf
   Supplementary_Information: Not available
 
-- index: 65
+- index: 67
   published: 2023-10-01
   authors:
   - Bao Zhao
@@ -106,13 +106,13 @@
   pages: Not available
   doi: 10.1016/j.ymssp.2023.110601
   Doi: "https://doi.org/10.1016/j.ymssp.2023.110601"
-  PDF: J65_Zhao et al_2023_10.1016j.ymssp.2023.110601.pdf
+  PDF: J67_Zhao et al_2023_10.1016j.ymssp.2023.110601.pdf
   Supplementary_Information: Not available
 
-- index: 64
+- index: 66
   published: 2023-09-01
   authors:
-  - Guobiao Hu
+  - "Guobiao Hu*"
   - Lihua Tang
   - Yaowen Yang
   - Dewen Yu
@@ -124,10 +124,10 @@
   pages: Not available
   doi: 10.1088/1361-665x/aceba5
   Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=efe7eaed-9e58-4aac-9224-8cda4503044d&ssb=54240230351&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Faceba5&ssi=3d1a2fda-cnvj-4412-8760-2b8f559bf928&ssk=botmanager_support@radware.com&ssm=73568623594743858102466027497707&ssn=b825eb63956610d85e8db92495ae9c0ed978a570d8fc-668a-44a4-8c2199&sso=8f3252b2-ad60bcbedc80050f550b47d15655ad455f0dcc2d38754476&ssp=45059435221776442016177646877271850&ssq=22369334143104358300741431444169970084121&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBhNTcwZDhmYy02NjhhLTQ0YTQtODJiMi1hZDYwYmNiZWRjODAxLTE3NzY0NDE0MzE4ODAwLTAwM2U5Y2M5YTc3N2Q1ZGE2MWExMCIsInV6bXgiOiI3ZjkwMDBlYjRjMjQyMy00ZGJhLTQyZDctYTNmNy02N2I5OTMzMmY3ZTQxLTE3NzY0NDE0MzE4ODAwLTViY2M2Yzk3MjZiNWM3ZTExMCIsInJkIjoiaW9wLm9yZyJ9"
-  PDF: J64_Hu et al_2023_10.10881361-665xaceba5.pdf
+  PDF: J66_Hu et al_2023_10.10881361-665xaceba5.pdf
   Supplementary_Information: Not available
 
-- index: 63
+- index: 65
   published: 2023-07-13
   authors:
   - Yi Huang
@@ -143,10 +143,10 @@
   pages: Not available
   doi: 10.1088/1361-6463/acc877
   Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=7a2886af-7421-4e15-97ba-36d528aafd34&ssb=33476297948&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-6463%2Facc877&ssi=46744748-cnvj-4cf2-9cca-b34e0c5f5a31&ssk=botmanager_support@radware.com&ssm=73100153581624133100332412334060&ssn=8dcbd62c510add5b9bda99cab64802fabca762e837eb-4b17-454e-938b8e&sso=1be81aa4-b88a75a3a1a01cb4d4a43cdd345e1d05d26e2d6dd2b0cf16&ssp=34654729621776467868177646089028760&ssq=51299594143850161913341438810703388247068&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDA2MmU4MzdlYi00YjE3LTQ1NGUtOWFhNC1iODhhNzVhM2ExYTAxLTE3NzY0NDE0Mzg4MTkwLTAwMzQwNzNjOTM2OTM3MWM3NGExMCIsInV6bXgiOiI3ZjkwMDA1NWY0MzE0Ny03N2RjLTQ5ZGMtOWUwYS03ZGJjZjcyODFmOGIxLTE3NzY0NDE0Mzg4MTkwLTViZDljMzg0ZTgyZDg4ZWYxMCIsInJkIjoiaW9wLm9yZyJ9"
-  PDF: J63_Huang et al_2023_10.10881361-6463acc877.pdf
+  PDF: J65_Huang et al_2023_10.10881361-6463acc877.pdf
   Supplementary_Information: Not available
 
-- index: 62
+- index: 64
   published: 2023-07-01
   authors:
   - Dewen Yu
@@ -161,10 +161,10 @@
   pages: Not available
   doi: 10.1016/j.ast.2023.108330
   Doi: "https://doi.org/10.1016/j.ast.2023.108330"
-  PDF: J62_Yu et al_2023_10.1016j.ast.2023.108330.pdf
+  PDF: J64_Yu et al_2023_10.1016j.ast.2023.108330.pdf
   Supplementary_Information: Not available
 
-- index: 61
+- index: 63
   published: 2023-04-01
   authors:
   - Zicheng Liu
@@ -178,10 +178,10 @@
   pages: Not available
   doi: 10.1016/j.ymssp.2022.109951
   Doi: "https://doi.org/10.1016/j.ymssp.2022.109951"
-  PDF: J61_Liu et al_2023_10.1016j.ymssp.2022.109951.pdf
+  PDF: J63_Liu et al_2023_10.1016j.ymssp.2022.109951.pdf
   Supplementary_Information: Not available
 
-- index: 60
+- index: 62
   published: 2023-03-15
   authors:
   - Junlei Wang
@@ -195,10 +195,10 @@
   pages: Not available
   doi: 10.1016/j.ijmecsci.2022.108016
   Doi: "https://doi.org/10.1016/j.ijmecsci.2022.108016"
-  PDF: J60_Wang et al_2023_10.1016j.ijmecsci.2022.108016.pdf
+  PDF: J62_Wang et al_2023_10.1016j.ijmecsci.2022.108016.pdf
   Supplementary_Information: Not available
 
-- index: 59
+- index: 61
   published: 2023-02-07
   authors:
   - Jiawei Yu
@@ -214,17 +214,17 @@
   pages: Not available
   doi: 10.3390/sym15020445
   Doi: "https://doi.org/10.3390/sym15020445"
-  PDF: J59_Yu et al_2023_10.3390sym15020445.pdf
+  PDF: J61_Yu et al_2023_10.3390sym15020445.pdf
   Supplementary_Information: Not available
 
-- index: 58
+- index: 60
   published: 2023-01-23
   authors:
   - Dewen Yu
   - Guobiao Hu*
   - Zhenkun Guo
   - Jun Hong
-  - Yaowen Yang*
+  - "Yaowen Yang"
   title: Topological interface state formation in an hourglass lattice sandwich meta-structure
   journal: International Journal of Mechanical Sciences
   volume: Not available
@@ -232,10 +232,10 @@
   pages: Not available
   doi: 10.1016/j.ijmecsci.2023.108170
   Doi: "https://doi.org/10.1016/j.ijmecsci.2023.108170"
-  PDF: J58_Yu et al_2023_10.1016j.ijmecsci.2023.108170.pdf
+  PDF: J60_Yu et al_2023_10.1016j.ijmecsci.2023.108170.pdf
   Supplementary_Information: Not available
 
-- index: 57
+- index: 59
   published: 2023-01-15
   authors:
   - Yupei Jian
@@ -251,10 +251,10 @@
   pages: Not available
   doi: 10.1016/j.engstruct.2022.115091
   Doi: "https://doi.org/10.1016/j.engstruct.2022.115091"
-  PDF: J57_Jian et al_2023_10.1016j.engstruct.2022.115091.pdf
+  PDF: J59_Jian et al_2023_10.1016j.engstruct.2022.115091.pdf
   Supplementary_Information: Not available
 
-- index: 56
+- index: 58
   published: 2023-01-01
   authors:
   - Zhenkun Guo
@@ -269,10 +269,10 @@
   pages: Not available
   doi: 10.1115/1.4063443
   Doi: "https://asmedigitalcollection.asme.org/vibrationacoustics/article/145/6/061002/1166812/Widening-the-Band-Gaps-of-Hourglass-Lattice-Truss"
-  PDF: J56_Guo et al_2023_10.11151.4063443.pdf
+  PDF: J58_Guo et al_2023_10.11151.4063443.pdf
   Supplementary_Information: Not available
 
-- index: 55
+- index: 57
   published: 2023-01-01
   authors:
   - Haoyu Wang
@@ -291,5 +291,5 @@
   pages: Not available
   doi: 10.1016/j.nanoen.2022.107982
   Doi: "https://doi.org/10.1016/j.nanoen.2022.107982"
-  PDF: J55_Wang et al_2023_10.1016j.nanoen.2022.107982.pdf
+  PDF: J57_Wang et al_2023_10.1016j.nanoen.2022.107982.pdf
   Supplementary_Information: Not available

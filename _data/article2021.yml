@@ -1,4 +1,4 @@
-- index: 36
+- index: 37
   published: 2021-09-06
   authors:
   - Junlei Wang
@@ -14,17 +14,17 @@
   pages: Not available
   doi: 10.1063/5.0063488
   Doi: "https://doi.org/10.1063/5.0063488"
-  PDF: J36_Wang et al_2021_10.10635.0063488.pdf
+  PDF: J37_Wang et al_2021_10.10635.0063488.pdf
   Supplementary_Information: Not available
 
-- index: 35
+- index: 36
   published: 2021-09-02
   authors:
   - Yongji Gao
   - Guobiao Hu*
   - Bao Zhao
   - Kunyong Lv
-  - Junrui Liang*
+  - "Junrui Liang"
   title: Synchronized switch piezoelectric energy harvesting using rotating magnetic ball and reed switches
   journal: Smart Materials and Structures
   volume: 30
@@ -32,10 +32,10 @@
   pages: Not available
   doi: 10.1088/1361-665x/ac1f62
   Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=55459c31-3297-4f6e-86e7-48785b05a837&ssb=80043296816&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Fac1f62&ssi=e506b4a6-cnvj-4df4-b09c-3cd8a119ff7f&ssk=botmanager_support@radware.com&ssm=43305315791562729106220563731920&ssn=678d07c44920851b621f9416a2ddcd7f25ce6e8eb897-2d02-4eea-a0aefb&sso=390bb0ee-77df245cd8d5a6c545b1aca1c920dba89300f9a3ba939179&ssp=11238524581776497300177642343571347&ssq=91763474203296977436942032948486381758325&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwODAyZWNlODUtNjhkNy00ZTRhLThkOWUtNWY4ZWNlZjhlZDIwMS0xNzc2NDQyMDMyODA3MC02MzI1NTdjY2M3MTY1YjhlMTAiLCJfX3V6bWYiOiI3ZjkwMDA2ZThlYjg5Ny0yZDAyLTRlZWEtYTBlZS03N2RmMjQ1Y2Q4ZDUxLTE3NzY0NDIwMzI4MDcwLTAwMzQ4NWVjNDQwMzYyNjliYWUxMCIsInJkIjoiaW9wLm9yZyJ9"
-  PDF: J35_Gao et al_2021_10.10881361-665xac1f62.pdf
+  PDF: J36_Gao et al_2021_10.10881361-665xac1f62.pdf
   Supplementary_Information: Not available
 
-- index: 34
+- index: 35
   published: 2021-09-01
   authors:
   - Junlei Wang
@@ -52,10 +52,10 @@
   pages: Not available
   doi: 10.1016/j.enconman.2021.114414
   Doi: "https://doi.org/10.1016/j.enconman.2021.114414"
-  PDF: J34_Wang et al_2021_10.1016j.enconman.2021.114414.pdf
+  PDF: J35_Wang et al_2021_10.1016j.enconman.2021.114414.pdf
   Supplementary_Information: Not available
 
-- index: 33
+- index: 34
   published: 2021-09-01
   authors:
   - Zhen-Kun Guo
@@ -70,10 +70,10 @@
   pages: Not available
   doi: 10.1177/1099636220906819
   Doi: "https://doi.org/10.1177/1099636220906819"
-  PDF: J33_Guo et al_2021_10.11771099636220906819.pdf
+  PDF: J34_Guo et al_2021_10.11771099636220906819.pdf
   Supplementary_Information: Not available
 
-- index: 32
+- index: 33
   published: 2021-08-07
   authors:
   - Yupei Jian
@@ -88,10 +88,10 @@
   pages: Not available
   doi: 10.1063/5.0053004
   Doi: "https://doi.org/10.1063/5.0053004"
-  PDF: J32_Jian et al_2021_10.10635.0053004.pdf
+  PDF: J33_Jian et al_2021_10.10635.0053004.pdf
   Supplementary_Information: Not available
 
-- index: 31
+- index: 32
   published: 2021-07-19
   authors:
   - Xin Li
@@ -106,8 +106,27 @@
   pages: Not available
   doi: 10.1109/jiot.2021.3098238
   Doi: "https://doi.org/10.1109/jiot.2021.3098238"
-  PDF: J31_Li et al_2021_10.1109jiot.2021.3098238.pdf
+  PDF: J32_Li et al_2021_10.1109jiot.2021.3098238.pdf
   Supplementary_Information: Not available
+
+- index: 31
+  published: "2021-07-06"
+  authors:
+  - "Guobiao Hu"
+  - "Lihua Tang"
+  - "Junrui Liang"
+  - "Chunbo Lan"
+  - "Raj Das"
+  title: "Acoustic-elastic metamaterials and phononic crystals for energy harvesting: a review"
+  journal: "Smart Materials and Structures"
+  volume: "30"
+  issue: "8"
+  pages: "085025"
+  doi: "10.1088/1361-665x/ac0cbc"
+  Doi: "https://doi.org/10.1088/1361-665x/ac0cbc"
+  date_precision: "day"
+  date_basis: "online publication"
+  source: "https://api.crossref.org/works/10.1088/1361-665x/ac0cbc"
 
 - index: 30
   published: 2021-07-01
@@ -204,7 +223,7 @@
   published: 2021-01-01
   authors:
   - Chunbo Lan
-  - Guobiao Hu
+  - "Guobiao Hu*"
   - Weiyang Qin
   - Yabin Liao
   title: A wind-induced negative damping method to achieve high-energy orbit of a nonlinear vibration energy harvester

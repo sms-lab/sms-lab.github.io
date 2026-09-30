@@ -60,7 +60,7 @@ permalink: /publications/
 </div>
 </div>
 
-### Journal Articles (Upadated on 2026-04-18)
+### Journal Articles (Updated on 2026-09-30)
 
 {% assign year_files = "article2026,article2025,article2024,article2023,article2022,article2021,article2020,article2019,article2018,article2017,article2016" | split: "," %}
 
@@ -73,7 +73,7 @@ permalink: /publications/
 {% for item in sorted_articles %}
 <a name="J{{ item.index }}"></a>
 <p class="pub-entry">
-  <span class="pub-text"><strong>[J{{ item.index }}]</strong> [{{ item.published }}] {% for author in item.authors %}{% if author == "Hu, Guobiao" %}<strong>{{ author }}</strong>{% else %}{{ author }}{% endif %}{% if forloop.last == false %}, {% endif %}{% endfor %}, “{{ item.title }}”, <strong>{{ item.journal }}</strong>. {% if item.Doi %}<a href="{{ item.Doi }}" class="doi-link" target="_blank" rel="noopener noreferrer">[DOI]</a>{% endif %}{% if item.PDF %} <a href="{{ item.PDF | prepend: site.baseurl }}" class="pdf-link" target="_blank" rel="noopener noreferrer">[PDF]</a>{% endif %}{% if item['Supplementary Information'] %} <a href="{{ item['Supplementary Information'] }}" class="si-link" target="_blank" rel="noopener noreferrer">[SI]</a>{% endif %}</span>
+  <span class="pub-text"><strong>[J{{ item.index }}]</strong> [{{ item.published }}] {% for author in item.authors %}{% if author == "Hu, Guobiao" %}<strong>{{ author }}</strong>{% else %}{{ author }}{% endif %}{% if forloop.last == false %}, {% endif %}{% endfor %}, “{{ item.title }}”, <strong>{{ item.journal }}</strong>. {% if item.Doi %}<a href="{{ item.Doi }}" class="doi-link" target="_blank" rel="noopener noreferrer">[DOI]</a>{% endif %}{% if item.PDF and item.PDF != 'Not available' and item.PDF != '' %} <a href="{{ item.PDF | prepend: site.baseurl }}" class="pdf-link" target="_blank" rel="noopener noreferrer">[PDF]</a>{% endif %}{% if item['Supplementary Information'] %} <a href="{{ item['Supplementary Information'] }}" class="si-link" target="_blank" rel="noopener noreferrer">[SI]</a>{% endif %}</span>
   <span class="dim-count">{% if item.doi %}<span class="__dimensions_badge_embed__" data-doi="{{ item.doi }}" data-style="small_rectangle" data-legend="hover-right"></span>{% else %}&nbsp;{% endif %}</span>
 </p>
 {% endfor %}

@@ -16,6 +16,25 @@
   Supplementary_Information: Not available
 
 - index: 21
+  published: "2020-10-05"
+  authors:
+  - "Jiawen Xu"
+  - "Guobiao Hu"
+  - "Lihua Tang"
+  - "Yumin Zhang"
+  - "Ruqiang Yan"
+  title: "Modeling and Analysis of Phononic Crystal With Coupled Lanes for Enhanced Elastic Wave Attenuation"
+  journal: "Journal of Vibration and Acoustics"
+  volume: "143"
+  issue: "2"
+  pages: "021011"
+  doi: "10.1115/1.4048394"
+  Doi: "https://doi.org/10.1115/1.4048394"
+  date_precision: "day"
+  date_basis: "online publication"
+  source: "https://api.crossref.org/works/10.1115/1.4048394"
+
+- index: 20
   published: 2020-09-01
   authors:
   - Guobiao Hu
@@ -31,10 +50,10 @@
   pages: Not available
   doi: 10.1002/er.5878
   Doi: "https://doi.org/10.1002/er.5878"
-  PDF: J21_Hu et al_2020_10.1002er.5878.pdf
+  PDF: J20_Hu et al_2020_10.1002er.5878.pdf
   Supplementary_Information: Not available
 
-- index: 20
+- index: 19
   published: 2020-09-01
   authors:
   - Junlei Wang
@@ -50,10 +69,10 @@
   pages: Not available
   doi: 10.3233/jae-209314
   Doi: "https://doi.org/10.3233/jae-209314"
-  PDF: J20_Wang et al_2020_10.3233jae-209314.pdf
+  PDF: J19_Wang et al_2020_10.3233jae-209314.pdf
   Supplementary_Information: Not available
 
-- index: 19
+- index: 18
   published: 2020-08-01
   authors:
   - Chunbo Lan
@@ -67,10 +86,10 @@
   pages: Not available
   doi: 10.1177/1045389x20930080
   Doi: "https://doi.org/10.1177/1045389x20930080"
-  PDF: J19_Lan et al_2020_10.11771045389x20930080.pdf
+  PDF: J18_Lan et al_2020_10.11771045389x20930080.pdf
   Supplementary_Information: Not available
 
-- index: 18
+- index: 17
   published: 2020-07-01
   authors:
   - Kai Yang
@@ -86,10 +105,10 @@
   pages: Not available
   doi: 10.1088/1361-665x/ab83ce
   Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=6693e39e-a655-45fa-aa93-15bc83a7128d&ssb=87556239069&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Fab83ce&ssi=c8fc2cec-cnvj-47bd-98b4-1be191cef7c7&ssk=botmanager_support@radware.com&ssm=54788891484314851102517840389572&ssn=d10a395a822158944fa3966ab0d485eb50a490b57646-4fe5-4924-8a0d5b&sso=a59ceb47-32ebb171c3ebc53e17f4564844c9803cba8df56d5a7e0c28&ssp=23670054141776410981177644075841219&ssq=83343324222796535282942227347617951791473&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwNTQyMTJlMWUtMDUxZS00YTBlLTkwMTktYjVkOTU4NzQxZTVjMS0xNzc2NDQyMjI3Mzk1MC0zYjU1YTQ1N2IxMjhiNjMyMTAiLCJfX3V6bWYiOiI3ZjkwMDA5MGI1NzY0Ni00ZmU1LTQ5MjQtOGI0Ny0zMmViYjE3MWMzZWIxLTE3NzY0NDIyMjczOTUwLTAwMzZjYjVkMDJhN2I5NDc5OWExMCIsInJkIjoiaW9wLm9yZyJ9"
-  PDF: J18_Yang et al_2020_10.10881361-665xab83ce.pdf
+  PDF: J17_Yang et al_2020_10.10881361-665xab83ce.pdf
   Supplementary_Information: Not available
 
-- index: 17
+- index: 16
   published: 2020-06-01
   authors:
   - Junlei Wang
@@ -109,10 +128,10 @@
   pages: Not available
   doi: 10.1016/j.enconman.2020.112835
   Doi: "https://doi.org/10.1016/j.enconman.2020.112835"
-  PDF: J17_Wang et al_2020_10.1016j.enconman.2020.112835.pdf
+  PDF: J16_Wang et al_2020_10.1016j.enconman.2020.112835.pdf
   Supplementary_Information: Not available
 
-- index: 16
+- index: 15
   published: 2020-05-01
   authors:
   - Junlei Wang
@@ -128,10 +147,10 @@
   pages: Not available
   doi: 10.1002/er.5228
   Doi: "https://doi.org/10.1002/er.5228"
-  PDF: J16_Wang et al_2020_10.1002er.5228.pdf
+  PDF: J15_Wang et al_2020_10.1002er.5228.pdf
   Supplementary_Information: Not available
 
-- index: 15
+- index: 14
   published: 2020-04-01
   authors:
   - Min Zhang
@@ -144,10 +163,10 @@
   pages: Not available
   doi: 10.1002/er.5164
   Doi: "https://doi.org/10.1002/er.5164"
-  PDF: J15_Zhang et al_2020_10.1002er.5164.pdf
+  PDF: J14_Zhang et al_2020_10.1002er.5164.pdf
   Supplementary_Information: Not available
 
-- index: 14
+- index: 13
   published: 2020-02-01
   authors:
   - Guobiao Hu
@@ -162,5 +181,5 @@
   pages: Not available
   doi: 10.1177/1045389x19891575
   Doi: "https://doi.org/10.1177/1045389x19891575"
-  PDF: J14_Hu et al_2020_10.11771045389x19891575.pdf
+  PDF: J13_Hu et al_2020_10.11771045389x19891575.pdf
   Supplementary_Information: Not available

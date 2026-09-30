@@ -1,4 +1,4 @@
-- index: 3
+- index: 2
   published: 2017-02-01
   authors:
   - Guobiao Hu
@@ -13,10 +13,10 @@
   pages: Not available
   doi: 10.1063/1.4977559
   Doi: "https://doi.org/10.1063/1.4977559"
-  PDF: J3_Hu et al_2017_10.10631.4977559.pdf
+  PDF: J2_Hu et al_2017_10.10631.4977559.pdf
   Supplementary_Information: Not available
 
-- index: 2
+- index: 1
   published: 2017-02-01
   authors:
   - Guobiao Hu
@@ -30,21 +30,5 @@
   pages: Not available
   doi: 10.1115/1.4034770
   Doi: "https://doi.org/10.1115/1.4034770"
-  PDF: J2_Hu et al_2017_10.11151.4034770.pdf
-  Supplementary_Information: Not available
-
-- index: 1
-  published: 2017-01-01
-  authors:
-  - Guobiao Hu
-  - Lihua Tang
-  - Raj Das
-  title: An impact-engaged two-degrees-of-freedom piezoelectric energy harvester for wideband operation
-  journal: Procedia engineering
-  volume: 173
-  issue: Not available
-  pages: Not available
-  doi: 10.1016/j.proeng.2016.12.216
-  Doi: "https://doi.org/10.1016/j.proeng.2016.12.216"
-  PDF: J1_Hu et al_2017_10.1016j.proeng.2016.12.216.pdf
+  PDF: J1_Hu et al_2017_10.11151.4034770.pdf
   Supplementary_Information: Not available

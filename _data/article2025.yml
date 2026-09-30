@@ -1,4 +1,4 @@
-- index: 117
+- index: 120
   published: 2025-12-05
   authors:
   - Xin Li
@@ -20,10 +20,10 @@
   pages: Not available
   doi: 10.1109/tmc.2025.3640627
   Doi: "https://doi.org/10.1109/tmc.2025.3640627"
-  PDF: J117_Li et al_2025_10.1109tmc.2025.3640627.pdf
+  PDF: J120_Li et al_2025_10.1109tmc.2025.3640627.pdf
   Supplementary_Information: Not available
 
-- index: 116
+- index: 119
   published: 2025-11-21
   authors:
   - Yaozi Zheng
@@ -38,10 +38,10 @@
   pages: Not available
   doi: 10.1016/j.decarb.2025.100137
   Doi: "https://doi.org/10.1016/j.decarb.2025.100137"
-  PDF: J116_Zheng et al_2025_10.1016j.decarb.2025.100137.pdf
+  PDF: J119_Zheng et al_2025_10.1016j.decarb.2025.100137.pdf
   Supplementary_Information: Not available
 
-- index: 115
+- index: 118
   published: 2025-11-21
   authors:
   - Xin Li
@@ -61,10 +61,10 @@
   pages: Not available
   doi: 10.1016/j.xcrp.2025.102972
   Doi: "https://doi.org/10.1016/j.xcrp.2025.102972"
-  PDF: J115_Li et al_2025_10.1016j.xcrp.2025.102972.pdf
+  PDF: J118_Li et al_2025_10.1016j.xcrp.2025.102972.pdf
   Supplementary_Information: Not available
 
-- index: 114
+- index: 117
   published: 2025-11-17
   authors:
   - Ye Zhang
@@ -79,10 +79,28 @@
   pages: Not available
   doi: 10.1063/5.0308844
   Doi: "https://pubs.aip.org/aip/apl/article/127/20/203904/3373157/Magnetically-enhanced-quasi-zero-stiffness"
-  PDF: J114_Zhang et al_2025_10.10635.0308844.pdf
+  PDF: J117_Zhang et al_2025_10.10635.0308844.pdf
   Supplementary_Information: Not available
 
-- index: 113
+- index: 116
+  published: "2025-11-01"
+  authors:
+  - Tingpeng Zhang
+  - Xuzhang Peng
+  - Mingyuan Zhou
+  - "Guobiao Hu"
+  - Zhilu Lai
+  title: "Mechanical in-sensor computing: a programmable meta-sensor for structural damage classification without external electronic power"
+  journal: "Mechanical Systems and Signal Processing"
+  volume: "240"
+  issue: Not available
+  pages: "113347"
+  doi: 10.1016/j.ymssp.2025.113347
+  Doi: "https://doi.org/10.1016/j.ymssp.2025.113347"
+  PDF: J116_Zhang et al_2025_10.1016j.ymssp.2025.113347.pdf
+  Supplementary_Information: Not available
+
+- index: 115
   published: 2025-10-15
   authors:
   - Junlei Wang
@@ -96,10 +114,31 @@
   pages: Not available
   doi: 10.1016/j.energy.2025.137805
   Doi: "https://doi.org/10.1016/j.energy.2025.137805"
-  PDF: J113_Wang et al_2025_10.1016j.energy.2025.137805.pdf
+  PDF: J115_Wang et al_2025_10.1016j.energy.2025.137805.pdf
   Supplementary_Information: Not available
 
-- index: 112
+- index: 114
+  published: "2025-10-15"
+  authors:
+  - "Dian Li"
+  - "Depeng Su"
+  - "Hao Tang"
+  - "Dewen Yu"
+  - "Liuding Yu"
+  - "Haizhu Zhang"
+  - "Guobiao Hu*"
+  title: "A hardware-centered digital twin framework for real-time monitoring of railway vehicle bogies"
+  journal: "Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science"
+  volume: "239"
+  issue: "24"
+  pages: "10242-10257"
+  doi: "10.1177/09544062251378816"
+  Doi: "https://doi.org/10.1177/09544062251378816"
+  date_precision: "day"
+  date_basis: "online publication"
+  source: "https://api.crossref.org/works/10.1177/09544062251378816"
+
+- index: 113
   published: 2025-10-06
   authors:
   - Zhenkun Guo
@@ -115,10 +154,10 @@
   pages: Not available
   doi: 10.1115/1.4070071
   Doi: "https://asmedigitalcollection.asme.org/vibrationacoustics/article/148/1/011012/1223152/Enhanced-Energy-Harvesting-With-a-Piezoelectric"
-  PDF: J112_Guo et al_2025_10.11151.4070071.pdf
+  PDF: J113_Guo et al_2025_10.11151.4070071.pdf
   Supplementary_Information: Not available
 
-- index: 111
+- index: 112
   published: 2025-09-22
   authors:
   - Ye Zhang
@@ -132,10 +171,10 @@
   pages: Not available
   doi: 10.1109/tmech.2025.3603589
   Doi: "https://doi.org/10.1109/tmech.2025.3603589"
-  PDF: J111_Zhang et al_2025_10.1109tmech.2025.3603589.pdf
+  PDF: J112_Zhang et al_2025_10.1109tmech.2025.3603589.pdf
   Supplementary_Information: Not available
 
-- index: 110
+- index: 111
   published: 2025-09-22
   authors:
   - Xilong Kang
@@ -154,10 +193,10 @@
   pages: Not available
   doi: 10.1016/j.geits.2025.100363
   Doi: "https://doi.org/10.1016/j.geits.2025.100363"
-  PDF: J110_Kang et al_2025_10.1016j.geits.2025.100363.pdf
+  PDF: J111_Kang et al_2025_10.1016j.geits.2025.100363.pdf
   Supplementary_Information: Not available
 
-- index: 109
+- index: 110
   published: 2025-09-18
   authors:
   - Yupei Jian
@@ -173,10 +212,10 @@
   pages: Not available
   doi: 10.1016/j.ijmecsci.2025.110859
   Doi: "https://doi.org/10.1016/j.ijmecsci.2025.110859"
-  PDF: J109_Jian et al_2025_10.1016j.ijmecsci.2025.110859.pdf
+  PDF: J110_Jian et al_2025_10.1016j.ijmecsci.2025.110859.pdf
   Supplementary_Information: Not available
 
-- index: 108
+- index: 109
   published: 2025-08-25
   authors:
   - Yihao Li
@@ -188,7 +227,7 @@
   - Junlei Wang
   - Xin Li
   - Wei-Hsin Liao
-  - Guobiao Hu
+  - "Guobiao Hu*"
   title: "From nature’s deadly strike to safety protection: Mantis shrimp-inspired ultrafast energy transformation for smart surveillance"
   journal: Device
   volume: Not available
@@ -196,10 +235,10 @@
   pages: Not available
   doi: 10.1016/j.device.2025.100903
   Doi: "https://doi.org/10.1016/j.device.2025.100903"
-  PDF: J108_Li et al_2025_10.1016j.device.2025.100903.pdf
+  PDF: J109_Li et al_2025_10.1016j.device.2025.100903.pdf
   Supplementary_Information: Not available
 
-- index: 107
+- index: 108
   published: 2025-08-07
   authors:
   - Chengyun Du
@@ -216,10 +255,10 @@
   pages: Not available
   doi: 10.1115/1.4069337
   Doi: "https://doi.org/10.1115/1.4069337"
-  PDF: J107_Du et al_2025_10.11151.4069337.pdf
+  PDF: J108_Du et al_2025_10.11151.4069337.pdf
   Supplementary_Information: Not available
 
-- index: 106
+- index: 107
   published: 2025-07-22
   authors:
   - Liwei Dong
@@ -237,10 +276,10 @@
   pages: Not available
   doi: 10.1016/j.nanoen.2025.111339
   Doi: "https://doi.org/10.1016/j.nanoen.2025.111339"
-  PDF: J106_Dong et al_2025_10.1016j.nanoen.2025.111339.pdf
+  PDF: J107_Dong et al_2025_10.1016j.nanoen.2025.111339.pdf
   Supplementary_Information: Not available
 
-- index: 105
+- index: 106
   published: 2025-07-15
   authors:
   - Zicheng Liu
@@ -255,10 +294,10 @@
   pages: Not available
   doi: 10.1016/j.ymssp.2025.112916
   Doi: "https://doi.org/10.1016/j.ymssp.2025.112916"
-  PDF: J105_Liu et al_2025_10.1016j.ymssp.2025.112916.pdf
+  PDF: J106_Liu et al_2025_10.1016j.ymssp.2025.112916.pdf
   Supplementary_Information: Not available
 
-- index: 104
+- index: 105
   published: 2025-07-14
   authors:
   - Junlei Wang
@@ -273,10 +312,10 @@
   pages: Not available
   doi: 10.1063/5.0274334
   Doi: "https://doi.org/10.1063/5.0274334"
-  PDF: J104_Wang et al_2025_10.10635.0274334.pdf
+  PDF: J105_Wang et al_2025_10.10635.0274334.pdf
   Supplementary_Information: Not available
 
-- index: 103
+- index: 104
   published: 2025-07-11
   authors:
   - Ziyue Xi
@@ -297,10 +336,10 @@
   pages: Not available
   doi: 10.1016/j.nanoen.2025.111318
   Doi: "https://doi.org/10.1016/j.nanoen.2025.111318"
-  PDF: J103_Xi et al_2025_10.1016j.nanoen.2025.111318.pdf
+  PDF: J104_Xi et al_2025_10.1016j.nanoen.2025.111318.pdf
   Supplementary_Information: Not available
 
-- index: 102
+- index: 103
   published: 2025-07-01
   authors:
   - Zicheng Liu
@@ -317,10 +356,10 @@
   pages: Not available
   doi: 10.1016/j.apenergy.2025.125761
   Doi: "https://doi.org/10.1016/j.apenergy.2025.125761"
-  PDF: J102_Liu et al_2025_10.1016j.apenergy.2025.125761.pdf
+  PDF: J103_Liu et al_2025_10.1016j.apenergy.2025.125761.pdf
   Supplementary_Information: Not available
 
-- index: 101
+- index: 102
   published: 2025-06-01
   authors:
   - Chaoyang Zhao
@@ -338,28 +377,10 @@
   pages: Not available
   doi: 10.1016j.ymssp.2025.112704
   Doi: "https://doi.org/10.1016/j.ymssp.2025.112704"
-  PDF: J101_Zhao et al_2025_10.1016j.ymssp.2025.112704.pdf
+  PDF: J102_Zhao et al_2025_10.1016j.ymssp.2025.112704.pdf
   Supplementary_Information: Not available
 
-- index: 100
-  published: 2025-05-24
-  authors:
-  - Tingpeng Zhang
-  - Xuzhang Peng
-  - Mingyuan Zhou
-  - Guobiao Hu*
-  - Zhilu Lai
-  title: "Mechanical in-sensor computing: a programmable meta-sensor for structural damage classification without external electronic power"
-  journal: "arXiv preprint arXiv:2505.18579"
-  volume: Not available
-  issue: Not available
-  pages: Not available
-  doi: 10.1016/j.ymssp.2025.113347
-  Doi: "https://doi.org/10.1016/j.ymssp.2025.113347"
-  PDF: J100_Zhang et al_2025_10.1016j.ymssp.2025.113347.pdf
-  Supplementary_Information: Not available
-
-- index: 99
+- index: 101
   published: 2025-05-14
   authors:
   - Hao Tang
@@ -375,10 +396,10 @@
   pages: Not available
   doi: 10.1088/1361-665x/add8d4
   Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=06d02254-5ad6-494a-baee-5361466b65bd&ssb=06362249179&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Fadd8d4&ssi=d85ba60c-cnvj-44d0-9fa8-f9d84b696afa&ssk=botmanager_support@radware.com&ssm=55891250682060900109518924981837&ssn=ec48928dd1e1e2b25dc120b653296983c1e93d3b2764-65aa-4826-a2494d&sso=ef56fd5f-c2c2269a3e87d48512f27e99a8e1429fc7d6abba0cad8823&ssp=35856545551776449667177647838020554&ssq=92147214096945764329540969797815461886787&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwYTA4OTgwMzYtYTNiOS00NzA2LWE5Y2YtMzExZWE4M2M0OGQzMS0xNzc2NDQwOTY5MjIyMC1kMmQ4MDZjYmFmZjQ4OWM0MTAiLCJfX3V6bWYiOiI3ZjkwMDAzZDNiMjc2NC02NWFhLTQ4MjYtYWQ1Zi1jMmMyMjY5YTNlODcxLTE3NzY0NDA5NjkyMjIwLTAwMzUzMjQwMjgyZWUwYmUwMzExMCIsInJkIjoiaW9wLm9yZyJ9"
-  PDF: J99_Tang et al_2025_10.10881361-665xadd8d4.pdf
+  PDF: J101_Tang et al_2025_10.10881361-665xadd8d4.pdf
   Supplementary_Information: Not available
 
-- index: 98
+- index: 100
   published: 2025-05-02
   authors:
   - Chunbo Lan
@@ -394,10 +415,10 @@
   pages: Not available
   doi: 10.1088/1361-665x/add3db
   Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=4a217172-8e86-4e09-a779-25c9b07563f3&ssb=86988268225&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Fadd3db&ssi=8f822d56-cnvj-4c87-ad7a-078ee3d73077&ssk=botmanager_support@radware.com&ssm=12153588593556816102680636638882&ssn=0ca063037a82550c6f8bd410412e36ef42964d688fa4-4c9f-4a1b-947367&sso=6cfda53b-3ac9a425dedc9cae5a52d9e0d4fa638b760da50d639a17f0&ssp=56753030651776413026177641945376966&ssq=53718584098722519719640987298948878693225&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwM2I4ZmVjZWEtYzUxNS00YWUwLWIyMzAtNmMzMGNhYzgxZGM5MS0xNzc2NDQwOTg3ODY0MC1jNDM1NDc5MWYxMGFkNDgwMTAiLCJfX3V6bWYiOiI3ZjkwMDA0ZDY4OGZhNC00YzlmLTRhMWItOTUzYi0zYWM5YTQyNWRlZGMxLTE3NzY0NDA5ODc4NjQwLTAwM2VjNDM4YjcxZmVmNzMzYzExMCIsInJkIjoiaW9wLm9yZyJ9"
-  PDF: J98_Lan et al_2025_10.10881361-665xadd3db.pdf
+  PDF: J100_Lan et al_2025_10.10881361-665xadd3db.pdf
   Supplementary_Information: Not available
 
-- index: 97
+- index: 99
   published: 2025-05-01
   authors:
   - Dewen Yu
@@ -413,10 +434,10 @@
   pages: Not available
   doi: 10.1016/j.ymssp.2025.112602
   Doi: "https://doi.org/10.1016/j.ymssp.2025.112602"
-  PDF: J97_Yu et al_2025_10.1016j.ymssp.2025.112602.pdf
+  PDF: J99_Yu et al_2025_10.1016j.ymssp.2025.112602.pdf
   Supplementary_Information: Not available
 
-- index: 96
+- index: 98
   published: 2025-04-28
   authors:
   - Jiazhen Zhang
@@ -430,10 +451,10 @@
   pages: Not available
   doi: 10.1016/j.ijmecsci.2025.110312
   Doi: "https://doi.org/10.1016/j.ijmecsci.2025.110312"
-  PDF: J96_Zhang et al_2025_10.1016j.ijmecsci.2025.110312.pdf
+  PDF: J98_Zhang et al_2025_10.1016j.ijmecsci.2025.110312.pdf
   Supplementary_Information: Not available
 
-- index: 95
+- index: 97
   published: 2025-03-01
   authors:
   - Cuipeng Xia
@@ -450,10 +471,10 @@
   pages: Not available
   doi: 10.1016/j.ymssp.2025.112354
   Doi: "https://doi.org/10.1016/j.ymssp.2025.112354"
-  PDF: J95_Xia et al_2025_10.1016j.ymssp.2025.112354.pdf
+  PDF: J97_Xia et al_2025_10.1016j.ymssp.2025.112354.pdf
   Supplementary_Information: Not available
 
-- index: 94
+- index: 96
   published: 2025-02-15
   authors:
   - Yihao Li
@@ -468,10 +489,10 @@
   pages: Not available
   doi: 10.1016/j.ymssp.2024.112268
   Doi: "https://doi.org/10.1016/j.ymssp.2024.112268"
-  PDF: J94_Li et al_2025_10.1016j.ymssp.2024.112268.pdf
+  PDF: J96_Li et al_2025_10.1016j.ymssp.2024.112268.pdf
   Supplementary_Information: Not available
 
-- index: 93
+- index: 95
   published: 2025-02-06
   authors:
   - Yupei Jian
@@ -487,10 +508,10 @@
   pages: Not available
   doi: 10.1088/1361-665x/adb35e
   Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=d1ab1ce5-c299-4f70-930d-9d4f57e0d967&ssb=50741221266&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Fadb35e&ssi=cff150d4-cnvj-45cc-b892-661545f12af4&ssk=botmanager_support@radware.com&ssm=41016642057538948103828833110479&ssn=289e0233890081a68a87b722ffca3754439d3175d256-565e-40c1-8a5426&sso=6d9ee89a-280e98e389c0236c9bd4fee09ae4de9983ddc19819087bc1&ssp=75005410071776414058177649081723364&ssq=87871694103816159107441038619246035594266&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwZTk5YTQ5NTItZGFhYS00NmY5LWJjODgtYjE2Y2Y0ZGQzMThmMS0xNzc2NDQxMDM4Njk4MC1lNjhmZWIzODU5YTRiMWRlMTAiLCJfX3V6bWYiOiI3ZjkwMDAzMTc1ZDI1Ni01NjVlLTQwYzEtODg5YS0yODBlOThlMzg5YzAxLTE3NzY0NDEwMzg2OTgwLTAwM2ZjYWY3ZDE0NTI0NjJjMmQxMCIsInJkIjoiaW9wLm9yZyJ9"
-  PDF: J93_Jian et al_2025_10.10881361-665xadb35e.pdf
+  PDF: J95_Jian et al_2025_10.10881361-665xadb35e.pdf
   Supplementary_Information: Not available
 
-- index: 92
+- index: 94
   published: 2025-02-01
   authors:
   - Hao Tang
@@ -505,10 +526,10 @@
   pages: Not available
   doi: 10.1088/1361-665x/ada599
   Doi: "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=53fc9596-bc89-481e-8b21-e9502481e2ae&ssb=07682258362&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-665X%2Fada599&ssi=b0daea9c-cnvj-44bf-a77b-d6e8f0005d22&ssk=botmanager_support@radware.com&ssm=63136320869811198104747842657706&ssn=2a60bc6d37bcc8f85873f49cd5137d298287a0d8106e-14d2-43f3-af5840&sso=e1746289-8e16a81166bbb4e212decc531bfefc5c7080b1a459a12b8a&ssp=54702185641776462896177645524126803&ssq=85685494104507652133041045606369859541741&ssr=MTE4LjE0My40MS4yMDA=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/147.0.0.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwMDk0NGFjMGYtNjI3OC00MzNhLWEyMDgtZGYyMzNlNjdjMDVmMS0xNzc2NDQxMDQ1NjU0MC1mNmMxNDMwODNkZGZiMWQzMTAiLCJfX3V6bWYiOiI3ZjkwMDBhMGQ4MTA2ZS0xNGQyLTQzZjMtYTI4OS04ZTE2YTgxMTY2YmIxLTE3NzY0NDEwNDU2NTQwLTAwMzBlM2JjZmJmNDYyYmI5NDMxMCIsInJkIjoiaW9wLm9yZyJ9"
-  PDF: J92_Tang et al_2025_10.10881361-665xada599.pdf
+  PDF: J94_Tang et al_2025_10.10881361-665xada599.pdf
   Supplementary_Information: Not available
 
-- index: 91
+- index: 93
   published: 2025-02-01
   authors:
   - Liwei Dong
@@ -525,10 +546,10 @@
   pages: Not available
   doi: 10.1016/j.ijmecsci.2025.109928
   Doi: "https://doi.org/10.1016/j.ijmecsci.2025.109928"
-  PDF: J91_Dong et al_2025_10.1016j.ijmecsci.2025.109928.pdf
+  PDF: J93_Dong et al_2025_10.1016j.ijmecsci.2025.109928.pdf
   Supplementary_Information: Not available
 
-- index: 90
+- index: 92
   published: 2025-02-01
   authors:
   - Liuding Yu
@@ -541,10 +562,10 @@
   pages: Not available
   doi: 10.1115/1.4067058
   Doi: "https://asmedigitalcollection.asme.org/vibrationacoustics/article/147/1/011001/1207881/Experimental-Investigation-on-the-Chaos-to"
-  PDF: J90_Yu et al_2025_10.11151.4067058.pdf
+  PDF: J92_Yu et al_2025_10.11151.4067058.pdf
   Supplementary_Information: Not available
 
-- index: 89
+- index: 91
   published: 2025-01-13
   authors:
   - Yizhou Li
@@ -563,10 +584,10 @@
   pages: Not available
   doi: 10.1063/5.0244410
   Doi: "https://pubs.aip.org/aip/apl/article/126/2/023902/3330599/Heat-powered-IoT-node-A-synergistic-fusion-of"
-  PDF: J89_Li et al_2025_10.10635.0244410.pdf
+  PDF: J91_Li et al_2025_10.10635.0244410.pdf
   Supplementary_Information: Not available
 
-- index: 88
+- index: 90
   published: 2025-01-01
   authors:
   - Hao Tang
@@ -578,10 +599,10 @@
   pages: Not available
   doi: 10.1177/1045389x251374840
   Doi: "https://doi.org/10.1177/1045389x251374840"
-  PDF: J88_Tang et al_2025_10.11771045389x251374840.pdf
+  PDF: J90_Tang et al_2025_10.11771045389x251374840.pdf
   Supplementary_Information: Not available
 
-- index: 87
+- index: 89
   published: 2025-01-01
   authors:
   - Liwei Dong
@@ -597,5 +618,5 @@
   pages: Not available
   doi: 10.1002/adfm.202414324
   Doi: "https://doi.org/10.1002/adfm.202414324"
-  PDF: J87_Dong et al_2025_10.1002adfm.202414324.pdf
+  PDF: J89_Dong et al_2025_10.1002adfm.202414324.pdf
   Supplementary_Information: Not available

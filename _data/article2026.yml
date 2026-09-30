@@ -1,4 +1,202 @@
-- index: 132
+- index: 144
+  published: "In press"
+  authors:
+  - "D. Su"
+  - "Guobiao Hu*"
+  title: "Leveraging Boundary-Induced Truncation Resonance for Simultaneous Energy Harvesting and Vibration Suppression"
+  journal: "Journal of Vibration and Acoustics - Transactions of ASME"
+  volume: "Not available"
+  issue: "Not available"
+  pages: "Not available"
+  publication_status: "In press"
+  date_precision: "unknown"
+  source: "CV_Guobiao HU_Clean.docx"
+
+- index: 143
+  published: "2026-09-16"
+  authors:
+  - "Yawei Wang"
+  - "Ziyue Xi"
+  - "Yizhou Li"
+  - "Hongfa Zhao"
+  - "Ye Zhang"
+  - "Yaozi Zheng"
+  - "Hengxu Du"
+  - "Hongyong Yu"
+  - "Mengwei Wu"
+  - "Taili Du"
+  - "Minyi Xu"
+  - "Quanke Su"
+  - "Lihua Tang"
+  - "Guobiao Hu*"
+  title: "Rolling-mode triboelectric nanogenerators from energy harvesting to self-powered sensing and beyond"
+  journal: "Cell Reports Physical Science"
+  volume: "7"
+  issue: "9"
+  pages: "103525"
+  doi: "10.1016/j.xcrp.2026.103525"
+  Doi: "https://doi.org/10.1016/j.xcrp.2026.103525"
+  date_precision: "day"
+  date_basis: "publication / issue date"
+  source: "https://www.sciencedirect.com/science/article/pii/S2666386426004315"
+
+- index: 142
+  published: "2026-09-11"
+  authors:
+  - "Hao Tang"
+  - "Weiqun Liu"
+  - "Guobiao Hu*"
+  title: "An Intelligent Piezoelectric System Integrating Self-Sensing and Autonomous Operation for Adaptive Vibration Control"
+  journal: "Advanced Intelligent Systems"
+  volume: "Not available"
+  issue: "Not available"
+  pages: "e70539"
+  doi: "10.1002/aisy.70539"
+  Doi: "https://doi.org/10.1002/aisy.70539"
+  date_precision: "day"
+  date_basis: "online publication"
+  source: "https://api.crossref.org/works/10.1002/aisy.70539"
+
+- index: 141
+  published: "2026-08-21"
+  authors:
+  - "Hongyong Yu"
+  - "Yawei Wang"
+  - "Hengxu Du"
+  - "Ziyue Xi"
+  - "Yizhou Li"
+  - "Yaozi Zheng"
+  - "Jixiang Chen"
+  - "Quanke Su"
+  - "Guobiao Hu*"
+  - "Taili Du"
+  - "Minyi Xu"
+  title: "Unifying energy and information harvesting for high-rate self-powered sensing"
+  journal: "Science Advances"
+  volume: "12"
+  issue: "34"
+  pages: "eaeh0436"
+  doi: "10.1126/sciadv.aeh0436"
+  Doi: "https://doi.org/10.1126/sciadv.aeh0436"
+  date_precision: "day"
+  date_basis: "publication / issue date"
+  source: "https://api.crossref.org/works/10.1126/sciadv.aeh0436"
+
+- index: 140
+  published: "2026-08-06"
+  authors:
+  - "Xinyu Zhang"
+  - "Zeye Sun"
+  - "Yawei Wang"
+  - "Yizhou Li"
+  - "Guobiao Hu"
+  - "Junlei Wang"
+  - "Xianhu Liu"
+  - "Caofeng Pan"
+  title: "Wake-Induced Vibration Enhanced Triboelectric Nanogenerator for Efficient Energy Harvesting From Low-Velocity Water Flows and Self-Powered Sensing"
+  journal: "Advanced Functional Materials"
+  volume: "36"
+  issue: "71"
+  pages: "e77518"
+  doi: "10.1002/adfm.77518"
+  Doi: "https://doi.org/10.1002/adfm.77518"
+  date_precision: "day"
+  date_basis: "online publication"
+  source: "https://api.crossref.org/works/10.1002/adfm.77518"
+
+- index: 139
+  published: "2026-08-05"
+  authors:
+  - "Yizhou Li"
+  - "Ye Zhang"
+  - "Hao Tang"
+  - "Yaozi Zheng"
+  - "Yawei Wang"
+  - "Chaoyang Zhao"
+  - "Liwei Dong"
+  - "Dewen Yu"
+  - "Junlei Wang"
+  - "Chunbo Lan"
+  - "Guobiao Hu*"
+  title: "Sustained Self-Powered Real-Time Vibration Monitoring Through Integrated Nonlinear Harvesting and Energy-Aware Wireless Sensing"
+  journal: "Advanced Science"
+  volume: "Not available"
+  issue: "Not available"
+  pages: "e76967"
+  doi: "10.1002/advs.76967"
+  Doi: "https://doi.org/10.1002/advs.76967"
+  date_precision: "day"
+  date_basis: "online publication"
+  source: "https://api.crossref.org/works/10.1002/advs.76967"
+
+- index: 138
+  published: "2026-08"
+  authors:
+  - "Yizhou Li"
+  - "Yawei Wang"
+  - "Hao Tang"
+  - "Liwei Dong"
+  - "Bo Ning"
+  - "Geng Chen"
+  - "Guobiao Hu*"
+  title: "High-temperature energy harvesting via thermoacoustic-triboelectric hybridization: Design, modelling, and application demonstration"
+  journal: "Nano Energy"
+  volume: "155"
+  issue: "Not available"
+  pages: "112082"
+  doi: "10.1016/j.nanoen.2026.112082"
+  Doi: "https://doi.org/10.1016/j.nanoen.2026.112082"
+  date_precision: "month"
+  date_basis: "publication / issue date"
+  source: "https://api.crossref.org/works/10.1016/j.nanoen.2026.112082"
+
+- index: 137
+  published: "2026-07"
+  authors:
+  - "Chaoyang Zhao"
+  - "Yawei Wang"
+  - "Liwei Dong"
+  - "Guangjian Wang"
+  - "Chengjia Han"
+  - "Guobiao Hu*"
+  - "Yaowen Yang"
+  title: "Compliant mechanism-engineered triboelectric harvester for micro-vibration energy harvesting and wireless sensing"
+  journal: "Nano Energy"
+  volume: "154"
+  issue: "Not available"
+  pages: "112010"
+  doi: "10.1016/j.nanoen.2026.112010"
+  Doi: "https://doi.org/10.1016/j.nanoen.2026.112010"
+  date_precision: "month"
+  date_basis: "publication / issue date"
+  source: "https://api.crossref.org/works/10.1016/j.nanoen.2026.112010"
+
+- index: 136
+  published: "2026-05-15"
+  authors:
+  - "Fuzhen Xing"
+  - "Jingyi Liu"
+  - "Hongyong Yu"
+  - "Yawei Wang"
+  - "Hengxu Du"
+  - "Ziyue Xi"
+  - "Yizhou Li"
+  - "Yaozi Zheng"
+  - "Ye Zhang"
+  - "Guobiao Hu*"
+  - "Minyi Xu"
+  title: "An electromagnetic-triboelectric hybrid harvester for fully self-powered wireless sensing via complementary energy conversion"
+  journal: "Smart Materials and Structures"
+  volume: "35"
+  issue: "5"
+  pages: "055023"
+  doi: "10.1088/1361-665x/ae6958"
+  Doi: "https://doi.org/10.1088/1361-665x/ae6958"
+  date_precision: "day"
+  date_basis: "online publication"
+  source: "https://api.crossref.org/works/10.1088/1361-665x/ae6958"
+
+- index: 135
   published: 2026-03-27
   authors:
   - Geng Chen
@@ -7,7 +205,7 @@
   - Jiawen Xu
   - Lihua Tang
   - Junlei Wang
-  - Guobiao Hu
+  - "Guobiao Hu*"
   - Aidong Deng
   title: High-performance thermoacoustically driven triboelectric nanogenerator for autonomous wireless monitoring
   journal: Cell Reports Physical Science
@@ -16,10 +214,10 @@
   pages: Not available
   doi: 10.1016/j.xcrp.2026.103214
   Doi: "https://doi.org/10.1016/j.xcrp.2026.103214"
-  PDF: J132_Chen et al_2026_10.1016j.xcrp.2026.103214.pdf
+  PDF: J135_Chen et al_2026_10.1016j.xcrp.2026.103214.pdf
   Supplementary_Information: Not available
 
-- index: 131
+- index: 134
   published: 2026-03-25
   authors:
   - Hengxu Du
@@ -38,10 +236,10 @@
   pages: Not available
   doi: 10.1016/j.device.2026.101079
   Doi: "https://doi.org/10.1016/j.device.2026.101079"
-  PDF: J131_Du et al_2026_10.1016j.device.2026.101079.pdf
+  PDF: J134_Du et al_2026_10.1016j.device.2026.101079.pdf
   Supplementary_Information: Not available
 
-- index: 130
+- index: 133
   published: 2026-03-23
   authors:
   - Chengyun Du
@@ -51,7 +249,7 @@
   - Lihua Tang
   - Yupei Jian
   - Quanke Su
-  - Guobiao Hu
+  - "Guobiao Hu*"
   title: Counter-rotating electromagnetic generator with planetary gear amplification for low-frequency wave energy harvesting
   journal: Applied Physics Letters
   volume: 128
@@ -59,13 +257,13 @@
   pages: Not available
   doi: 10.1063/5.0316349
   Doi: "https://pubs.aip.org/aip/apl/article/128/12/123901/3384382/Counter-rotating-electromagnetic-generator-with"
-  PDF: J130_Du et al_2026_10.10635.0316349.pdf
+  PDF: J133_Du et al_2026_10.10635.0316349.pdf
   Supplementary_Information: Not available
 
-- index: 129
+- index: 132
   published: 2026-03-19
   authors:
-  - Guobiao Hu
+  - "Guobiao Hu*"
   - Lihua Tang
   - Zhilu Lai
   - Huangxun Chen
@@ -82,13 +280,13 @@
   PDF: Not available
   Supplementary_Information: Not available
 
-- index: 128
+- index: 131
   published: 2026-03-11
   authors:
   - Junlei Wang
   - Tianyang Geng
   - Xilong Kang
-  - Guobiao Hu
+  - "Guobiao Hu*"
   title: A High‐Sensitivity Wearable Sensor for Precision Recognition of Human Arm Joint Movements Using CNN
   journal: Advanced Materials Technologies
   volume: Not available
@@ -96,10 +294,10 @@
   pages: Not available
   doi: 10.1002/admt.202502063
   Doi: "https://doi.org/10.1002/admt.202502063"
-  PDF: J128_Wang et al_2026_10.1002admt.202502063.pdf
+  PDF: J131_Wang et al_2026_10.1002admt.202502063.pdf
   Supplementary_Information: Not available
 
-- index: 127
+- index: 130
   published: 2026-03-11
   authors:
   - Yawei Wang
@@ -109,7 +307,7 @@
   - Hao Tang
   - Minyi Xu
   - Quanke Su
-  - Guobiao Hu
+  - "Guobiao Hu*"
   title: Origami-structured triboelectric nanogenerator for energy and information co-harvesting from a single hand tap
   journal: Joule
   volume: Not available
@@ -117,10 +315,10 @@
   pages: Not available
   doi: 10.1016/j.joule.2026.102338
   Doi: "https://doi.org/10.1016/j.joule.2026.102338"
-  PDF: J127_Wang et al_2026_10.1016j.joule.2026.102338.pdf
+  PDF: J130_Wang et al_2026_10.1016j.joule.2026.102338.pdf
   Supplementary_Information: Not available
 
-- index: 126
+- index: 129
   published: 2026-03-10
   authors:
   - Yupei Jian
@@ -135,10 +333,10 @@
   pages: Not available
   doi: 10.1016/j.ijmecsci.2026.111499
   Doi: "https://doi.org/10.1016/j.ijmecsci.2026.111499"
-  PDF: J126_Jian et al_2026_10.1016j.ijmecsci.2026.111499.pdf
+  PDF: J129_Jian et al_2026_10.1016j.ijmecsci.2026.111499.pdf
   Supplementary_Information: Not available
 
-- index: 125
+- index: 128
   published: 2026-03-02
   authors:
   - Hao Tang
@@ -152,10 +350,10 @@
   pages: Not available
   doi: 10.1115/1.4071279
   Doi: "https://asmedigitalcollection.asme.org/vibrationacoustics/article/148/4/041013/1231658/Cross-Domain-Simulation-of-a-Plucking"
-  PDF: J125_Tang et al_2026_10.11151.4071279.pdf
+  PDF: J128_Tang et al_2026_10.11151.4071279.pdf
   Supplementary_Information: Not available
 
-- index: 124
+- index: 127
   published: 2026-02-27
   authors:
   - Xin Li
@@ -191,10 +389,10 @@
   pages: Not available
   doi: 10.1109/jiot.2026.3669060
   Doi: "https://doi.org/10.1109/jiot.2026.3669060"
-  PDF: J124_Li et al_2026_10.1109jiot.2026.3669060.pdf
+  PDF: J127_Li et al_2026_10.1109jiot.2026.3669060.pdf
   Supplementary_Information: Not available
 
-- index: 123
+- index: 126
   published: 2026-02-20
   authors:
   - Chunbo Lan
@@ -209,10 +407,10 @@
   pages: Not available
   doi: 10.1016/j.jsv.2026.119727
   Doi: "https://doi.org/10.1016/j.jsv.2026.119727"
-  PDF: J123_Lan et al_2026_10.1016j.jsv.2026.119727.pdf
+  PDF: J126_Lan et al_2026_10.1016j.jsv.2026.119727.pdf
   Supplementary_Information: Not available
 
-- index: 122
+- index: 125
   published: 2026-02-04
   authors:
   - Cuipeng Xia
@@ -232,10 +430,10 @@
   pages: Not available
   doi: 10.1016/j.energy.2026.140251
   Doi: "https://doi.org/10.1016/j.energy.2026.140251"
-  PDF: J122_Xia et al_2026_10.1016j.energy.2026.140251.pdf
+  PDF: J125_Xia et al_2026_10.1016j.energy.2026.140251.pdf
   Supplementary_Information: Not available
 
-- index: 121
+- index: 124
   published: 2026-01-15
   authors:
   - Zeye Sun
@@ -251,10 +449,10 @@
   pages: Not available
   doi: 10.1016/j.ymssp.2025.113770
   Doi: "https://doi.org/10.1016/j.ymssp.2025.113770"
-  PDF: J121_Sun et al_2026_10.1016j.ymssp.2025.113770.pdf
+  PDF: J124_Sun et al_2026_10.1016j.ymssp.2025.113770.pdf
   Supplementary_Information: Not available
 
-- index: 120
+- index: 123
   published: 2026-01-15
   authors:
   - Dewen Yu
@@ -271,10 +469,10 @@
   pages: Not available
   doi: 10.1016/j.ymssp.2025.113704
   Doi: "https://doi.org/10.1016/j.ymssp.2025.113704"
-  PDF: J120_Yu et al_2026_10.1016j.ymssp.2025.113704.pdf
+  PDF: J123_Yu et al_2026_10.1016j.ymssp.2025.113704.pdf
   Supplementary_Information: Not available
 
-- index: 119
+- index: 122
   published: 2026-01-08
   authors:
   - Jiazhen Zhang
@@ -290,10 +488,10 @@
   pages: Not available
   doi: 10.1016/j.ijmecsci.2026.111223
   Doi: "https://doi.org/10.1016/j.ijmecsci.2026.111223"
-  PDF: J119_Zhang et al_2026_10.1016j.ijmecsci.2026.111223.pdf
+  PDF: J122_Zhang et al_2026_10.1016j.ijmecsci.2026.111223.pdf
   Supplementary_Information: Not available
 
-- index: 118
+- index: 121
   published: 2026-01-01
   authors:
   - Liwei Dong
@@ -315,5 +513,5 @@
   pages: Not available
   doi: 10.1002/aenm.202506114
   Doi: "https://doi.org/10.1002/aenm.202506114"
-  PDF: J118_Dong et al_2026_10.1002aenm.202506114.pdf
+  PDF: J121_Dong et al_2026_10.1002aenm.202506114.pdf
   Supplementary_Information: Not available
