@@ -65,3 +65,10 @@ exclude:
   - switch_theme.sh
   - tags
   - Rakefile
+
+  # Keep full-resolution source images in Git, but omit unused copies from the built site.
+  - images/vibration_original.png
+  - images/vibration.png
+  - images/Featured IMAGE-1-NC.jpg
+  - images/Featured IMAGE-2-Device.jpg
+  - images/Featured IMAGE-3-Joule.jpg

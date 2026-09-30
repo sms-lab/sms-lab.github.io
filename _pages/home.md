@@ -63,12 +63,17 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url('{{ site.url }}{{ site.baseurl }}/images/vibration.png');
+  background-image: url('{{ site.url }}{{ site.baseurl }}/images/vibration.webp');
   background-size: cover;
   background-position: center;
   background-attachment: scroll;
   color: #ffffff;
   overflow: hidden;
+}
+@media (max-width: 767px) {
+  .page-hero {
+    background-image: url('{{ '/images/vibration-small.webp' | relative_url }}');
+  }
 }
 .page-hero::before {
   content: '';
@@ -670,19 +675,19 @@ body > .container-fluid {
 
 <article class="fc-slide">
 <h5><strong>Rolling Mode TENG for Ocean Wave Energy Harvesting</strong> published in <strong><i>Nature Communications, 2024, 15, 6834.</i></strong></h5>
-<img src="{{ '/images/Featured IMAGE-1-NC.jpg' | relative_url }}" class="fc-img" alt="Featured work 1 image">
+<img src="{{ '/images/featured-nc.webp' | relative_url }}" srcset="{{ '/images/featured-nc-small.webp' | relative_url }} 960w, {{ '/images/featured-nc.webp' | relative_url }} 1920w" sizes="(max-width: 1409px) 88vw, 1240px" width="1920" height="1080" loading="lazy" decoding="async" class="fc-img" alt="Featured work 1 image">
 </article>
 
 <article class="fc-slide">
 <h5><strong>Mantis Shrimp-inspired Ultrafast Energy Transformation for Smart Surveillance</strong> published in <strong><i>Device, 2025, 100903.</i></strong></h5>
 <h5><strong>Selected as Front Cover</strong></h5>
-<img src="{{ '/images/Featured IMAGE-2-Device.jpg' | relative_url }}" class="fc-img" alt="Featured work 2 image">
+<img src="{{ '/images/featured-device.webp' | relative_url }}" srcset="{{ '/images/featured-device-small.webp' | relative_url }} 960w, {{ '/images/featured-device.webp' | relative_url }} 1920w" sizes="(max-width: 1409px) 88vw, 1240px" width="1920" height="996" loading="lazy" decoding="async" class="fc-img" alt="Featured work 2 image">
 </article>
 
 <article class="fc-slide">
 <h5><strong>Origami-TENG for Energy and Information Co-Harvesting</strong> published in <strong><i>Joule, 2026, 10(5), 102338.</i></strong></h5>
 <h5><strong>Selected as Front Cover</strong></h5>
-<img src="{{ '/images/Featured IMAGE-3-Joule.jpg' | relative_url }}" class="fc-img" alt="Featured work 3 image">
+<img src="{{ '/images/featured-joule.webp' | relative_url }}" srcset="{{ '/images/featured-joule-small.webp' | relative_url }} 960w, {{ '/images/featured-joule.webp' | relative_url }} 1920w" sizes="(max-width: 1409px) 88vw, 1240px" width="1920" height="1015" loading="lazy" decoding="async" class="fc-img" alt="Featured work 3 image">
 </article>
 
 </div>
