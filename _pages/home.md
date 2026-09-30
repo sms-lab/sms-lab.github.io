@@ -660,8 +660,8 @@ body > .container-fluid {
 <div class="page-hero">
 <div class="page-hero-inner">
 <h1 class="page-hero-title">This is Smart Materials & Systems Lab</h1>
-<p class="page-hero-copy">Using advanced energy harvesting and sensor-integrated materials, we build research platforms that look premium and communicate a strong technical identity.</p>
-<p class="page-hero-note">Join us in advancing sustainable energy and smart sensors.</p>
+<p class="page-hero-copy">We advance battery-free IoT by integrating intelligent materials and structures, ambient energy harvesting, low-power sensing, and wireless communication.</p>
+<p class="page-hero-note">JOIN US IN BUILDING A CONNECTED WORLD POWERED BY AMBIENT ENERGY.</p>
 </div>
 </div>
 
