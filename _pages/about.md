@@ -50,6 +50,58 @@ Dr. Guobiao Hu has published over 150 peer-reviewed journal and conference paper
   </ul>
 </div>
 
+<style>
+#special-issues .editorial-list { list-style: none; padding: 0; margin: 0; }
+#special-issues .editorial-list > li { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; padding: 15px 0; border-bottom: 1px solid #dce3eb; }
+#special-issues .editorial-list > li:last-child { border-bottom: 0; padding-bottom: 0; }
+#special-issues .editorial-details { flex: 1 1 280px; }
+#special-issues .editorial-role { display: block; margin-top: 4px; color: #526174; font-size: 0.95rem; }
+#special-issues .editorial-links { display: flex; flex-wrap: wrap; gap: 8px; }
+#special-issues .special-issue-link { display: inline-flex; align-items: center; gap: 8px; padding: 8px 13px; border: 1px solid #0056b3; border-radius: 5px; background: #0056b3; color: #fff; font-weight: 600; font-size: 0.9rem; line-height: 1.4; text-decoration: none; }
+#special-issues .special-issue-link:hover { background: #003d80; border-color: #003d80; color: #fff; text-decoration: underline; }
+#special-issues .special-issue-link:focus-visible { outline: 3px solid #0056b3; outline-offset: 3px; }
+</style>
+<div class="jumbotron" id="special-issues">
+  <h4>Guest Editorships &amp; Special Issues</h4>
+  <ul class="editorial-list">
+    <li>
+      <div class="editorial-details"><strong>Journal of Physics D: Applied Physics</strong><span class="editorial-role">Guest Editor (2022&ndash;present)</span></div>
+      <div class="editorial-links">
+        <a class="special-issue-link" href="https://iopscience.iop.org/collections/jpd-260922-1247" target="_blank" rel="noopener noreferrer" aria-label="Journal of Physics D: Applied Physics: View special issue">View special issue <span aria-hidden="true">&#8599;</span></a>
+        <a class="special-issue-link" href="https://iopscience.iop.org/collections/0022-3727_adaptive-structures-intelligent-material" target="_blank" rel="noopener noreferrer" aria-label="Journal of Physics D: Applied Physics: Earlier special issue">Earlier special issue <span aria-hidden="true">&#8599;</span></a>
+      </div>
+    </li>
+    <li>
+      <div class="editorial-details"><strong>Beilstein Journal of Nanotechnology</strong><span class="editorial-role">Guest Editor (2026&ndash;2027)</span></div>
+      <div class="editorial-links">
+        <a class="special-issue-link" href="https://www.beilstein-journals.org/bjnano/series/138" target="_blank" rel="noopener noreferrer" aria-label="Beilstein Journal of Nanotechnology: View special issue">View special issue <span aria-hidden="true">&#8599;</span></a>
+      </div>
+    </li>
+    <li>
+      <div class="editorial-details"><strong>Micromachines</strong><span class="editorial-role">Guest Editor (2022&ndash;present)</span></div>
+      <div class="editorial-links">
+        <a class="special-issue-link" href="https://www.mdpi.com/journal/micromachines/special_issues/8460C32Z5I" target="_blank" rel="noopener noreferrer" aria-label="Micromachines: View special issue">View special issue <span aria-hidden="true">&#8599;</span></a>
+        <a class="special-issue-link" href="https://www.mdpi.com/journal/micromachines/special_issues/9Y03617NK9" target="_blank" rel="noopener noreferrer" aria-label="Micromachines: Earlier special issue">Earlier special issue <span aria-hidden="true">&#8599;</span></a>
+      </div>
+    </li>
+    <li>
+      <div class="editorial-details"><strong>Symmetry</strong><span class="editorial-role">Guest Editor (2021&ndash;2022)</span></div>
+      <div class="editorial-links">
+        <a class="special-issue-link" href="https://www.mdpi.com/journal/symmetry/special_issues/Energy_Harvesting_Metamaterials" target="_blank" rel="noopener noreferrer" aria-label="Symmetry: View special issue">View special issue <span aria-hidden="true">&#8599;</span></a>
+      </div>
+    </li>
+    <li>
+      <div class="editorial-details"><strong>ASCE Journal of Environmental Engineering</strong><span class="editorial-role">Guest Editor (2022&ndash;2023)</span></div>
+      <div class="editorial-links">
+        <a class="special-issue-link" href="https://ascelibrary.org/joeedu/energy-recovery-environment" target="_blank" rel="noopener noreferrer" aria-label="ASCE Journal of Environmental Engineering: View special issue">View special issue <span aria-hidden="true">&#8599;</span></a>
+      </div>
+    </li>
+    <li>
+      <div class="editorial-details"><strong>Journal of Intelligent Material Systems and Structures</strong><span class="editorial-role">Guest Editor (2024&ndash;2025)</span></div>
+    </li>
+  </ul>
+</div>
+
 <div class="jumbotron">
   <h4>Education</h4>
   <ul>
